@@ -30,4 +30,12 @@
 | www 域名 | PASS | `https://www.lenmo.top/` 返回 HTTP 200 |
 | 静态入口 | PASS | `favicon.svg`、`robots.txt`、`sitemap.xml` 均返回 HTTP 200 |
 
-本次部署为直接服务器发布；Git 远程仓库未配置，因此未执行 Git push 或 GitHub Pages 发布。
+## GitHub Pages 验收（2026-11-18）
+
+| 检查 | 结果 | 证据 |
+| --- | --- | --- |
+| GitHub 仓库 | PASS | `yuchen0x1/yuchen0x1.github.io` 的 `main` 分支已推送 |
+| Actions 构建 | PASS | workflow run `44151015028` 的 build job 成功 |
+| Pages 发布 | PASS | 同一 run 的 deploy job 成功，Pages 状态为 `built` |
+| 首页 | PASS | `https://yuchen0x1.github.io/` 返回 HTTP 200 |
+| 根路径资源 | PASS | `assets/*.js`、`assets/*.css`、`favicon.svg` 均返回 HTTP 200，内容类型正确 |

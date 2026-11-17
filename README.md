@@ -29,7 +29,7 @@ node scripts/collect.mjs
 
 采集器只访问固定的 GitHub 公开接口，支持 `GITHUB_TOKEN` / `GH_TOKEN` 提升速率额度。Token 只从环境变量读取，私有 ETag 缓存在被忽略的 `.cache/` 中，不会写入页面、快照或日志。
 
-`.github/workflows/collect.yml` 每小时在第 17 分和第 47 分运行一次，只提交两个快照文件；`.github/workflows/pages.yml` 构建 `dist/` 并部署 GitHub Pages。仓库路径部署时会自动设置 `BASE_PATH`，应用的数据和 favicon 也会跟随该路径。
+`.github/workflows/collect.yml` 每小时在第 17 分和第 47 分运行一次，只提交两个快照文件；`.github/workflows/pages.yml` 构建 `dist/` 并部署 GitHub Pages。当前用户站点从域名根路径构建，应用的数据和 favicon 会跟随根路径。
 
 ## 可选代理
 
@@ -50,4 +50,4 @@ node examples/proxy/server.mjs
 - `examples/proxy/`：固定上游代理示例
 - `.github/workflows/`：快照刷新和 Pages 构建工作流
 
-当前分支已完成本地构建，并直接部署到 `https://lenmo.top/`。远程发布使用服务器上的 Nginx 静态站点配置；Git 远程仓库仍未配置，因此本次没有执行 Git 推送或 GitHub Release 发布。
+当前版本已直接部署到 `https://lenmo.top/`，并推送到 [yuchen0x1/yuchen0x1.github.io](https://github.com/yuchen0x1/yuchen0x1.github.io)，GitHub Pages 地址为 `https://yuchen0x1.github.io/`。
