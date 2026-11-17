@@ -26,7 +26,8 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          BASE_PATH: /${{ github.event.repository.name }}/
+          # A user site (owner.github.io) is served from the domain root.
+          BASE_PATH: /
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
