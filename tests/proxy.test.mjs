@@ -1,0 +1,37 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createProxyServer, hasAllowedQuery, isAllowedMethod, isAllowedPath} from '../examples/proxy/server.mjs';
+
+test('proxy only accepts read methods', () => {
+  assert.equal(isAllowedMethod('GET'), true);
+  assert.equal(isAllowedMethod('OPTIONS'), true);
+  assert.equal(isAllowedMethod('POST'), false);
+  assert.equal(isAllowedMethod('DELETE'), false);
+});
+
+test('proxy allowlists fixed yuchen0x1 GitHub routes', () => {
+  assert.equal(isAllowedPath('/users/yuchen0x1'), true);
+  assert.equal(isAllowedPath('/users/yuchen0x1/repos'), true);
+  assert.equal(isAllowedPath('/repos/yuchen0x1/aa-browser/readme'), true);
+  assert.equal(isAllowedPath('/repos/other-user/private-repo/readme'), false);
+  assert.equal(isAllowedPath('/search/code?q=token'), false);
+});
+
+test('proxy rejects arbitrary query keys', () => {
+  assert.equal(hasAllowedQuery(new URL('http://localhost/?page=1&per_page=100').searchParams), true);
+  assert.equal(hasAllowedQuery(new URL('http://localhost/?q=secrets').searchParams), false);
+});
+
+test('proxy rejects disallowed HTTP requests before contacting GitHub', async () => {
+  let upstreamCalls = 0;
+  const server = createProxyServer({fetchImpl: async () => { upstreamCalls += 1; return Response.json({}); }});
+  await new Promise((resolve) => server.listen(0, '127.0.0.1', resolve));
+  const address = server.address();
+  const origin = `http://127.0.0.1:${address.port}`;
+  const disallowed = await fetch(`${origin}/search/code?q=token`);
+  const method = await fetch(`${origin}/users/yuchen0x1`, {method:'POST'});
+  assert.equal(disallowed.status, 404);
+  assert.equal(method.status, 405);
+  assert.equal(upstreamCalls, 0);
+  await new Promise((resolve) => server.close(resolve));
+});

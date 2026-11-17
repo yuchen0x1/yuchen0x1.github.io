@@ -1,0 +1,2444 @@
+{
+  "schemaVersion": 1,
+  "username": "yuchen0x1",
+  "generatedAt": "2026-11-17T18:11:12.895Z",
+  "lastSuccessfulAt": "2026-11-17T18:11:12.895Z",
+  "profile": {
+    "login": "yuchen0x1",
+    "name": "冷漠不是神",
+    "avatar": "https://avatars.githubusercontent.com/u/261203860?v=4",
+    "url": "https://github.com/yuchen0x1",
+    "followers": 15,
+    "publicRepos": 29
+  },
+  "repos": [
+    {
+      "id": 1461537564,
+      "name": "SubtitleFlow",
+      "fullName": "yuchen0x1/SubtitleFlow",
+      "description": "Chrome/Edge browser extension for real-time subtitle capture, local Whisper ASR, and bilingual translation",
+      "url": "https://github.com/yuchen0x1/SubtitleFlow",
+      "language": "TypeScript",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-17T14:38:59.000Z",
+      "updatedAt": "2026-11-17T14:39:41.000Z",
+      "pushedAt": "2026-11-17T14:43:45.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 1,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1457793236,
+      "name": "apkstart",
+      "fullName": "yuchen0x1/apkstart",
+      "description": "Windows 安卓应用运行器（ApkStart 增强分支）：双击 APK 即装 · 应用独立窗口运行 · 内置在线自动更新 · 代理加速下载 · ARM 兼容",
+      "url": "https://github.com/yuchen0x1/apkstart",
+      "language": "JavaScript",
+      "topics": [
+        "android",
+        "android-emulator",
+        "aosp",
+        "apk",
+        "apk-installer",
+        "apk-runner",
+        "apkstart",
+        "electron",
+        "open-source",
+        "windows",
+        "windows-app"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-14T13:42:26.000Z",
+      "updatedAt": "2026-11-17T13:57:18.000Z",
+      "pushedAt": "2026-11-17T17:47:36.000Z",
+      "stars": 33,
+      "forks": 3,
+      "issues": 1,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1444957212,
+      "name": "HongGuo-PC",
+      "fullName": "yuchen0x1/HongGuo-PC",
+      "description": "红果短剧 Windows / Mac 桌面端：搜索、播放、下载、追剧与合并导出，在一个应用里完成。基于 Electron 44 + React 构建，支持多源解析与本地播放队列，提供追剧清单、断点续看与批量下载管理。提供 Windows x64 与 macOS 安装包，GPL-3.0 二次开发版发布。",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC",
+      "language": "JavaScript",
+      "topics": [
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "electron-builder",
+        "hongguo",
+        "hongguo-pc",
+        "macos",
+        "react",
+        "short-drama",
+        "short-video",
+        "video-downloader",
+        "video-player",
+        "vite",
+        "windows"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-03T23:49:15.000Z",
+      "updatedAt": "2026-11-17T02:05:43.000Z",
+      "pushedAt": "2026-11-17T04:20:04.000Z",
+      "stars": 5,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1460179440,
+      "name": "GFPGAN",
+      "fullName": "yuchen0x1/GFPGAN",
+      "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+      "url": "https://github.com/yuchen0x1/GFPGAN",
+      "language": "Python",
+      "topics": [],
+      "fork": true,
+      "archived": false,
+      "createdAt": "2026-11-16T15:08:39.000Z",
+      "updatedAt": "2026-11-17T00:35:33.000Z",
+      "pushedAt": "2026-11-17T17:45:38.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "master"
+    },
+    {
+      "id": 1460194104,
+      "name": "themes",
+      "fullName": "yuchen0x1/themes",
+      "description": "Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.",
+      "url": "https://github.com/yuchen0x1/themes",
+      "language": "TypeScript",
+      "topics": [],
+      "fork": true,
+      "archived": false,
+      "createdAt": "2026-11-16T15:21:07.000Z",
+      "updatedAt": "2026-11-16T17:17:04.000Z",
+      "pushedAt": "2026-11-17T00:59:02.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1443461962,
+      "name": "Xianyu-Assistant",
+      "fullName": "yuchen0x1/Xianyu-Assistant",
+      "description": "闲鱼卖家运营控制台（原「闲鱼自动发货助手」）— 部署在自己电脑或服务器上的卖家运营工具。把账号连接、商品资料、消息处理、自动回复、自动发货、卡密库存、任务调度、Webhook、数据备份与运行监控集中到一个控制台，支持同时管理多个账号。核心数据默认保存在本地 SQLite，不依赖第三方业务服务器；AI 能力、邮件、代理池等均可选接入。后端 Spring Boot + Java，前端 Vue 3。仅提供网页版，电脑和手机均通过浏览器访问。Apache-2.0 协议。",
+      "url": "https://github.com/yuchen0x1/Xianyu-Assistant",
+      "language": "Java",
+      "topics": [
+        "android",
+        "auto-delivery",
+        "auto-reply",
+        "automation",
+        "docker",
+        "ecommerce",
+        "flutter",
+        "inventory",
+        "ios",
+        "java",
+        "mysql",
+        "open-source",
+        "seller-console",
+        "spring-boot",
+        "vue",
+        "webhook",
+        "xianyu",
+        "xianyu-assistant"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-02T20:39:39.000Z",
+      "updatedAt": "2026-11-16T03:32:10.000Z",
+      "pushedAt": "2026-11-17T04:14:20.000Z",
+      "stars": 2,
+      "forks": 0,
+      "issues": 5,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1450774425,
+      "name": "GitHub-Achievement-Hub",
+      "fullName": "yuchen0x1/GitHub-Achievement-Hub",
+      "description": "GitHub 个人成就勋章百科与获取指南平台：收录 Profile Achievements、获取条件、等级门槛、可信来源，并提供收藏、进度追踪、GitHub 资料查询与 Web、桌面端、移动端体验。",
+      "url": "https://github.com/yuchen0x1/GitHub-Achievement-Hub",
+      "language": "TypeScript",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-09T00:14:44.000Z",
+      "updatedAt": "2026-11-15T19:35:08.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1449830892,
+      "name": "LINUX-DO",
+      "fullName": "yuchen0x1/LINUX-DO",
+      "description": "一个简单的L站的移动端",
+      "url": "https://github.com/yuchen0x1/LINUX-DO",
+      "language": "Dart",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-07T23:50:35.000Z",
+      "updatedAt": "2026-11-14T16:47:27.000Z",
+      "pushedAt": "2026-11-17T03:54:33.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1442993298,
+      "name": "JukeboxRoom",
+      "fullName": "yuchen0x1/JukeboxRoom",
+      "description": "JukeboxRoom — 可自托管的多人实时在线点歌系统。同一房间内搜索歌曲、提交队列、同步播放进度、看歌词、聊天并管理播放规则，播放进度与队列状态实时同步到所有成员。Web / Windows / Android 多端支持，基于 React 19 + Node.js + Express + Socket.IO + Tailwind CSS 构建，支持 PWA 与 Docker 部署，可接入网易云音乐等曲库。基于 OpenMusic 二次开发，MIT 协议。",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom",
+      "language": "TypeScript",
+      "topics": [
+        "android",
+        "capacitor",
+        "collaborative",
+        "docker",
+        "electron",
+        "express",
+        "jukebox",
+        "multiplayer",
+        "music",
+        "music-player",
+        "music-room",
+        "netease-cloud-music",
+        "pwa",
+        "react",
+        "self-hosted",
+        "socket-io",
+        "tailwindcss",
+        "typescript",
+        "vite",
+        "websocket"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-02T13:21:34.000Z",
+      "updatedAt": "2026-11-14T11:45:31.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1455692468,
+      "name": "PROJECT-NEXUS",
+      "fullName": "yuchen0x1/PROJECT-NEXUS",
+      "description": "Windows 桌面 AI 仓库运营中心：连接 GitHub 与 AI 网关，监控仓库、隔离修复并按授权策略交付 PR 与版本 | Windows desktop AI repository operations center (Electron)",
+      "url": "https://github.com/yuchen0x1/PROJECT-NEXUS",
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "automation",
+        "desktop-app",
+        "devtools",
+        "electron",
+        "github",
+        "issue-management",
+        "release-automation",
+        "windows"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-12T18:38:33.000Z",
+      "updatedAt": "2026-11-14T11:32:12.000Z",
+      "pushedAt": "2026-11-16T13:51:55.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1448730459,
+      "name": "AI-QQ-Bot",
+      "fullName": "yuchen0x1/AI-QQ-Bot",
+      "description": "QBot — 面向 Linux 服务器的模块化多账号 QQ 机器人管理平台。以 QQ 开放平台官方机器人（WebSocket 网关 / Webhook 回调）为主接入，同时保留 OneBot v11 兼容通道，不扫码登录个人 QQ、不模拟客户端协议，从根源规避登录风控。支持多账号隔离、群聊管理、自动审核、AI 多供应商对话与调试沙盒、GitHub Release 监控推送、持久化定时任务与插件扩展。FastAPI + SQLAlchemy 异步 ORM + Vue 3 赛博控制台，Docker Compose 一键部署。",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chatbot",
+        "docker",
+        "fastapi",
+        "multi-account",
+        "onebot",
+        "plugin",
+        "python",
+        "qq",
+        "qq-bot",
+        "scheduled-tasks",
+        "vue",
+        "websocket"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-06T20:44:06.000Z",
+      "updatedAt": "2026-11-14T11:20:48.000Z",
+      "pushedAt": "2026-11-17T04:01:12.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1448860761,
+      "name": "Codex-Remote-Bridge",
+      "fullName": "yuchen0x1/Codex-Remote-Bridge",
+      "description": "已永久停止维护 · v4.2.0 最终版本。手机与电脑 Codex Desktop 的本地桥接；源码和安装包保留供查阅与自行维护。",
+      "url": "https://github.com/yuchen0x1/Codex-Remote-Bridge",
+      "language": "JavaScript",
+      "topics": [
+        "android",
+        "automation",
+        "bridge",
+        "cdp",
+        "chrome-devtools",
+        "codex",
+        "lan",
+        "nodejs",
+        "pairing-code",
+        "privacy",
+        "remote-control",
+        "self-hosted",
+        "windows"
+      ],
+      "fork": false,
+      "archived": true,
+      "createdAt": "2026-11-06T23:46:11.000Z",
+      "updatedAt": "2026-11-13T15:14:14.000Z",
+      "pushedAt": "2026-11-13T15:02:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1448693762,
+      "name": "Novel-Writer-master",
+      "fullName": "yuchen0x1/Novel-Writer-master",
+      "description": "Novel-Writer-master — 开源免费的 AI 小说写作桌面软件，为长篇小说与网文连载设计。从设定、世界观、章节蓝图到正文、审稿、修稿、定稿，一章一章把书写完；也可拆解参考小说进行仿写、导入原稿接着续写，或按要求整体改写。内置本地向量知识库与检索，项目管理支持大纲、人物卡与时间线。软件本身不捆绑任何模型：接入你自己的 API Key，或用 Ollama 跑本地模型，作品与数据始终留在你自己的电脑上。Windows / macOS 桌面端，GPL-3.0 开源。",
+      "url": "https://github.com/yuchen0x1/Novel-Writer-master",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-writing",
+        "desktop-app",
+        "electron",
+        "llm",
+        "local-first",
+        "novel",
+        "open-source",
+        "react",
+        "sqlite",
+        "typescript",
+        "vector-database",
+        "writing"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-06T20:01:13.000Z",
+      "updatedAt": "2026-11-13T13:12:49.000Z",
+      "pushedAt": "2026-11-17T03:54:34.000Z",
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1445887359,
+      "name": "Gitee-Android",
+      "fullName": "yuchen0x1/Gitee-Android",
+      "description": "Gitee Client — 基于 Flutter 打造的 Gitee（码云）非官方客户端，把 Open API v5 的常用协作能力搬上手机：随时刷仓库动态、浏览代码与提交记录、回复 Issue、审阅 Pull Request、查看 Release 与贡献者统计。所有请求直接使用你自己的 Gitee 私人令牌或 OAuth 访问令牌访问官方 API，不依赖任何自建后端、不内置代理账号，凭证保存在系统安全存储中。Android 原生应用，MIT 协议。",
+      "url": "https://github.com/yuchen0x1/Gitee-Android",
+      "language": "Dart",
+      "topics": [
+        "android",
+        "dart",
+        "flutter",
+        "git-client",
+        "gitee",
+        "gitee-api",
+        "gitee-client",
+        "mobile",
+        "open-source"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-04T16:04:49.000Z",
+      "updatedAt": "2026-11-13T12:43:11.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1446018614,
+      "name": "Qzone-Archive",
+      "fullName": "yuchen0x1/Qzone-Archive",
+      "description": "【已存档 2026-11-13｜最后版本 v1.3.5】空间归档（Qzone Archive）— 本地运行的 QQ 空间备份工具，把当前账号可访问的动态、照片、视频与互动记录完整保存到本地。归档内容整理进本地 SQLite 数据库，不依赖任何自建服务器：可按相册批量下载原图（失败重试、断点续传）、同步完整留言板与好友列表，并按内容、昵称、QQ 号检索，按年份浏览媒体时光轴，导出 HTML、JSON、Markdown 或含本地媒体的 ZIP 离线包。Tauri 2 + Vue 3 + Rust 构建，登录凭证仅在本地内存处理。",
+      "url": "https://github.com/yuchen0x1/Qzone-Archive",
+      "language": "Rust",
+      "topics": [
+        "android",
+        "archive",
+        "backup",
+        "cross-platform",
+        "linux",
+        "macos",
+        "qq",
+        "qzone",
+        "rust",
+        "sqlite",
+        "tauri",
+        "vue3",
+        "windows"
+      ],
+      "fork": false,
+      "archived": true,
+      "createdAt": "2026-11-04T18:03:04.000Z",
+      "updatedAt": "2026-11-13T09:43:51.000Z",
+      "pushedAt": "2026-11-13T09:41:11.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1448861026,
+      "name": "Base64-encode-encoding",
+      "fullName": "yuchen0x1/Base64-encode-encoding",
+      "description": "极客工具箱 — 跨端响应式现代化工具箱集合，聚焦 Base64 编解码等日常高频操作。基于 Electron + Vue 3 + Vite 构建，支持 Windows / macOS / Android / iOS 多端运行，完全离线可用，数据不出本机。工具目录由独立 JSON 清单驱动，便于统一扩展与新增工具项。MIT 协议。",
+      "url": "https://github.com/yuchen0x1/Base64-encode-encoding",
+      "language": "JavaScript",
+      "topics": [
+        "android",
+        "base64",
+        "capacitor",
+        "cross-platform",
+        "desktop-app",
+        "developer-tools",
+        "electron",
+        "encoding",
+        "ios",
+        "offline-tools",
+        "toolbox",
+        "vue"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-06T23:46:27.000Z",
+      "updatedAt": "2026-11-13T06:58:49.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1456129753,
+      "name": "mind-bench",
+      "fullName": "yuchen0x1/mind-bench",
+      "description": "MIND BENCH：本地 AI 模型评测工作台，203 道题库、多模型对比、规则评分、AI 裁判与可复现报告。",
+      "url": "https://github.com/yuchen0x1/mind-bench",
+      "language": "JavaScript",
+      "topics": [
+        "ai-evaluation",
+        "benchmarking",
+        "llm",
+        "local-first",
+        "prompt-engineering",
+        "react",
+        "sqlite"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-13T04:00:30.000Z",
+      "updatedAt": "2026-11-13T04:01:50.000Z",
+      "pushedAt": "2026-11-17T04:20:04.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1445999094,
+      "name": "baidu-tieba-yunqiandao",
+      "fullName": "yuchen0x1/baidu-tieba-yunqiandao",
+      "description": "贴吧云签到（Signing Control Studio）— 把「每天逐个打开贴吧签到」这件事交给一台你自己掌控的服务器。支持计划任务自动签到、失败自动复签、签到凭据健康检查、异常重试与多渠道通知推送（邮件 / Webhook 等），可查看历史签到记录与统计。PHP 8.2 + MariaDB 构建，提供 Docker Compose 一键部署与 Docker 镜像，开源可自托管。",
+      "url": "https://github.com/yuchen0x1/baidu-tieba-yunqiandao",
+      "language": "PHP",
+      "topics": [
+        "auto-signin",
+        "baidu-tieba",
+        "check-in",
+        "cron",
+        "docker",
+        "docker-compose",
+        "notification",
+        "open-source",
+        "php",
+        "scheduler",
+        "self-hosted",
+        "tieba",
+        "webhook"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-04T17:44:36.000Z",
+      "updatedAt": "2026-11-13T02:59:48.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 2,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1446149302,
+      "name": "aa-browser",
+      "fullName": "yuchen0x1/aa-browser",
+      "description": "Aa Browser — 为 AI Agent 而生的开源桌面浏览器。人像人一样浏览网页，Agent 像工程师一样驱动它。基于 Electron 的完整 Chromium 浏览器，任何人都可正常上网；同时任何支持 MCP 的 AI Agent 都能接入，读取页面结构化快照（可访问性树 + 元素 ref 编号），并执行点击、输入、选择、滚动、提取等操作——不看截图、不猜坐标，显著节省 token。内置网络抓包、结构化快照与增量更新能力，可一键接入 Claude Code、Cursor、Cline 等主流 AI 客户端。Windows 桌面端，MIT 协议。",
+      "url": "https://github.com/yuchen0x1/aa-browser",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "browser",
+        "browser-automation",
+        "cdp",
+        "chrome-devtools",
+        "electron",
+        "mcp",
+        "mcp-server",
+        "packet-capture",
+        "react",
+        "token-optimization",
+        "typescript"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-04T20:12:11.000Z",
+      "updatedAt": "2026-11-12T14:09:31.000Z",
+      "pushedAt": "2026-11-17T04:19:42.000Z",
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1446552834,
+      "name": "sub3api-relay",
+      "fullName": "yuchen0x1/sub3api-relay",
+      "description": "Sub3API — 面向个人自建与内部团队的 AI API 中转、账号调度、用量计费与运维管理平台。统一接入 OpenAI、Claude、Gemini、Grok 等多家模型供应商，支持协议转换、账号池调度、负载均衡、失败重试与限流；内置按用户维度的 API Key 管理、配额与限额策略、实时用量统计与账单结算。后端 Go + Gin + Ent + PostgreSQL + Redis，前端 Vue 3，附 Tauri 桌面控制台，可 Docker 一键部署。",
+      "url": "https://github.com/yuchen0x1/sub3api-relay",
+      "language": "Go",
+      "topics": [
+        "account-pooling",
+        "ai-gateway",
+        "api-gateway",
+        "billing",
+        "claude",
+        "desktop-app",
+        "docker",
+        "gemini",
+        "golang",
+        "openai",
+        "postgresql",
+        "redis",
+        "relay",
+        "self-hosted",
+        "tauri",
+        "usage-tracking",
+        "vue"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-05T04:58:36.000Z",
+      "updatedAt": "2026-11-12T04:31:40.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1449921163,
+      "name": "Scan-the-computer-for-viruses",
+      "fullName": "yuchen0x1/Scan-the-computer-for-viruses",
+      "description": "Windows 智能安全卫士（PC Security Center）开源 Windows 桌面安全管家：病毒查杀、实时防护、系统安全检查、网络安全监控、性能分析、系统维护、文件分析与安全报告。病毒判定交给 Microsoft Defender 官方引擎，SmartRisk 启发式只输出带依据的可疑提示、绝不误判病毒；评分公开透明，全部本地处理不上传数据。提权白名单脚本防注入，隔离区 AES-256+HMAC+DPAPI 防篡改，自动更新带 SHA256/签名/吊销校验。C#/.NET 10/WPF/MVVM/SQLite，自包含部署含安装包与便携版。MIT，Windows 10/11 x64。",
+      "url": "https://github.com/yuchen0x1/Scan-the-computer-for-viruses",
+      "language": "C#",
+      "topics": [
+        "antivirus",
+        "csharp",
+        "defender",
+        "desktop-app",
+        "dotnet",
+        "malware-scanner",
+        "open-source",
+        "privacy",
+        "scanner",
+        "security",
+        "security-tools",
+        "system-utility",
+        "windows",
+        "windows-security",
+        "wpf"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-08T02:51:24.000Z",
+      "updatedAt": "2026-11-12T03:01:52.000Z",
+      "pushedAt": "2026-11-17T04:23:31.000Z",
+      "stars": 2,
+      "forks": 1,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1448784688,
+      "name": "OpenWrt-Flashing-Guide-RE-CP02",
+      "fullName": "yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02",
+      "description": "给京东云无线宝鲁班二代（JDCloud RE-CP-02，mt7621 / r4310）刷 OpenWrt 25.12.x 的完整图文教程：从接线、开启 Telnet、写入 U-Boot 到重建 eMMC 分区，逐步对应章节并标注变砖风险。刷机后继续配置家庭网关：LAN / WAN / WiFi、中文 LuCI 界面、DNS 与 DoH、广告过滤、UPnP、SQM 限速、dynv6 DDNS、v2rayA 分流。附自制 LuCI 应用与主题、自有 OTA 更新源及一键脚本。仓库不含固件二进制。",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02",
+      "language": "JavaScript",
+      "topics": [
+        "flashing-guide",
+        "jdcloud",
+        "luci",
+        "mt7621",
+        "openwrt",
+        "openwrt-tutorial",
+        "router",
+        "wireless"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-06T21:53:07.000Z",
+      "updatedAt": "2026-11-12T02:51:00.000Z",
+      "pushedAt": "2026-11-17T04:30:38.000Z",
+      "stars": 0,
+      "forks": 1,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1445808111,
+      "name": "Short-Video-Analysis",
+      "fullName": "yuchen0x1/Short-Video-Analysis",
+      "description": "短视频去水印解析工具 — 粘贴一条分享链接，还你一份干净的无水印视频。覆盖 12 个主流短视频平台，一次解析出视频、图集、封面与作者信息。提供网页版、Electron 电脑版、Capacitor / Flutter 移动端，并开放版本化 HTTP API 供二次集成。后端 Laravel + PHP，前端 Vue 3，支持 Docker Compose 自托管部署。AGPL-3.0 协议。",
+      "url": "https://github.com/yuchen0x1/Short-Video-Analysis",
+      "language": "PHP",
+      "topics": [
+        "android",
+        "api",
+        "bilibili",
+        "capacitor",
+        "douyin",
+        "electron",
+        "flutter",
+        "ios",
+        "kuaishou",
+        "laravel",
+        "macos",
+        "parser",
+        "php",
+        "self-hosted",
+        "short-video",
+        "tiktok",
+        "video-downloader",
+        "video-parser",
+        "watermark-removal",
+        "windows"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-04T14:59:39.000Z",
+      "updatedAt": "2026-11-12T02:41:17.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1452036559,
+      "name": "Family-Genealogy-of-Hundreds-of-Clans",
+      "fullName": "yuchen0x1/Family-Genealogy-of-Hundreds-of-Clans",
+      "description": "中华姓氏文化与家族族谱平台 · Chinese genealogy & surname-culture platform: Baijiaxing knowledge base, family trees, kinship graphs, archives, GEDCOM, self-hosted online updater (Next.js 16 + Prisma + PostgreSQL)",
+      "url": "https://github.com/yuchen0x1/Family-Genealogy-of-Hundreds-of-Clans",
+      "language": "TypeScript",
+      "topics": [
+        "chinese-culture",
+        "chinese-genealogy",
+        "chinese-history",
+        "docker",
+        "family-history",
+        "family-tree",
+        "genealogy",
+        "genealogy-platform",
+        "jiapu",
+        "nextjs",
+        "postgresql",
+        "prisma",
+        "react",
+        "redis",
+        "self-hosted",
+        "surname-culture",
+        "tailwindcss",
+        "typescript"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-10T00:35:16.000Z",
+      "updatedAt": "2026-11-10T16:04:09.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 3,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1448642300,
+      "name": "Xray-server-management-panel",
+      "fullName": "yuchen0x1/Xray-server-management-panel",
+      "description": "Xray 服务器管理面板（3X-UI 二次维护版）— Go + React 打造的一体化 Xray-core Web 管理后台。入站与客户端管理（VLESS / VMess / Trojan / Shadowsocks / WireGuard / Hysteria 等）、订阅服务、节点同步、路由规则、多渠道 Webhook 告警与流量监控全部集中在一个页面。支持多节点配置同步、订阅自助导入与一键部署（Docker Compose / 源码构建），前端 React + Ant Design，后端 Gin + GORM，附完整 CLI 工具与 OpenAPI 文档。",
+      "url": "https://github.com/yuchen0x1/Xray-server-management-panel",
+      "language": "Go",
+      "topics": [
+        "3x-ui",
+        "antd",
+        "docker",
+        "golang",
+        "multi-node",
+        "node-monitoring",
+        "panel",
+        "proxy",
+        "react",
+        "self-hosted",
+        "subscription",
+        "v2ray",
+        "webhook",
+        "xray"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-06T19:03:46.000Z",
+      "updatedAt": "2026-11-10T15:17:24.000Z",
+      "pushedAt": "2026-11-16T14:06:41.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1450800727,
+      "name": "Internet-Speed-Test",
+      "fullName": "yuchen0x1/Internet-Speed-Test",
+      "description": "NetVision Pro 专业级 Windows 桌面网络测速与诊断软件：三协议测速（LibreSpeed/Cloudflare/NDT7 自动优选），可解释评级（Bufferbloat/抖动/丢包打分），诊断含 DNS 劫持、STUN NAT、MTR 逐跳与路由追踪，网卡级监控、批量 ICMP 拨测、SQLite 历史与 CSV/JSON/HTML 报告、Prometheus 导出、计划测速、CLI 模式，测不到如实标注不伪造。技术栈 Rust+Tauri 2、React 19+TypeScript+Zustand、自研 Canvas 图表。MIT 协议，限 Windows 10/11。",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test",
+      "language": "Rust",
+      "topics": [
+        "desktop-app",
+        "icmp",
+        "ndt7",
+        "network-diagnostics",
+        "network-monitoring",
+        "prometheus",
+        "react",
+        "rust",
+        "speedtest",
+        "sqlite",
+        "tauri",
+        "typescript",
+        "windows",
+        "zustand"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-09T01:00:55.000Z",
+      "updatedAt": "2026-11-10T14:58:12.000Z",
+      "pushedAt": "2026-11-17T04:01:13.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1450533843,
+      "name": "Doomsday-Survival-Guide",
+      "fullName": "yuchen0x1/Doomsday-Survival-Guide",
+      "description": "末日生存指南：跨平台离线优先生存知识系统（React Web / Tauri 桌面 / Capacitor 移动）",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide",
+      "language": "TypeScript",
+      "topics": [
+        "capacitor",
+        "nestjs",
+        "offline-first",
+        "pwa",
+        "react",
+        "survival",
+        "tauri",
+        "typescript"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-08T18:08:19.000Z",
+      "updatedAt": "2026-11-08T19:08:40.000Z",
+      "pushedAt": "2026-11-17T04:24:45.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1450523143,
+      "name": "Audio-Studio",
+      "fullName": "yuchen0x1/Audio-Studio",
+      "description": "多平台专业音频转换工具（Web / Windows / Android）：基于 FFmpeg，支持格式转换、批量处理、音频剪辑、合并、元数据与封面编辑、音频分析",
+      "url": "https://github.com/yuchen0x1/Audio-Studio",
+      "language": "TypeScript",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-08T17:54:26.000Z",
+      "updatedAt": "2026-11-08T18:42:25.000Z",
+      "pushedAt": "2026-11-17T04:21:51.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1445616368,
+      "name": "yuchen0x1",
+      "fullName": "yuchen0x1/yuchen0x1",
+      "description": "yuchen0x1 profile README · 独立开发者主页。汇总 AI 写作、AI 浏览器、AI 网关与 AI 编码工作台等 AI 原生工具，以及电商与二手交易运营控制台、跨端桌面与移动应用、可自托管在线服务。涵盖 Go / Rust / Java / Python / TypeScript / Vue / React / Electron / Tauri / Flutter / PostgreSQL / Redis / MCP 等技术栈，每个项目均标注开发状态与语言构成。",
+      "url": "https://github.com/yuchen0x1/yuchen0x1",
+      "language": "PowerShell",
+      "topics": [
+        "github-profile",
+        "independent-developer",
+        "profile",
+        "profile-readme"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-04T12:15:33.000Z",
+      "updatedAt": "2026-11-07T00:36:49.000Z",
+      "pushedAt": "2026-11-17T01:35:34.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    }
+  ],
+  "languagesByRepo": {
+    "1442993298": {
+      "bytes": {
+        "TypeScript": 1837923,
+        "JavaScript": 813630,
+        "CSS": 147040,
+        "HTML": 35243,
+        "Java": 14888,
+        "PowerShell": 3226,
+        "Swift": 3031,
+        "Dockerfile": 700,
+        "Ruby": 688
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1443461962": {
+      "bytes": {
+        "Java": 3426564,
+        "Vue": 1118029,
+        "TypeScript": 335143,
+        "CSS": 318920,
+        "Shell": 38613,
+        "PowerShell": 13406,
+        "Dockerfile": 3267,
+        "HTML": 550,
+        "Batchfile": 492
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1444957212": {
+      "bytes": {
+        "JavaScript": 2855480,
+        "CSS": 176617,
+        "HTML": 62102,
+        "Shell": 14443,
+        "Batchfile": 1101
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1445616368": {
+      "bytes": {
+        "PowerShell": 10877
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1445808111": {
+      "bytes": {
+        "PHP": 429531,
+        "JavaScript": 334125,
+        "CSS": 20832,
+        "Python": 10436,
+        "Batchfile": 1466,
+        "Shell": 1299,
+        "Dockerfile": 1004,
+        "HTML": 868
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1445887359": {
+      "bytes": {
+        "Dart": 731478,
+        "Python": 4405,
+        "Kotlin": 3430
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1445999094": {
+      "bytes": {
+        "PHP": 2065985,
+        "CSS": 131029,
+        "JavaScript": 52743,
+        "PowerShell": 9673,
+        "Dockerfile": 2316,
+        "HTML": 1958
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1446018614": {
+      "bytes": {
+        "Rust": 438870,
+        "Vue": 201071,
+        "CSS": 106834,
+        "TypeScript": 36731,
+        "Kotlin": 5828,
+        "Nix": 2383,
+        "NSIS": 1309,
+        "HTML": 377
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1446149302": {
+      "bytes": {
+        "TypeScript": 289337,
+        "JavaScript": 195569,
+        "HTML": 25861,
+        "CSS": 24130
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1446552834": {
+      "bytes": {
+        "Go": 24035749,
+        "Vue": 4984888,
+        "TypeScript": 3876432,
+        "Shell": 105764,
+        "PLpgSQL": 100052,
+        "HTML": 82201,
+        "CSS": 66508,
+        "JavaScript": 11970,
+        "Dockerfile": 11061,
+        "Python": 3443,
+        "Rust": 2848,
+        "Makefile": 2005,
+        "Go Template": 174
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1448642300": {
+      "bytes": {
+        "Go": 3615302,
+        "TypeScript": 2504482,
+        "Shell": 324878,
+        "CSS": 117621,
+        "JavaScript": 31718,
+        "Dockerfile": 2454,
+        "Makefile": 2306,
+        "HTML": 1317
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1448693762": {
+      "bytes": {
+        "TypeScript": 15439770,
+        "JavaScript": 4060824,
+        "Python": 1732115,
+        "PowerShell": 412362,
+        "CSS": 268206,
+        "Shell": 23605,
+        "Objective-C": 22443,
+        "HTML": 8532,
+        "MDX": 3601
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1448730459": {
+      "bytes": {
+        "Python": 1074622,
+        "Vue": 229530,
+        "TypeScript": 37220,
+        "HTML": 32487,
+        "CSS": 25646,
+        "Dockerfile": 1729,
+        "Shell": 1332,
+        "Mako": 504
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1448784688": {
+      "bytes": {
+        "JavaScript": 154489,
+        "CSS": 60577,
+        "HTML": 59713,
+        "Shell": 39522,
+        "PowerShell": 20627
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1448860761": {
+      "bytes": {
+        "JavaScript": 704009,
+        "HTML": 556171,
+        "Kotlin": 70045,
+        "C#": 66007,
+        "Swift": 32950,
+        "Java": 32410,
+        "PowerShell": 17052,
+        "Shell": 9610,
+        "Inno Setup": 1246
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1448861026": {
+      "bytes": {
+        "JavaScript": 261582,
+        "Vue": 256887,
+        "Python": 20617,
+        "CSS": 7908,
+        "HTML": 1624,
+        "NSIS": 875,
+        "Batchfile": 212
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1449830892": {
+      "bytes": {
+        "Dart": 1942030,
+        "HTML": 15473,
+        "Kotlin": 12640,
+        "Python": 5379,
+        "Shell": 2638
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1449921163": {
+      "bytes": {
+        "C#": 627726,
+        "Inno Setup": 20857,
+        "PowerShell": 13165
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1450523143": {
+      "bytes": {
+        "TypeScript": 575993,
+        "Rust": 123143,
+        "CSS": 36224,
+        "JavaScript": 14710,
+        "Python": 8991,
+        "HTML": 774
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1450533843": {
+      "bytes": {
+        "TypeScript": 1566954,
+        "Python": 9024,
+        "CSS": 6650,
+        "JavaScript": 6505,
+        "Rust": 4184,
+        "Java": 4081,
+        "Swift": 3080,
+        "Ruby": 850,
+        "HTML": 654
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1450774425": {
+      "bytes": {
+        "TypeScript": 3062609,
+        "JavaScript": 51747,
+        "Shell": 19581,
+        "CSS": 11887,
+        "Rust": 10616,
+        "HTML": 6786,
+        "Swift": 5052,
+        "Java": 116
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1450800727": {
+      "bytes": {
+        "Rust": 399574,
+        "TypeScript": 325370,
+        "CSS": 47254,
+        "JavaScript": 10677,
+        "HTML": 738
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1452036559": {
+      "bytes": {
+        "TypeScript": 1183662,
+        "JavaScript": 194149,
+        "Shell": 8083,
+        "CSS": 4758,
+        "Dockerfile": 2298
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1455692468": {
+      "bytes": {
+        "JavaScript": 2050029,
+        "TypeScript": 450276,
+        "CSS": 97129,
+        "PowerShell": 17902,
+        "HTML": 10503,
+        "Dockerfile": 178
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1456129753": {
+      "bytes": {
+        "JavaScript": 481165,
+        "CSS": 92496,
+        "Dockerfile": 925,
+        "HTML": 545
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1457793236": {
+      "bytes": {
+        "JavaScript": 1879593,
+        "PowerShell": 129344,
+        "HTML": 108909,
+        "CSS": 47309,
+        "NSIS": 3742
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1460179440": {
+      "bytes": {
+        "Python": 224151,
+        "Dockerfile": 1238
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1460194104": {
+      "bytes": {
+        "TypeScript": 792763,
+        "CSS": 376237,
+        "JavaScript": 21087
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    },
+    "1461537564": {
+      "bytes": {
+        "TypeScript": 118290,
+        "Python": 9099,
+        "JavaScript": 2296,
+        "PowerShell": 1568,
+        "HTML": 696,
+        "CSS": 113
+      },
+      "collectedAt": "2026-11-17T18:11:12.895Z",
+      "stale": false
+    }
+  },
+  "releasesByRepo": {
+    "SubtitleFlow": {
+      "tag": "v0.0.1",
+      "name": "SubtitleFlow v0.0.1",
+      "date": "2026-11-17T14:40:27.000Z",
+      "url": "https://github.com/yuchen0x1/SubtitleFlow/releases/tag/v0.0.1",
+      "download": "https://github.com/yuchen0x1/SubtitleFlow/releases/download/v0.0.1/SubtitleFlow-extension.zip"
+    },
+    "apkstart": {
+      "tag": "v0.6.18",
+      "name": "ApkStart v0.6.18",
+      "date": "2026-11-17T17:49:08.000Z",
+      "url": "https://github.com/yuchen0x1/apkstart/releases/tag/v0.6.18",
+      "download": "https://github.com/yuchen0x1/apkstart/releases/download/v0.6.18/ApkStart-0.6.18-Setup.exe"
+    },
+    "HongGuo-PC": {
+      "tag": "v6.14",
+      "name": "红果短剧 v6.14",
+      "date": "2026-11-17T04:26:10.000Z",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC/releases/tag/v6.14",
+      "download": "https://github.com/yuchen0x1/HongGuo-PC/releases/download/v6.14/hongguo-downloader-6.14-win-x64-setup.exe"
+    },
+    "GFPGAN": null,
+    "themes": null,
+    "Xianyu-Assistant": {
+      "tag": "v3.5.27",
+      "name": "v3.5.27",
+      "date": "2026-11-17T04:17:44.000Z",
+      "url": "https://github.com/yuchen0x1/Xianyu-Assistant/releases/tag/v3.5.27",
+      "download": "https://github.com/yuchen0x1/Xianyu-Assistant/releases/download/v3.5.27/XianYuSellerConsole-3.5.27.jar"
+    },
+    "GitHub-Achievement-Hub": {
+      "tag": "v0.0.3",
+      "name": "GitHub Achievement Hub v0.0.3",
+      "date": "2026-11-16T14:03:54.000Z",
+      "url": "https://github.com/yuchen0x1/GitHub-Achievement-Hub/releases/tag/v0.0.3",
+      "download": null
+    },
+    "LINUX-DO": {
+      "tag": "v1.1.4",
+      "name": "v1.1.4 · Android maintenance",
+      "date": "2026-11-16T14:46:39.000Z",
+      "url": "https://github.com/yuchen0x1/LINUX-DO/releases/tag/v1.1.4",
+      "download": "https://github.com/yuchen0x1/LINUX-DO/releases/download/v1.1.4/linux_do_android_release_1.1.4_arm64-v8a.apk"
+    },
+    "JukeboxRoom": {
+      "tag": "v0.0.22",
+      "name": "v0.0.22",
+      "date": "2026-11-17T04:04:44.000Z",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom/releases/tag/v0.0.22",
+      "download": "https://github.com/yuchen0x1/JukeboxRoom/releases/download/v0.0.22/jukeboxroom-desktop-setup-0.0.22-x64.exe"
+    },
+    "PROJECT-NEXUS": {
+      "tag": "v0.9.3",
+      "name": "v0.9.3 · 项目自主演进与 API 稳定性升级",
+      "date": "2026-11-16T13:56:38.000Z",
+      "url": "https://github.com/yuchen0x1/PROJECT-NEXUS/releases/tag/v0.9.3",
+      "download": "https://github.com/yuchen0x1/PROJECT-NEXUS/releases/download/v0.9.3/latest.yml"
+    },
+    "AI-QQ-Bot": {
+      "tag": "v1.4.11",
+      "name": "QBot AI v1.4.11",
+      "date": "2026-11-17T04:03:47.000Z",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot/releases/tag/v1.4.11",
+      "download": "https://github.com/yuchen0x1/AI-QQ-Bot/releases/download/v1.4.11/qbot-ai-1.4.11-native.tar.gz"
+    },
+    "Codex-Remote-Bridge": {
+      "tag": "v4.2.0",
+      "name": "v4.2.0 · 最终归档版",
+      "date": "2026-11-13T15:13:04.000Z",
+      "url": "https://github.com/yuchen0x1/Codex-Remote-Bridge/releases/tag/v4.2.0",
+      "download": "https://github.com/yuchen0x1/Codex-Remote-Bridge/releases/download/v4.2.0/ChatGPT-AZ-Android-v4.2.0.apk"
+    },
+    "Novel-Writer-master": {
+      "tag": "v0.0.1",
+      "name": "Novel-Writer-master 0.0.1",
+      "date": "2026-11-13T14:54:29.000Z",
+      "url": "https://github.com/yuchen0x1/Novel-Writer-master/releases/tag/v0.0.1",
+      "download": "https://github.com/yuchen0x1/Novel-Writer-master/releases/download/v0.0.1/latest.yml"
+    },
+    "Gitee-Android": {
+      "tag": "v1.4.3",
+      "name": "Gitee Client v1.4.3",
+      "date": "2026-11-17T04:09:24.000Z",
+      "url": "https://github.com/yuchen0x1/Gitee-Android/releases/tag/v1.4.3",
+      "download": "https://github.com/yuchen0x1/Gitee-Android/releases/download/v1.4.3/gitee-client-v1.4.3-android-arm64-v8a.apk"
+    },
+    "Qzone-Archive": {
+      "tag": "v1.3.5",
+      "name": "QzoneArchive v1.3.5",
+      "date": "2026-11-12T07:02:23.000Z",
+      "url": "https://github.com/yuchen0x1/Qzone-Archive/releases/tag/v1.3.5",
+      "download": "https://github.com/yuchen0x1/Qzone-Archive/releases/download/v1.3.5/latest.json"
+    },
+    "Base64-encode-encoding": {
+      "tag": "v0.0.8",
+      "name": "极客工具箱 v0.0.8",
+      "date": "2026-11-17T04:06:16.000Z",
+      "url": "https://github.com/yuchen0x1/Base64-encode-encoding/releases/tag/v0.0.8",
+      "download": "https://github.com/yuchen0x1/Base64-encode-encoding/releases/download/v0.0.8/GeekToolbox-Setup-0.0.8.exe"
+    },
+    "mind-bench": {
+      "tag": "v0.3.1",
+      "name": "MIND BENCH v0.3.1",
+      "date": "2026-11-17T04:26:22.000Z",
+      "url": "https://github.com/yuchen0x1/mind-bench/releases/tag/v0.3.1",
+      "download": "https://github.com/yuchen0x1/mind-bench/releases/download/v0.3.1/mind-bench-0.3.1.tar.gz"
+    },
+    "baidu-tieba-yunqiandao": {
+      "tag": "v7.8.1",
+      "name": "V7.8.1：多语言管理台",
+      "date": "2026-11-17T04:04:59.000Z",
+      "url": "https://github.com/yuchen0x1/baidu-tieba-yunqiandao/releases/tag/v7.8.1",
+      "download": "https://github.com/yuchen0x1/baidu-tieba-yunqiandao/releases/download/v7.8.1/tieba-cloud-sign-update-v7.8.1.json"
+    },
+    "aa-browser": {
+      "tag": "v0.0.7",
+      "name": "Aa Browser v0.0.7",
+      "date": "2026-11-17T04:23:10.000Z",
+      "url": "https://github.com/yuchen0x1/aa-browser/releases/tag/v0.0.7",
+      "download": "https://github.com/yuchen0x1/aa-browser/releases/download/v0.0.7/aa-browser-setup-0.0.7.exe"
+    },
+    "sub3api-relay": {
+      "tag": "v0.4.5",
+      "name": "Sub3API v0.4.5",
+      "date": "2026-11-17T04:21:09.000Z",
+      "url": "https://github.com/yuchen0x1/sub3api-relay/releases/tag/v0.4.5",
+      "download": "https://github.com/yuchen0x1/sub3api-relay/releases/download/v0.4.5/checksums.txt"
+    },
+    "Scan-the-computer-for-viruses": {
+      "tag": "v1.2.8",
+      "name": "Windows 智能安全卫士 v1.2.8",
+      "date": "2026-11-17T04:24:30.000Z",
+      "url": "https://github.com/yuchen0x1/Scan-the-computer-for-viruses/releases/tag/v1.2.8",
+      "download": "https://github.com/yuchen0x1/Scan-the-computer-for-viruses/releases/download/v1.2.8/PcSecurityCenter-Portable-1.2.8.zip"
+    },
+    "OpenWrt-Flashing-Guide-RE-CP02": {
+      "tag": "v1.5.1",
+      "name": "v1.5.1",
+      "date": "2026-11-17T04:31:37.000Z",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/releases/tag/v1.5.1",
+      "download": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/releases/download/v1.5.1/OpenWrt-Flashing-Guide-RE-CP02-v1.5.1.tar.gz"
+    },
+    "Short-Video-Analysis": {
+      "tag": "v1.1.12",
+      "name": "v1.1.12",
+      "date": "2026-11-17T04:02:52.000Z",
+      "url": "https://github.com/yuchen0x1/Short-Video-Analysis/releases/tag/v1.1.12",
+      "download": "https://github.com/yuchen0x1/Short-Video-Analysis/releases/download/v1.1.12/latest.yml"
+    },
+    "Family-Genealogy-of-Hundreds-of-Clans": {
+      "tag": "v0.3.2",
+      "name": "v0.3.2",
+      "date": "2026-11-17T04:04:35.000Z",
+      "url": "https://github.com/yuchen0x1/Family-Genealogy-of-Hundreds-of-Clans/releases/tag/v0.3.2",
+      "download": "https://github.com/yuchen0x1/Family-Genealogy-of-Hundreds-of-Clans/releases/download/v0.3.2/xungen-0.3.2.tar.gz"
+    },
+    "Xray-server-management-panel": {
+      "tag": "v3.13.0",
+      "name": "3X-UI v3.13.0",
+      "date": "2026-11-16T14:12:43.000Z",
+      "url": "https://github.com/yuchen0x1/Xray-server-management-panel/releases/tag/v3.13.0",
+      "download": "https://github.com/yuchen0x1/Xray-server-management-panel/releases/download/v3.13.0/SHA256SUMS"
+    },
+    "Internet-Speed-Test": {
+      "tag": "v1.14.1",
+      "name": "NetVision Pro v1.14.1",
+      "date": "2026-11-17T04:06:14.000Z",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test/releases/tag/v1.14.1",
+      "download": "https://github.com/yuchen0x1/Internet-Speed-Test/releases/download/v1.14.1/latest.json"
+    },
+    "Doomsday-Survival-Guide": {
+      "tag": "v1.1.4",
+      "name": "v1.1.4 · Web / Windows / Android",
+      "date": "2026-11-17T04:43:06.000Z",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide/releases/tag/v1.1.4",
+      "download": "https://github.com/yuchen0x1/Doomsday-Survival-Guide/releases/download/v1.1.4/apocalypse-survival-android-v1.1.4.apk"
+    },
+    "Audio-Studio": {
+      "tag": "v0.2.2",
+      "name": "Audio Studio v0.2.2",
+      "date": "2026-11-17T04:27:27.000Z",
+      "url": "https://github.com/yuchen0x1/Audio-Studio/releases/tag/v0.2.2",
+      "download": "https://github.com/yuchen0x1/Audio-Studio/releases/download/v0.2.2/Audio.Studio_0.2.2_x64-setup.exe"
+    },
+    "yuchen0x1": null
+  },
+  "commitsByRepo": {
+    "SubtitleFlow": {
+      "sha": "780d46e1549c8f6fa04b5014844dc352477e124a",
+      "message": "ci: use cross-platform build command",
+      "date": "2026-11-17T14:41:57.000Z",
+      "url": "https://github.com/yuchen0x1/SubtitleFlow/commit/780d46e1549c8f6fa04b5014844dc352477e124a"
+    },
+    "apkstart": {
+      "sha": "8f5013410c6b3dd6e5ebb7cabfca9c8ffc8c459b",
+      "message": "v0.6.18: 修复设置页顶栏「返回引导 / 关闭设置」点不了 + 头部间距",
+      "date": "2026-11-17T17:47:03.000Z",
+      "url": "https://github.com/yuchen0x1/apkstart/commit/8f5013410c6b3dd6e5ebb7cabfca9c8ffc8c459b"
+    },
+    "HongGuo-PC": {
+      "sha": "52d343ce02f3bfdfaf837fc1af4c654d9245afef",
+      "message": "fix: align v6.14 release metadata",
+      "date": "2026-11-17T04:18:53.000Z",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC/commit/52d343ce02f3bfdfaf837fc1af4c654d9245afef"
+    },
+    "GFPGAN": {
+      "sha": "2fd2a068ec344a692ab6699a85d710756c2648f0",
+      "message": "Fix training on torch>=2.6 and remaining review bugs",
+      "date": "2026-11-17T17:45:03.000Z",
+      "url": "https://github.com/yuchen0x1/GFPGAN/commit/2fd2a068ec344a692ab6699a85d710756c2648f0"
+    },
+    "themes": {
+      "sha": "dd031874a9c58dfdc57f24cd588b75c0474cc283",
+      "message": "feat(css): modern default scrollbars and accent text selection",
+      "date": "2026-11-17T00:58:35.000Z",
+      "url": "https://github.com/yuchen0x1/themes/commit/dd031874a9c58dfdc57f24cd588b75c0474cc283"
+    },
+    "Xianyu-Assistant": {
+      "sha": "748b56949f3e9d288d07417c54aa38696d09d6da",
+      "message": "fix: sync v3.5.27 fallback versions",
+      "date": "2026-11-17T04:13:36.000Z",
+      "url": "https://github.com/yuchen0x1/Xianyu-Assistant/commit/748b56949f3e9d288d07417c54aa38696d09d6da"
+    },
+    "GitHub-Achievement-Hub": {
+      "sha": "f357665ec8acbac1dd05b773c19a50ca4574a6a4",
+      "message": "chore: prepare v0.0.4 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/GitHub-Achievement-Hub/commit/f357665ec8acbac1dd05b773c19a50ca4574a6a4"
+    },
+    "LINUX-DO": {
+      "sha": "c33bdff5b95d5cc9e128fc78d0364e6e3bb97064",
+      "message": "feat: add automatic locale support",
+      "date": "2026-11-17T03:17:18.000Z",
+      "url": "https://github.com/yuchen0x1/LINUX-DO/commit/c33bdff5b95d5cc9e128fc78d0364e6e3bb97064"
+    },
+    "JukeboxRoom": {
+      "sha": "546978effd6bccd16bd7c1079af089d845c63c43",
+      "message": "chore: prepare v0.0.22 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom/commit/546978effd6bccd16bd7c1079af089d845c63c43"
+    },
+    "PROJECT-NEXUS": {
+      "sha": "5db7bceabf628d6f6ef452aee3948aa71e118b25",
+      "message": "feat: release v0.9.3 evolution upgrades",
+      "date": "2026-11-16T13:50:45.000Z",
+      "url": "https://github.com/yuchen0x1/PROJECT-NEXUS/commit/5db7bceabf628d6f6ef452aee3948aa71e118b25"
+    },
+    "AI-QQ-Bot": {
+      "sha": "ebd962436d0fd4052c5e6a4e8704e433068772d6",
+      "message": "chore: prepare v1.4.11 release",
+      "date": "2026-11-17T03:58:40.000Z",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot/commit/ebd962436d0fd4052c5e6a4e8704e433068772d6"
+    },
+    "Codex-Remote-Bridge": {
+      "sha": "4ddf244fac599a0e7a0876b7b9b1e5cd147de2e1",
+      "message": "fix(release): verify desktop bridge on a supported platform",
+      "date": "2026-11-13T15:01:52.000Z",
+      "url": "https://github.com/yuchen0x1/Codex-Remote-Bridge/commit/4ddf244fac599a0e7a0876b7b9b1e5cd147de2e1"
+    },
+    "Novel-Writer-master": {
+      "sha": "837bdbe405e0c64a9ae711c77ad0dbb0ecb0be5d",
+      "message": "docs: record multilingual update",
+      "date": "2026-11-17T03:17:19.000Z",
+      "url": "https://github.com/yuchen0x1/Novel-Writer-master/commit/837bdbe405e0c64a9ae711c77ad0dbb0ecb0be5d"
+    },
+    "Gitee-Android": {
+      "sha": "7cd4bc6e444bc64e769907f8973121f9ea90f777",
+      "message": "chore: prepare v1.4.3 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/Gitee-Android/commit/7cd4bc6e444bc64e769907f8973121f9ea90f777"
+    },
+    "Qzone-Archive": {
+      "sha": "e699c0830257bf959a961c09c2a6f323133f5653",
+      "message": "chore(archive): finalize release history and clean repository",
+      "date": "2026-11-13T09:40:25.000Z",
+      "url": "https://github.com/yuchen0x1/Qzone-Archive/commit/e699c0830257bf959a961c09c2a6f323133f5653"
+    },
+    "Base64-encode-encoding": {
+      "sha": "9044bdcb67dcc76033caa1b2c79fe19aea53a6fc",
+      "message": "chore: prepare v0.0.8 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/Base64-encode-encoding/commit/9044bdcb67dcc76033caa1b2c79fe19aea53a6fc"
+    },
+    "mind-bench": {
+      "sha": "f5212d8561c356552b02f01ffae89680e67a12cf",
+      "message": "test: pin e2e locale for deterministic selectors",
+      "date": "2026-11-17T04:18:53.000Z",
+      "url": "https://github.com/yuchen0x1/mind-bench/commit/f5212d8561c356552b02f01ffae89680e67a12cf"
+    },
+    "baidu-tieba-yunqiandao": {
+      "sha": "ef03c1249ef19255159b0ffdbde16608246f626d",
+      "message": "chore: prepare v7.8.1 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/baidu-tieba-yunqiandao/commit/ef03c1249ef19255159b0ffdbde16608246f626d"
+    },
+    "aa-browser": {
+      "sha": "56f4e08daecb81331f34ea346ebde75f0c16019c",
+      "message": "fix: keep desktop checks locale aware",
+      "date": "2026-11-17T04:18:44.000Z",
+      "url": "https://github.com/yuchen0x1/aa-browser/commit/56f4e08daecb81331f34ea346ebde75f0c16019c"
+    },
+    "sub3api-relay": {
+      "sha": "1792511dc19b7aeb07178f549475c9871164925c",
+      "message": "chore: prepare v0.4.5 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/sub3api-relay/commit/1792511dc19b7aeb07178f549475c9871164925c"
+    },
+    "Scan-the-computer-for-viruses": {
+      "sha": "0e58bfc6464414908ea21c19d67dc7159522de4c",
+      "message": "fix: sync v1.2.8 release metadata",
+      "date": "2026-11-17T04:23:04.000Z",
+      "url": "https://github.com/yuchen0x1/Scan-the-computer-for-viruses/commit/0e58bfc6464414908ea21c19d67dc7159522de4c"
+    },
+    "OpenWrt-Flashing-Guide-RE-CP02": {
+      "sha": "cb7a4f534eabc28c26be9306853c139bc4780bcc",
+      "message": "fix: hide crowded breadcrumb on tablet",
+      "date": "2026-11-17T04:29:32.000Z",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/commit/cb7a4f534eabc28c26be9306853c139bc4780bcc"
+    },
+    "Short-Video-Analysis": {
+      "sha": "748bff04de56d259794dd3e99767c8cf0d0883c8",
+      "message": "chore: prepare v1.1.12 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/Short-Video-Analysis/commit/748bff04de56d259794dd3e99767c8cf0d0883c8"
+    },
+    "Family-Genealogy-of-Hundreds-of-Clans": {
+      "sha": "b5ab7b6961abe52104c8b6e3ec36f4c8651bc70b",
+      "message": "chore: prepare v0.3.2 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/Family-Genealogy-of-Hundreds-of-Clans/commit/b5ab7b6961abe52104c8b6e3ec36f4c8651bc70b"
+    },
+    "Xray-server-management-panel": {
+      "sha": "d004e63167283d9b67c04d01adfcb4304b28f0b2",
+      "message": "feat: prepare v3.13.0 release",
+      "date": "2026-11-16T14:05:26.000Z",
+      "url": "https://github.com/yuchen0x1/Xray-server-management-panel/commit/d004e63167283d9b67c04d01adfcb4304b28f0b2"
+    },
+    "Internet-Speed-Test": {
+      "sha": "856845320bbf66d033332a79dcc948f7ff5a846b",
+      "message": "chore: prepare v1.14.1 release",
+      "date": "2026-11-17T03:53:26.000Z",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test/commit/856845320bbf66d033332a79dcc948f7ff5a846b"
+    },
+    "Doomsday-Survival-Guide": {
+      "sha": "640bc83a06d2c9b6142b6b7134e38314a1fdb3cc",
+      "message": "fix: keep biome line ending defaults",
+      "date": "2026-11-17T04:23:54.000Z",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide/commit/640bc83a06d2c9b6142b6b7134e38314a1fdb3cc"
+    },
+    "Audio-Studio": {
+      "sha": "7a58c56766c9763f1b147e3bce709499dd32e9e3",
+      "message": "test: stabilize locale-aware update tests",
+      "date": "2026-11-17T04:20:52.000Z",
+      "url": "https://github.com/yuchen0x1/Audio-Studio/commit/7a58c56766c9763f1b147e3bce709499dd32e9e3"
+    },
+    "yuchen0x1": {
+      "sha": "8893a776da7ec342e9ad24a850f1d0ae0cb04a3a",
+      "message": "docs: sync profile index with latest repositories",
+      "date": "2026-11-17T01:34:05.000Z",
+      "url": "https://github.com/yuchen0x1/yuchen0x1/commit/8893a776da7ec342e9ad24a850f1d0ae0cb04a3a"
+    }
+  },
+  "readmesByRepo": {
+    "PROJECT-NEXUS": {
+      "markdown": "# PROJECT NEXUS\n\n<p align=\"center\">\n  <img src=\"assets/branding/PROJECT-NEXUS-icon-256.png\" width=\"96\" alt=\"PROJECT NEXUS\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/yuchen0x1/PROJECT-NEXUS/releases/latest\"><img src=\"https://img.shields.io/github/v/release/yuchen0x1/PROJECT-NEXUS?label=%E6%9C%80%E6%96%B0%E7%89%88\" alt=\"最新版本\"></a>\n  <img src=\"https://img.shields.io/badge/%E7%8A%B6%E6%80%81-0.x%20%E5%BC%80%E5%8F%91%E9%A2%84%E8%A7%88-orange\" alt=\"开发预览\">\n  <img src=\"https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%20x64-0078d6\" alt=\"Windows x64\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-MIT-blue\" alt=\"MIT License\"></a>\n  <a href=\"https://project-nexus.edgeone.dev/\"><img src=\"https://img.shields.io/badge/%E5%AE%98%E7%BD%91-project--nexus.edgeone.dev-teal\" alt=\"官网\"></a>\n</p>\n\n**Windows 桌面 AI 仓库研发与运维工作站。** 连接 GitHub、本地项目目录与已安装的桌面 AI 编程客户端，持续监控仓库、主动研究同类开源项目、生成升级建议、在隔离工作区中修复与独立验证，并按授权策略交付变更。\n\n**在线宣传页：[project-nexus.edgeone.dev](https://project-nexus.edgeone.dev/)**（源码在 `website/`）\n\n> **发布状态（如实说明）**：v0.9.3 已正式发布为 Windows x64 开发预览，安装包未配置 Authenticode 签名；安装包 SHA-256 以 [GitHub Release v0.9.3](https://github.com/yuchen0x1/PROJECT-NEXUS/releases/tag/v0.9.3) 资产为准，不是 v1.0 稳定版。完整能力边界见 [已知限制](docs/AUTONOMY_V2_LIMITATIONS.md)。\n\n## 最新更新\n\n\n### v0.9.3 · 项目自主演进与 API 稳定性升级\n\n- API 请求具备统一追踪 ID、安全响应头、单进程速率保护、结构化错误响应和超时预算，异常更容易定位。\n- 同类项目研究默认覆盖 15 个候选，采用有界并发和 prompt 预算，研究任务不会因单个来源拖垮整个队列。\n- Web 与桌面入口按需加载，首屏资源拆分；GitHub 配置页区分 PAT、App 和安装状态。\n- 新增项目审计、竞品分析、升级路线图和升级交付报告，明确已完成、部分完成和外部阻塞项。\n\n[查看完整发布记录](docs/releases/release-notes.md)\n### v0.9.2 · 验证后草稿 PR 交付与桌面体验修复\n\n- 任务通过独立验收后，可从任务中心把隔离 `nexus/auto/*` 分支提交、推送并创建草稿 PR；网络中断重试会复用已推送提交。\n- 桌面客户端探测失败、窗口识别和自动运维动作都显示明确的处理中、完成或失败提示，不再把发送成功当作代码修复成功。\n- 打包后的 UI Automation 驱动按安装目录解析，窗口识别失败时保留主界面并显示具体限制。\n- 合并和正式发布仍是独立的人工确认步骤，任务详情显示验收、提交和 PR 状态。\n\n[查看完整发布记录](docs/releases/release-notes.md)\n\n### v0.9.1 · 第二阶段闭环能力与真实诊断\n\n- 桌面客户端中心增加 ChatGPT Desktop 与 WorkBuddy 的独立能力检测，按真实 UI Automation 控件识别登录、项目、输入框和发送能力，并在客户端受限时明确转入人工接管。\n- 安全扫描接入 CodeQL、Semgrep、Gitleaks、Trivy 的安装探测、版本记录、结果解析、报告保存和历史对比；工具缺失或依赖审计失败会显示为 `BLOCKED`。\n- GitHub 交付流程支持隔离分支、提交推送、草稿 PR、Review/Checks/Actions 读取，以及受明确授权保护的合并、Release 和通知操作。\n- 任务中心保留重启恢复、网络恢复、幂等防重和短时持续运行证据，并如实展示尚未完成的 24 小时测试与客户端限制。\n\n[查看完整发布记录](docs/releases/release-notes.md)\n\n## 项目定位\n\n用户只需：添加 GitHub 仓库 → 绑定本地目录 → 配置 GitHub 连接与桌面 AI 客户端 → 设置运行周期和权限 → 启动自动运维。此后由 NEXUS 在后台完成监控、分析、任务生成、AI 执行调度、独立验收与受控交付。\n\n**桌面客户端模式不需要 AI API Key**：直接利用 Windows 上已安装、已登录的 ChatGPT Desktop 或 WorkBuddy。传统 API 模式保留且与之独立。\n\n## 核心功能\n\n### 自主运维（v0.9.0 新增，Autonomy Runtime V2）\n\n- **24/7 后台运行**：调度器运行在 Node 服务进程内，窗口最小化到托盘或关闭主窗口都继续工作；服务崩溃自动重启；重启后恢复未完成任务现场。\n- **增量仓库监控**：13 类资源（Issues、评论、PR、Review、提交、分支、Release、Actions、安全公告、Dependabot、Code/Secret Scanning、仓库配置），ETag 条件请求、游标续查、分页、事件指纹去重、限流指数退避、Webhook 优先且自动回退轮询。\n- **Issue 生命周期**：关闭 ≠ 解决。真实核对关联 PR、合并状态、修复是否进入目标分支、测试、Review、新评论与回归，输出 9 态结论与置信度。\n- **持久化调度**：P0–P4 优先级、全局并发上限、同仓库写入互斥、客户端占用管理、任务幂等去重、失败退避、超时终止、暂停/取消/人工接管、append-only 审计日志。\n- **桌面 AI 客户端适配器**：ChatGPT Desktop、WorkBuddy、Codex CLI（明确区分同包不同入口）、Generic 配置驱动；独立能力检测表；Windows UI Automation 按窗口/控件识别（不用固定坐标、不用固定 Sleep）；项目归属强制校验；幂等发送；失败截图与可靠人工接管。\n- **完整任务包**：仓库信息、base SHA、问题证据、复现方法、预期结果、关联 Issue、同类项目参考、推荐方案、禁止修改项、测试要求、验收标准与文档要求；发送前双重脱敏检查。\n- **独立验收**：Git Worktree 隔离（脏工作区直接拒绝）、diff 范围/删除/敏感文件/密钥审查、按项目真实配置探测并执行测试与构建、失败有限轮次重派。\n- **发布门禁**：9 项独立条件、patch/minor/major 版本计算、CHANGELOG 生成、内容指纹防止重复发布。\n- **同类项目情报**：GitHub Search 发现并持久化、跟踪真实 release/commit/issue/PR、12 项移植分析、开源许可证兼容矩阵。\n- **精确就绪诊断**：把「AI API 未配置 / 桌面客户端未连接 / 扫描未完成 / manifest 按技术栈判断 / 任务尚未生成 / 任务不可执行」分开报告，桌面模式不因缺少 API Key 被阻断。\n- **指挥中心界面**：首页 12 项真实指标、全局自动运维开关与立即动作、仓库监控、客户端能力表、任务与执行监控、智能研究、审计日志。无演示数据。\n\n### 既有能力（全部保留）\n\n- 七步教学上手、批量仓库托管、十语言界面、深浅色跟随系统。\n- Issue 巡检分类、AI 修复流水线、仓库扫描、安全扫描、竞品研究、升级提案。\n- 本机 Codex `app-server` 官方桥接、Agent runtime（plan → edit → verify → review）、隔离沙箱。\n- 仓库来源档案（Fork/共同提交证据、ZIP 基线三方比较）。\n- 应用内自动更新、Draft PR / Release 管理、GitHub App 与 Webhook HMAC。\n- 明确授权边界：脚本执行、远程写入、合并发布均需逐项授权。\n\n## 系统架构\n\n```\nElectron 主进程 (托盘常驻 / 崩溃重启 / DPAPI 凭据)\n   └─ Node 服务进程 server/index.mjs (Express, 127.0.0.1:4317)\n        ├─ 既有 /api/* 与 60+ services（未改动）\n        └─ /api/autonomy/*  ←  server/autonomy/  (Autonomy Runtime V2)\n             ├─ engine.mjs        调度与编排\n             ├─ monitor.mjs       GitHub 增量监控\n             ├─ desktop/          桌面客户端适配器 + UIA 驱动\n             ├─ workspace.mjs     Git Worktree 隔离\n             ├─ reviewer.mjs      独立验收与发布门禁\n             ├─ intelligence.mjs  就绪诊断与同类项目情报\n             ├─ db.mjs            SQLite (schema v2) + JSON 降级\n             └─ api.mjs           REST + 后台 ticker\nReact / Vite 前端（20 个既存页面 + 1 个指挥中心）\n```\n\n数据：`data/state.json`（既有 schema v4，不迁移）与 `data/autonomy.db`（新增，独立）。详见 [架构说明](docs/AUTONOMY_V2_ARCHITECTURE.md)。\n\n## 安装方式\n\n[下载 Windows x64 安装包](https://github.com/yuchen0x1/PROJECT-NEXUS/releases/latest) · [版本说明与 SHA256 校验](https://github.com/yuchen0x1/PROJECT-NEXUS/releases/latest)。0.8.2 及更高安装版可在设置中「检查更新」。\n\n1. 在 Windows 10/11 x64 运行安装程序。\n2. 首次启动自动进入教学；之后可从工作台或顶部「一键教学」重看。\n3. 配置 GitHub 连接与（可选）AI API。\n4. 添加要管理的仓库，绑定本地目录与桌面客户端项目。\n5. 设置自动化等级，开启自动运维。\n\n窗口可最小化到托盘继续运行；退出应用或关机后本机任务停止，开机启动由用户在设置中启用。后台是 Electron 管理的 Node 子进程，不安装 Windows 系统服务。\n\n### 开发者运行\n\n需要 Node.js 22+、npm、Git。\n\n```bash\nnpm ci\nnpm run desktop:dev\n```\n\n网页/API 开发：`npm run dev`；生产后端：`npm run build && npm start`。环境模板见 `.env.example`；`npm start` 不自动加载 `.env`，需要时 `node --env-file=.env server/index.mjs`。默认 API 仅监听 `127.0.0.1:4317`。\n\n## AI 客户端接入方式\n\n| 客户端 | 检测 | 说明 |\n| --- | --- | --- |\n| ChatGPT Desktop | MSIX 包 `OpenAI.Codex` + 进程 `ChatGPT` | 与同包的 Codex CLI 是不同入口 |\n| WorkBuddy | 卸载注册表 + 进程 `WorkBuddy` | 独立安装 |\n| Codex CLI / Generic | 进程 / 配置驱动 | 见文档 |\n\n- **无需 AI API Key**：桌面客户端模式直接驱动已登录的客户端。\n- 每个仓库单独配置 `agentAdapterId` 与 `agentProjectRef`，发送前强制校验项目归属，不确定即停止。\n- 若 UI Automation 不可用或控件无法识别，NEXUS 生成完整任务包并进入人工接管；结果仍由 Git diff 与测试独立验收，不采信 AI 自我报告。\n- 传统 API 模式（AI_BASE_URL / AI_API_KEY / AI_MODEL）保留，二者独立。\n\n完整说明：[桌面 AI 客户端接入](docs/AUTONOMY_V2_DESKTOP_CLIENTS.md)。\n\n## GitHub 接入方式\n\n- 应用内 GitHub Token 或 GitHub App 安装；只读监控需要 `repo` / `actions:read` / `security_events:read`。\n- 每个仓库可配置监控周期（5/15/30/60 分钟或自定义）、监控项、Webhook 开关。\n- Webhook 有效时事件驱动，停止投递后自动回到轮询；既有 `/api/github/webhook` 继续可用。\n- 默认不做任何远程写入；PR / 合并 / Release 需显式授权与发布门禁。\n\n完整说明：[GitHub 配置](docs/AUTONOMY_V2_GITHUB_SETUP.md)。\n\n## 自动运维使用方法\n\n指挥中心（导航「AI 自动运维」）提供：\n\n- **启动 / 暂停 / 恢复**：全局自动运维开关。\n- **立即扫描 / 立即研究 / 执行待处理任务 / 停止当前任务**：手动触发。\n- **12 项首页指标**：管理仓库、正常仓库、新问题、待修复、AI 执行中、已修复、待验收、安全风险、同类项目更新、最近版本、执行记录、客户端状态。\n- **六个页签**：总览（含就绪诊断）、仓库监控、桌面客户端（能力表 + 真实窗口识别）、任务与执行、智能研究、审计日志。\n\nREST 控制示例：\n\n```bash\ncurl -X POST http://127.0.0.1:4317/api/autonomy/control/scan-now\ncurl -X POST http://127.0.0.1:4317/api/autonomy/adapters/probe\ncurl http://127.0.0.1:4317/api/autonomy/overview\n```\n\n## 权限设置\n\n| 模式 | 能力 |\n| --- | --- |\n| `observe`（默认） | 只监控、扫描、分析、生成建议，不改代码 |\n| `repair` | 允许隔离分支修改 + 测试；合并与发布需人工确认 |\n| `autonomous` | 额外允许符合规则的低风险修复、PR、合并与发布 |\n\n始终需人工确认：删除远程仓库、强推、覆盖未提交修改、删除用户数据、修改凭据、高危安全事件、仓库权限变更、发布有严重问题的版本。自动合并与自动发布是**两个独立开关**。详见 [权限与安全策略](docs/AUTONOMY_V2_PERMISSIONS.md)。\n\n## 常见问题\n\n**没有 AI API Key 能用吗？** 能。桌面客户端模式完全独立，不会因为缺少 API Key 被判为不可用（诊断里 `AI_API` 与 `DESKTOP_CLIENT` 分开报告）。\n\n**为什么任务停在「等待人工接管」？** 通常是 UI Automation 不可用、项目控件无法识别、或项目归属不确定。界面会显示原因与任务包路径；按指引在客户端粘贴任务包后，用「会话处理」标记完成，NEXUS 会独立验收。\n\n**为什么 Issue 关闭了仍显示「无法确认」？** 设计如此。关闭不等于解决，必须有 PR、合并、分支包含、测试、Review 及独立回归测试证据。\n\n**会改动我未提交的代码吗？** 不会。原工作区有任何未提交修改时，任务直接被拒绝；任务只在独立 Git Worktree 的 `nexus/auto/*` 分支进行。\n\n**会自动 push / 发布吗？** 默认不会。需显式开启远程写入、`autoRelease`、`autonomous` 模式与发布批准，且通过全部 9 项门禁。\n\n**监控会重复下载仓库吗？** 不会。ETag 条件请求命中 304 时直接跳过；只处理游标之前的新条目；事件指纹去重。\n\n**数据库在哪？** `%LOCALAPPDATA%\\PROJECT NEXUS` 或源码运行的 `data/`：`autonomy.db`（新增）与 `state.json`（既有，未迁移）。\n\n## 截图\n\n<p align=\"center\">\n  <img src=\"docs/screenshots/autonomy-v2-overview.png\" width=\"720\" alt=\"PROJECT NEXUS 自动运维指挥中心\">\n</p>\n\n**自动运维指挥中心**（v0.9.0，真实运行截图）：[查看大图](docs/screenshots/autonomy-v2-overview.png) — 12 项实时指标、全局自动运维开关、6 个页签、六类精确就绪诊断与真实扫描记录。\n\n工作台总览：[docs/screenshots/overview.png](docs/screenshots/overview.png)。\n\n### v0.9.0 发布资产\n\n[下载 v0.9.0 Windows x64 安装包与校验文件](https://github.com/yuchen0x1/PROJECT-NEXUS/releases/tag/v0.9.0)（正式 Release，4 个资产：安装包、`.blockmap`、`SHA256SUMS.txt`、`latest.yml`）。\n\n| 文件 | 大小 | 说明 |\n| --- | --- | --- |\n| `PROJECT-NEXUS-0.9.0-win-x64-setup.exe` | 118 MB | NSIS x64 安装包，**未签名** |\n| `PROJECT-NEXUS-0.9.0-win-x64-setup.exe.blockmap` | 127 KB | 增量更新块映射 |\n| `SHA256SUMS.txt` | 104 B | SHA-256 校验 |\n| `latest.yml` | 371 B | 应用内自动更新清单（0.8.2+ 可直接检查更新升级） |\n\n安装包 SHA-256：`dc96e52721d51ffe902b296c1e5fdd5f0619ed145a8fea7f419c140110acc999`\n\n本地重新构建（本次因 `release/win-unpacked` 被运行中的旧实例占用，改用独立输出目录）：\n\n```bash\nnpm run build\nnpx electron-builder --win nsis --x64 --publish never -c.directories.output=release-v090\n```\n\n`release-v090/` 与历史 `release/` 均由 `.gitignore` 忽略，不进版本库。\n\n## 测试方法\n\n```bash\nnpm run check          # typecheck + lint + 全量单元测试 + 构建\nnpm run i18n:audit     # 十语言审计\nnpm run i18n:coverage  # 翻译覆盖率\nnode tests/autonomy-live-github.mjs   # 真实 GitHub 只读 + 真实 UIA 验收（需 GITHUB_TOKEN）\n```\n\n真实测试记录：[测试报告](docs/AUTONOMY_V2_TEST_REPORT.md)、`docs/evidence/autonomy-v2-live-acceptance.json`、`docs/evidence/autonomy-v2-full-test.log`。\n\n`tests/v1-live-acceptance.mjs` 需要真实 GitHub/AI 凭据与严格命名的临时测试仓库，**会写入该仓库**，不得指向业务项目。\n\n## 未来规划\n\n- 完成控件级桌面客户端自动化的真实端到端验证与客户端控件指纹库。\n- 集成与项目技术栈匹配的安全工具链（CodeQL / Semgrep / Gitleaks / npm audit 等）。\n- 引入专门的静态 Bug 分析引擎与更深的质量评分模型。\n- 完善同类项目相关性量化评分与自动升级建议优先级。\n- 新增指挥中心页面的完整十语言文案。\n- 真实 24 小时浸泡运行与完整远程交付闭环验收。\n- 签名安装包与更严格的隔离宿主。\n\n## 文档\n\n- [现状审计](docs/AUTONOMY_V2_BASELINE_AUDIT.md) · [新版架构](docs/AUTONOMY_V2_ARCHITECTURE.md) · [更新日志](CHANGELOG.md)\n- [桌面客户端接入](docs/AUTONOMY_V2_DESKTOP_CLIENTS.md) · [GitHub 配置](docs/AUTONOMY_V2_GITHUB_SETUP.md) · [权限](docs/AUTONOMY_V2_PERMISSIONS.md)\n- [数据库迁移](docs/AUTONOMY_V2_DATABASE.md) · [测试报告](docs/AUTONOMY_V2_TEST_REPORT.md) · [安全审计](docs/AUTONOMY_V2_SECURITY_AUDIT.md) · [已知限制](docs/AUTONOMY_V2_LIMITATIONS.md)\n- [用户指南](docs/USER_GUIDE.md) · [安全说明](docs/SECURITY.md) · [完整发布记录](docs/releases/release-notes.md)\n\n## 许可证\n\n[MIT](LICENSE) © 2026 冷漠不是神 (yuchen0x1)\n\n\n## 2026-11-16 项目演进审计\n\n本轮以 v0.9.2 为基线完成了真实代码审计、16 个开源项目对标和 36 项升级路线图。已落地的变更包括：API 请求追踪 ID、安全响应头、单进程速率保护、结构化 API 404/错误边界、HTTP 超时、15 候选竞品研究、研究并发池与 prompt 预算、Web/Electron 入口按需加载，以及 GitHub PAT/App 状态分层。\n\n- [项目现状审计](PROJECT_AUDIT.md)\n- [竞品对标分析](COMPETITOR_ANALYSIS.md)\n- [36 项升级路线图](UPGRADE_ROADMAP.md)\n- [本轮升级交付报告](UPGRADE_REPORT.md)\n\n本轮没有推送、创建 PR、发布或部署；签名更新、严格 Windows 隔离、真实外部工具扫描、远程写入和 24 小时 soak 仍按 BLOCKED/PARTIAL 记录。\n",
+      "branch": "main",
+      "collectedAt": "2026-11-17T18:11:12.895Z"
+    },
+    "mind-bench": {
+      "markdown": "# MIND BENCH\n\n[![CI](https://github.com/yuchen0x1/mind-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/yuchen0x1/mind-bench/actions/workflows/ci.yml)\n[![Release](https://img.shields.io/github/v/release/yuchen0x1/mind-bench)](https://github.com/yuchen0x1/mind-bench/releases/latest)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)\n\n**把同一道题交给多个 AI，保存原始回答，用可追溯的规则比较它们。** 本项目在你自己的电脑上运行，适合模型选型、提示词改进、回归评测和回答复核。\n\n![MIND BENCH 本地评测工作台](screenshots/dashboard.png)\n\n## 你可以用它做什么\n\n| 你想完成的事 | 在 MIND BENCH 中怎么做 |\n| --- | --- |\n| 比较两个模型谁更适合某类任务 | 添加模型 → 选同一批题 → 多模型测试 → 并排比较回答与评分 |\n| 改进自己的提示词 | 复制题目 → 在提示词工作台编辑 → 保存版本与变体 → 重复测试 |\n| 检查模型升级后是否退步 | 固定题目与参数 → 保存运行清单 → 按运行时模型版本查看结果 |\n| 检查开放式回答质量 | 规则评分 → 选择其他模型匿名裁判 → 人工复核 → 导出报告 |\n| 不配置 Key 先体验流程 | 添加 Mock 供应商和模型 → 运行单题 → 查看明确标记的模拟报告 |\n\n## 最新更新\n\n### Unreleased · 2026-11-17\n\n界面支持自动跟随浏览器或系统语言，也可手动选择简体中文或 English，并在本地浏览器中保留选择。工作台导航、运行状态、主题设置、更新提示和系统设置等核心界面会即时切换；题库题面、参考答案和评测数据保持原文。\n\n### 0.3.0 · 2026-11-16\n\n在既有可复现运行清单的基础上补充了确定性挑战种子、进程重启后的会话恢复、供应商类型与 URL 边界校验、CSV 导出公式注入防护、数据集原文 SHA-256、评分配置边界校验、请求 ID、审计/历史分页响应头，并修复了 `/api/tasks/export` 被动态路由误匹配的缺陷。发布包已完成独立校验。\n\n### 0.2.1 · 2026-11-13\n\n首个公开版本，支持带来源的题库、多模型评测、三层评分、可复现运行清单和报告导出。报告可自动刷新并停止测试，历史裁判使用运行时题目快照。提供完整的前后端发布包与 MIT 许可证。\n\n[完整发布记录](docs/releases/release-notes.md) · [下载最新版本](https://github.com/yuchen0x1/mind-bench/releases/latest) · [提交问题](https://github.com/yuchen0x1/mind-bench/issues)\n\n## 第一次使用：5 分钟走通流程\n\n1. 安装 **Node.js 24+**。下载 Release 中的 `mind-bench-0.3.0.tar.gz` 并解压。\n2. 在解压目录执行 `npm ci --omit=dev`，再执行 `npm start`，打开 <http://127.0.0.1:3000>。\n3. 在「模型管理」添加供应商和模型。先体验可选「Mock 沙盒」，真实评测再配置自己的供应商地址与 API Key。\n4. 打开「题库探索」→ 选择一题 → 勾选模型 →「发送测试」。也可在「测试中心」组织批量测试。\n5. 在「测试历史」打开报告，查看原始回答、运行清单和评分，按需发起 AI 裁判、人工复核或导出 JSON/CSV。\n\nRelease 已包含构建好的界面。若从 Git 克隆源码，请改用 `npm ci` → `npm run build` → `npm start`。\n\nMIND BENCH（AI 智力评测竞技场）是一个**可真实运行**的本地 AI 模型评测工作台：维护带来源、许可与版本信息的题库，调用你自己配置的模型 API，完整保存原始回答与运行元数据，用确定性规则 + AI 裁判 + 人工复核三层机制评分，并输出可追溯的排行榜。\n\n它不是静态演示页，也不是截图站。每个主要按钮都有对应的后端行为，所有分数都由真实运行记录聚合得出；没有运行记录时排行榜**会诚实地留空**，而不是塞入示例数据。\n\n> **解释边界（重要）：** MIND BENCH SCORE 是本平台定义的实验性模型评测分数（0—100 分制，可换算为 0—1000），**不是**人类 IQ、不构成心理测量结果，也不是权威模型排行榜。内置 203 道题为原创草案/待复核状态，不应据此发布严肃的能力排名。Mock 供应商只用于流程验证，界面会明确标注 `MOCK`，不参与评分、不进入正式榜单。\n\n---\n\n## 目录\n\n- [功能状态](#功能状态)\n- [界面截图](#界面截图)\n- [技术架构](#技术架构)\n- [快速开始](#快速开始)\n- [配置模型供应商](#配置模型供应商)\n- [评分体系](#评分体系)\n- [排行榜与权重](#排行榜与权重)\n- [题库与数据导入](#题库与数据导入)\n- [数据库](#数据库)\n- [开发与测试](#开发与测试)\n- [环境变量](#环境变量)\n- [已知限制](#已知限制)\n- [文档与许可证](#文档与许可证)\n\n---\n\n## 功能状态\n\n下表的\"状态\"列区分了**已实现并验证**、**已实现但缺真实 Key 验证**、**未实现**三种情况。这是刻意的诚实标注。\n\n| 模块 | 能力 | 状态 |\n| --- | --- | --- |\n| 题库 | 203 道原创题 / 15 个一级分类 / 4 档难度 / 20 字段结构 / 来源与许可记录 | ✅ 已实现 |\n| 题库 | 搜索、分类筛选、难度筛选、卡片/列表双视图、收藏 | ✅ 已实现 |\n| 题库 | 单题详情：中英文提示词、目标、参考答案、评分规则、常见错误、版本历史、变体 | ✅ 已实现 |\n| 题库 | 复制为新题（真实落库）、编辑副本、变体管理、版本快照 | ✅ 已实现 |\n| 题库 | JSON 导入/导出、外部数据集（JSONL/CSV）适配、许可证强制、原文 SHA-256 留痕 | ✅ 已实现 |\n| 供应商 | 13 种类型：OpenAI / Anthropic / Gemini / DeepSeek / 智谱 / Moonshot / MiniMax / 通义千问 / OpenRouter / Ollama / LM Studio / OpenAI 兼容 / Mock | ✅ 已实现 |\n| 供应商 | 测试连接、**从供应商接口获取模型列表**、默认模型、成本配置 | ✅ 已实现 |\n| 供应商 | API Key AES-256-GCM 加密存储，API 永不返回明文 | ✅ 已实现 |\n| 测试 | 8 种模式：单题 / 分类 / 综合 / 极限 / 随机 / 稳定性 / 自定义 / 外部回答 | ✅ 已实现 |\n| 测试 | 单模型、多模型、全部模型、重复测试、手动粘贴外部回答 | ✅ 已实现 |\n| 测试 | 并发控制、超时、取消、单模型失败隔离 | ✅ 已实现 |\n| 测试 | 原始回答完整保存（不改写、不猜测隐藏思维链） | ✅ 已实现 |\n| 测试 | 可复现运行清单：题目/模型/参数/评分/环境快照、SHA-256 完整性摘要、JSON 导出 | ✅ 已实现 |\n| 发布 | 完整前后端压缩包、逐文件摘要、Web 版本检测、Windows/Linux CI 和标签发布工作流 | ✅ 已实现 |\n| 运行可信度 | 随机挑战种子、进程重启会话恢复、请求 ID 与分页响应头 | ✅ 已实现 |\n| 评分 | 确定性规则 10 种：exact / one_of / contains / all_keywords / any_keywords / numeric / regex / json / word_limit / manual | ✅ 已实现 |\n| 评分 | **AI 裁判**：匿名化候选、固定 Rubric、严格 JSON、服务端重算总分、多裁判交叉验证 | ✅ 已实现 |\n| 评分 | 人工评分与复核，人工分不被 AI 覆盖 | ✅ 已实现 |\n| 对比 | 并排卡片、LCS 逐词差异高亮、逐项评分矩阵、两两对比 | ✅ 已实现 |\n| 排行榜 | 分类加权、覆盖度、趋势、版本过滤、qualifying/provisional 分级、CSV/JSON 导出 | ✅ 已实现 |\n| 工作台 | 提示词工作台：三栏编辑 + 实时评分预览 + 变体 | ✅ 已实现 |\n| 模型档案 | 雷达图、得分走势、最近运行、成功率、参数与成本 | ✅ 已实现 |\n| 数据 | 19 张表、外键、唯一约束、索引、迁移、审计日志 | ✅ 已实现 |\n| 部署 | Dockerfile + Compose（已实际 `docker build` 通过） | ✅ 已实现 |\n| 真实模型 | 真实供应商联网调用与计费 | ⚠️ 未验证（无 Key） |\n| 代码沙箱 | 在沙箱中执行模型生成的代码 | ❌ 未实现 |\n| 认证 | 账号体系、多租户、远程访问防护 | ❌ 未实现（单机本地应用） |\n\n---\n\n## 界面截图\n\n以下均为本地实际运行界面的 Chromium 截图，**不是设计稿**。总览、题库、单题与测试中心展示无真实用户数据的本地实例；工作台、模型管理、设置和 Mock 报告取自隔离实例的实际操作。截图使用回环端口与临时数据库，不展示真实 Key 或私人回答，Mock 不代表模型成绩。\n\n### 总览仪表盘\n\n顶部总览展示真实记录数量；还没有运行时，会显示引导和空状态，不填充虚构成绩。完整截图见本文开头。\n\n### 题库探索\n\n![题库探索](screenshots/task-library.png)\n\n### 单题详情与测试\n\n![单题详情](screenshots/task-detail.png)\n\n阅读提示词、参考答案与评分依据，选择模型后发送测试。\n\n### 组织批量测试\n\n![测试中心](screenshots/challenges.png)\n\n选择分类、难度、题量、模型与重复次数，用同一套配置组织可复现的评测。\n\n### 提示词工作台\n\n![提示词工作台](screenshots/prompt-workshop.png)\n\n### 模型管理与供应商发现\n\n![模型管理](screenshots/providers.png)\n\n### Mock 运行报告（带 MOCK 标注）\n\n![Mock 运行报告](screenshots/report-mock-labelled.png)\n\n### 无真实样本时的排行榜（诚实留空）\n\n![空排行榜](screenshots/leaderboard-empty.png)\n\n### 系统设置\n\n![系统设置](screenshots/settings.png)\n\n### 研究资料\n\n![研究资料](screenshots/research.png)\n\n### 移动端适配\n\n<p>\n  <img src=\"screenshots/mobile-dashboard.png\" alt=\"移动端总览\" width=\"300\" />\n  <img src=\"screenshots/mobile-nav.png\" alt=\"移动端导航\" width=\"300\" />\n</p>\n\n---\n\n## 技术架构\n\n```text\n┌──────────────────────────────────────────────────────────┐\n│  React 19 + Vite 8  (Hash 路由单页应用)                   │\n│  Framer Motion 动效 · Recharts 雷达/趋势图 · lucide 图标  │\n│  深色 / 浅色主题 · 桌面 / 平板 / 手机三档断点              │\n└───────────────────────────┬──────────────────────────────┘\n                            │ 同源 JSON API（50+ 个端点）\n┌───────────────────────────┴──────────────────────────────┐\n│  Express 5 (src/server.mjs)                              │\n│  ├── 路由与校验：限流、8MB body、CSP/nosniff/DENY         │\n│  ├── 供应商适配器 (src/providers.mjs)                     │\n│  │     OpenAI 兼容 / Anthropic Messages / Gemini          │\n│  │     generateContent / Ollama / LM Studio / Mock        │\n│  ├── 评分引擎 (src/scoring.mjs)  确定性规则                │\n│  ├── AI 裁判 (src/judge.mjs)     匿名 + Rubric + 重算      │\n│  └── 并发池 asyncPool + AbortController 取消/超时          │\n└───────────────────────────┬──────────────────────────────┘\n                            │ node:sqlite（WAL, 外键开启）\n┌───────────────────────────┴──────────────────────────────┐\n│  SQLite · data/mind-bench.sqlite · 19 张表                │\n│  AES-256-GCM 加密密钥 · data/.key                         │\n└──────────────────────────────────────────────────────────┘\n```\n\n设计细节见 [架构说明](docs/ARCHITECTURE.md)、[评分指南](docs/SCORING_GUIDE.md)、[基准方法论](docs/BENCHMARK_METHODOLOGY.md)、[开源项目研究](docs/OPEN_SOURCE_RESEARCH.md)。\n\n---\n\n## 快速开始\n\n**环境要求：** Node.js 24 或更新版本；本项目使用内置 `node:sqlite`，无需另外安装数据库。以下命令适用于 Git 克隆的源码；Release 压缩包无需重新构建。\n\n### Windows（PowerShell / Windows Terminal）\n\n```powershell\nnpm ci\nnpm run build\nnpm start\n```\n\n打开 <http://127.0.0.1:3000>。`Ctrl+C` 停止。\n\n### macOS / Linux\n\n```bash\nnpm ci\nnpm run build\nnpm start\n```\n\n服务刻意绑定回环地址（`127.0.0.1`），只对本机开放。首次运行会在 `data/` 下创建 SQLite 数据库与本地密钥文件。\n\n### 开发模式（热更新）\n\n需要两个终端：\n\n```bash\n# 终端 1：API\nnpm run server\n```\n\n```bash\n# 终端 2：Vite 开发服务器\nnpm run dev\n```\n\n打开 <http://127.0.0.1:5173> 即可使用完整热更新界面。Vite 已将 `/api` 代理至 `http://127.0.0.1:3000`，API 进程需要保持运行。如后端使用其他端口，在启动 Vite 前设置 `MIND_BENCH_API_TARGET`（PowerShell 示例：`$env:MIND_BENCH_API_TARGET=\"http://127.0.0.1:3100\"`）。\n\n### Docker\n\n镜像已实际构建并运行通过：\n\n```bash\ndocker build -t mind-bench:local .\ndocker run --rm -p 127.0.0.1:3000:3000 -v mind-bench-data:/data mind-bench:local\n```\n\n或使用 Compose（同样只绑回环）：\n\n```bash\ndocker compose up --build\n```\n\n- 容器内 `HOST=0.0.0.0`（容器网络需要），但端口映射限定在 `127.0.0.1`。\n- 数据持久化在命名卷 `mind-bench-data`，挂载到 `/data`。\n- 以非 root 用户 `node` 运行。\n- 内置 healthcheck 请求 `/api/health`。\n- 自定义加密秘密：`-e MIND_BENCH_SECRET=...`。\n\n⚠️ 公网/共享部署前仍需身份认证、TLS、CSRF 校验、SSRF 防护与数据访问控制，见 [架构与信任边界](docs/ARCHITECTURE.md)。\n\n### AI 编程工具一键启动\n\n在支持终端的 AI 编程工具中打开项目目录，让它依次执行：检查 `node -v` → `npm ci` → `npm run build` → `npm start` → 访问 `http://127.0.0.1:3000`。**不要**把供应商 API Key 粘贴进聊天记录、代码或版本控制；Key 只应通过界面「模型管理」录入。\n\n---\n\n## 配置模型供应商\n\n1. 打开「模型管理」→「添加供应商」。\n2. 选择类型（如 `openai-compatible`、`deepseek`、`ollama`），填写显示名、Base URL、API Key。\n3. 保存后点「测试连接」验证连通性。\n4. 点「获取模型列表」——平台会按供应商类型请求对应发现端点（`/models`、`/api/tags`、`/v1beta/models`），从返回结果中挑选模型加入。\n5. 为每个模型配置显示名、温度、最大 Token、超时、重试与输入/输出成本（每百万 Token）。成本是**用户填写的估算值**，不是账单核验值。\n6. 可设置一个默认模型；可批量选择多个模型一起跑同一批题。\n\n**关于 Key 的安全性：**\n- Key 使用 AES-256-GCM 加密后写入本机 SQLite，加密密钥来自 `data/.key` 或环境变量 `MIND_BENCH_SECRET`（经 `scryptSync` 派生）。\n- 所有读取接口（`/api/providers`、`/api/models/:id` 等）只返回 `hasKey` 布尔值，**从不返回明文**。\n- `data/.key` 与数据库必须一起备份；丢失密钥会导致已保存的 Key 无法解密。\n- 切换 `MIND_BENCH_SECRET` 会使既有密文失效，需先完成迁移规划。\n\n**Mock 供应商**：无需 Key，用于验证全流程。Mock 回答会在会话与报告中标注 `MOCK`，不参与评分、不进排行榜、不计入 AI 裁判候选池。\n\n**外部回答**：在单题页粘贴其他平台的原始回答时，平台会保存为 `is_external=1` 的独立运行，允许统一评分、裁判和导出，但不会冒充所选模型的真实调用，也不会进入正式排行榜或真实模型统计。\n\n> 真实供应商调用会按其服务条款产生流量与费用。本仓库未配置任何真实 API Key，因此真实模型调用与跨供应商分数可比性**尚未验证**。\n\n---\n\n## 评分体系\n\n三层机制，明确区分\"客观\"与\"主观\"：\n\n### 1. 确定性规则（客观）\n\n由题目字段 `scoring_rule` 声明，服务端执行，结果可完全复现：\n\n| 方法 | 说明 | 内置题数 |\n| --- | --- | --- |\n| `all_keywords` | 必须包含全部关键词 | 84 |\n| `numeric` | 数值容差比较 | 40 |\n| `contains` | 包含任一关键片段 | 25 |\n| `exact` | 归一化后精确匹配 | 22 |\n| `json` | JSON Schema 结构校验 | 5 |\n| `regex` | 正则匹配 | 2 |\n| `manual` | 需人工评分 | 25 |\n\n统计：**178 / 203（87.7%）** 的题目可自动评分，其余 25 道为开放式主观题。\n\n### 2. AI 裁判（主观但可审计）\n\n`src/judge.mjs` 实现，用于开放式回答的辅助评分：\n\n- **匿名化**：提示词中候选回答标记为 `Candidate A`，裁判**不知道**回答来自哪个模型，避免品牌偏好。\n- **固定 Rubric**：维度来自题目 `scoring_dimensions`（默认「任务完成度 / 推理与约束遵循」），不允许裁判自行增删维度。\n- **严格 JSON**：要求返回 `{dimensions:[{name,score,reason}],strengths,weaknesses}`。自由文本、缺维度、多出维度、分数越界、`mock:true` 一律 422 拒绝，**而不是给 0 分**——宁可不评分，也不污染数据。\n- **服务端重算总分**：不信任模型自报的 `overall`，按维度权重重新加权计算。\n- **禁止自评**：候选模型 ID 与裁判模型 ID 相同时直接拒绝。\n- **多裁判交叉验证**：可同时选最多 3 个裁判，聚合输出均值、极差 `spread`、一致度 `agreement`，分歧过大时在报告页高亮提示。\n- **可人工复核**：人工评分后 AI 裁判不会覆盖（除非显式 `force`）。\n- **完整留痕**：`judge_verdicts` 表记录裁判模型 ID、模型版本、原始返回、解析结果与时间戳。\n\n### 3. 人工评分\n\n报告页对每条运行可手动打分并写评语，标记 `evaluator_type='human'`，进入排行榜时优先采信。\n\n### 4. 可复现运行清单\n\n每个测试会话在启动时保存不可变的 Run Manifest：\n\n- 题目 ID、版本、分类、中英文提示词全文、参考答案、目标、评分规则与评分维度快照；\n- 供应商、模型 ID、模型版本、温度、Token 上限、超时与重试参数；\n- 当前评分权重、客观评分器/裁判协议版本、模型输入/输出单价，以及实际使用的覆盖提示词（如有）；\n- Node.js、平台、架构、时区、并发上限和 Mock/外部回答标记；\n- 对规范化清单计算的 SHA-256 完整性摘要。\n\n新清单格式为 `1.1.0`。AI 裁判使用运行时保存的提示词、参考答案和量表，后续编辑题目不会改变这批运行的裁判依据；覆盖提示词也会纳入裁判。旧版清单缺少题目全文，仍沿用读取当前题目的兼容行为。\n\n运行中的报告会自动刷新，可直接点击「停止测试」；排队任务会保存为取消状态，不再发送模型请求。\n\n报告页展示清单摘要，`GET /api/sessions/:id/manifest` 可读取，报告 JSON 导出会内嵌清单，页面也支持单独导出 JSON。清单用于复跑与审计，不能把不同题库或权重版本的结果伪装成同一实验。\n\n### 分数换算\n\n单题得分 0—100 → 分类均值 → 按权重加权平均 → `weightedAverage × 10` → **0—1000 的 MIND BENCH SCORE**。\n\n详细规则见 [评分指南](docs/SCORING_GUIDE.md)。\n\n---\n\n## 排行榜与权重\n\n- **准入**：只有真实（非 Mock）、状态成功、已评分、且该分类有效样本数 ≥ `minimum_leaderboard_runs`（默认 10，可在「系统设置」修改）的运行才进入正式排名。\n- **两级排名**：`qualified`（满足准入，参与排名）与 `provisional`（样本不足，单列展示且可点击查看模型档案，不占名次）。\n- **分类加权**：15 个能力维度的权重来自 `system_settings.score_weights`，可在「系统设置」界面修改。报告页会显示权重来源，说明是否使用了非等权配置。\n- **覆盖度**：每行显示已覆盖分类数 / 15，提示\"分数基于部分能力\"。\n- **趋势**：近 7 日加权分 vs 前 7 日加权分的变化（`trend-up` / `trend-down`）。\n- **版本过滤**：可按运行时保存的模型版本筛选；后续编辑模型配置不改变旧记录的版本归属。题目版本另保存在运行清单中，当前没有独立的题库版本筛选器。\n- **导出**：`GET /api/leaderboard/export?format=csv|json`，含权重快照与阈值，便于复现。\n- **原始记录可追溯**：从榜行展开可见 15 类分项条，点击进入模型档案，再进入具体测试报告。\n\n> **不完整测试不会按 0 分混入。** 未完成、失败、未评分、Mock 的运行全部被排除在聚合之外，而不是当作 0 分参与平均。\n\n---\n\n## 题库与数据导入\n\n### 内置题库\n\n- 203 道原创题，15 个一级分类（逻辑推理、数学计算、抽象思维、空间想象、常识判断、语言理解、指令遵循、批判性思维、反直觉与陷阱、因果推理、长文本记忆、编程能力、科学推理、安全与鲁棒性、创造性思维），每类 13—14 题。\n- 难度分布：入门 51 / 进阶 67 / 困难 65 / 专家 20。\n- 每题携带 20 个字段：ID、名称、分类、子分类、难度、中文提示词、英文提示词、来源、来源仓库、许可证、目标、参考答案、评分规则、评分维度、常见错误、注意事项、版本、验证状态、是否公开、时间戳。\n- 验证状态：178 题 `review_required`（待复核）、25 题 `draft`（草案）。\n\n### 自建与编辑\n\n在「提示词工作台」中可创建全新题目，或从任意内置题「编辑副本」——副本会真实写入数据库（`derived_from` 记录来源），随后可编辑提示词、目标、评分规则，左侧实时显示评分预览，右侧管理变体（同一考点的不同问法）。\n\n### 外部数据集导入\n\n「题库导入」页面支持两条路径：\n\n1. **JSON 导入**：MIND BENCH 原生格式（`/api/tasks/export` 的产物）。\n2. **外部数据集适配**：JSONL 或 CSV，需填写**许可证**（必填，强制校验），支持字段别名映射（如 `question`→`promptZh`、`answer`→`referenceAnswer`）。导入的题目 `verification_status='imported'`，每次最多 1000 条，逐条错误随结果返回。\n\n⚠️ 导入前请自行确认数据集的再分发权与署名要求。**不要**把不可再分发的数据（如部分 MMLU/HellaSwag 变体）提交到公开仓库。参见 [第三方许可证清单](THIRD_PARTY_LICENSES.md) 与 [提示词与数据来源](docs/PROMPT_DATA_SOURCES.md)。\n\n---\n\n## 数据库\n\n19 张表，关系完整，非\"一个大 JSON\"：\n\n```text\nusers                  providers              models\nbenchmark_categories   benchmark_sources      benchmark_tasks\nbenchmark_task_versions  benchmark_test_cases  scoring_rubrics\ntest_sessions          test_runs              model_responses\nevaluation_results     judge_verdicts         leaderboard_snapshots\nfavorites              custom_prompts         system_settings\naudit_logs\n```\n\n要点：\n\n- 外键全部开启（`PRAGMA foreign_keys=ON`），WAL 模式。\n- `judge_verdicts` 有 `UNIQUE(run_id, judge_model_id)`，保证同一裁判对同一运行只保留一条（重复裁判为 UPSERT）。\n- 索引覆盖 `run_id` / `task_id` / `model_id` / `created_at` / `variant task_id` 等高频查询。\n- 轻量迁移：`src/db.mjs` 中 `ensureColumn()` 对既有库做幂等加列，不破坏历史数据。\n- 删除保护：内置题禁止删除（403）；有运行记录的题禁止删除（409）；供应商删除前检查关联模型。\n\n备份：干净停止服务后，同时复制 `data/mind-bench.sqlite`（及 `-wal` / `-shm`）与 `data/.key`。\n\n---\n\n## 开发与测试\n\n```bash\nnpm test              # Vitest：单元 + API 集成\nnpm run build         # Vite 生产构建\nnpm run test:e2e:install   # 首次安装 Playwright Chromium\nnpm run test:e2e      # Playwright 端到端\n```\n\n**本地验证记录（2026-11-13；Docker 项保留此前记录，本轮未重测）：**\n\n| 套件 | 结果 | 内容 |\n| --- | --- | --- |\n| `npm test` | **52 / 52 通过**（8 个文件） | 评分、裁判、供应商、API、快照、跨站请求、导入异常、计数、版本筛选、零权重等回归 |\n| `npm run test:e2e` | **8 / 8 通过** | 总览→题库→单题→复制→Mock→报告→排行榜→工作台→设置→研究→移动端，以及报告自动刷新/取消 |\n| `npm run build` | ✅ 成功 | — |\n| `docker build` | ✅ 成功 | 镜像可用 |\n\n测试隔离：`tests/setup.js` 将 `MIND_BENCH_DATA_DIR` 指向临时目录，`playwright.config.js` 同样注入隔离目录，**自动化测试不会写入或污染你的正式数据库**。\n\nE2E 覆盖的真实路径（非 mock 掉的前端）：\n\n1. 打开总览，校验 KPI 与图表渲染；\n2. 浏览题库、切换视图、进入单题详情；\n3. 点「复制为新题」验证真实落库并跳转工作台；\n4. 创建 Mock 供应商 → 添加模型 → 测试连接；\n5. 运行单题 → 等待完成 → 打开报告，校验 `MOCK` 标注；\n6. 打开排行榜，校验无真实数据时为空而非伪造数据；\n7. 在工作台编辑副本、保存、创建变体；\n8. 修改排行榜最小样本阈值并保存；\n9. 打开研究资料页，校验文档渲染；\n10. 切换移动端视口，校验布局与导航抽屉。\n\n---\n\n## 环境变量\n\n| 变量 | 默认值 | 说明 |\n| --- | --- | --- |\n| `PORT` | `3000` | HTTP 端口 |\n| `HOST` | `127.0.0.1` | 绑定地址；Docker 内为 `0.0.0.0` |\n| `MIND_BENCH_DATA_DIR` | `./data` | 数据库与密钥目录 |\n| `MIND_BENCH_SECRET` | 无 | 每次启动时用于派生加密密钥；已有数据时必须保持一致，不可直接更换 |\n| `MIND_BENCH_CONCURRENCY` | `4` | 并发模型调用数，上限 8 |\n| `MIND_BENCH_API_TARGET` | `http://127.0.0.1:3000` | Vite 开发模式的 API 代理目标，不影响生产服务 |\n\n---\n\n## 安全设计\n\n- **密钥**：AES-256-GCM 加密落库，密钥不返回前端；日志与错误信息不含 Key。\n- **输入**：所有请求体经字段级校验与长度截断；SQL 全部使用预编译语句（参数绑定），无字符串拼接。\n- **XSS**：React 默认转义；模型输出按纯文本渲染，不做 `dangerouslySetInnerHTML`。\n- **不可信数据**：提示词与模型返回被视为不可信输入，AI 裁判解析失败即拒绝，不做兜底猜测。\n- **限流**：每 IP 60 秒 240 次请求。\n- **请求体**：上限 8MB。\n- **安全头**：CSP、`X-Content-Type-Options: nosniff`、`X-Frame-Options: DENY`。\n- **取消与超时**：前端提交后立即获得会话 ID，后端以后台任务执行；`AbortController` + `AbortSignal.timeout` 可中途取消，不留悬挂连接。\n- **重试**：模型的 `max_retries` 对网络错误与 5xx 使用有限指数退避；4xx 和解析错误不会盲目重试。\n- **审计**：关键操作写入 `audit_logs`。\n- **代码执行**：平台**不会**在服务进程内执行模型生成的任何代码（无沙箱，因此也不提供\"执行\"按钮）。\n\n---\n\n## 已知限制\n\n1. **无真实 Key 验证**：本仓库未配置真实 API Key，因此真实供应商联网调用、计费精度、跨供应商可比性均未验证。所有已通过的测试使用 Mock 或本地 stub。\n2. **题库未经外部专家复核**：203 题均为原创草案，代表性、语言偏差、标准答案正确性需逐题人工审核。`review_required` 状态即表达此意。\n3. **AI 裁判是辅助手段**：裁判模型自身也有偏好与噪声；多裁判只能降低而非消除偏差。裁判结果永远标记来源，不应被当作客观真值。\n4. **无代码沙箱**：编程题只评\"回答文本\"，不执行代码，因此无法验证运行时正确性。\n5. **单机应用**：无账号体系、无多租户、无远程访问防护。**不要**直接暴露到公网。\n6. **旧版运行清单**：`1.0.0` 清单没有提示词与参考答案全文，历史 AI 裁判仍读取当前题目。新运行使用 `1.1.0` 快照，旧记录不会被重写。\n7. **供应商协议覆盖不全**：除 OpenAI 兼容、Anthropic Messages、Gemini `generateContent`、Ollama、LM Studio 外，各厂商专有特性（如 Anthropic 的 prompt caching、Gemini 的 grounding）未实现。\n8. **分数不可跨版本比较**：题库、评分规则或权重变化后，历史分数不应直接比较。排行榜支持模型版本过滤；题库差异需结合运行清单人工核对，不会自动归一化。\n9. **成本为估算**：单价由用户填写，与实际账单可能存在差异。\n\n---\n\n## 文档与许可证\n\n- [架构说明](docs/ARCHITECTURE.md) — 模块划分、信任边界、数据流\n- [用户指南](docs/USER_GUIDE.md) — 逐页面操作说明\n- [评分指南](docs/SCORING_GUIDE.md) — 三层评分机制、权重、换算\n- [基准方法论](docs/BENCHMARK_METHODOLOGY.md) — 能力体系、采样、解释边界\n- [测试数据指南](docs/TEST_DATA_GUIDE.md) — 出题规范、复核流程\n- [提示词与数据来源](docs/PROMPT_DATA_SOURCES.md) — 来源分级 A/B/C/D/E\n- [开源项目研究](docs/OPEN_SOURCE_RESEARCH.md) — lm-evaluation-harness、HELM、lighteval、promptfoo、OpenAI Evals、BIG-bench、ARC-AGI 的对照研究\n- [自动更新与发布](docs/AUTO_UPDATE.md) — Web 版本检测、缓存策略、GitHub Actions、Release 与安全边界\n- [API 参考](docs/API.md) — 48 个 HTTP 端点\n- [更新日志](CHANGELOG.md) · [贡献指南](CONTRIBUTING.md)\n\n**许可证：** 项目代码采用 [MIT](LICENSE)。内置原创题目沿用题库来源记录中的 `CC0-1.0`；外部导入数据按各自许可使用。第三方依赖见 [许可证清单](THIRD_PARTY_LICENSES.md) 与 [运行时 SBOM](docs/dependency-sbom.cdx.json)。**项目代码许可不替代外部数据集许可。** 安全问题请参阅 [SECURITY.md](SECURITY.md)。\n",
+      "branch": "main",
+      "collectedAt": "2026-11-17T18:11:12.895Z"
+    },
+    "aa-browser": {
+      "markdown": "# Aa Browser\n\n**为 AI Agent 而生的开源桌面浏览器。**\n\n![License](https://img.shields.io/badge/license-MIT-blue) ![CI](https://github.com/yuchen0x1/aa-browser/actions/workflows/ci.yml/badge.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey) ![MCP](https://img.shields.io/badge/protocol-MCP-purple) [![M8ven Score](https://m8ven.ai/badge/mcp/yuchen0x1-aa-browser-135ffo?v=5eaaa577bc85b8b59b5e327efd51d38c)](https://m8ven.ai/mcp/yuchen0x1-aa-browser-135ffo?s=readme)\n\n> 人像人一样浏览网页，Agent 像工程师一样驱动它。\n> **The Agent-Native Browser** — snapshots, actions, and packet capture over MCP.\n\n## 最新更新\n\n### v0.0.7 · 2026-11-17\n\n- 新增界面语言设置，支持自动跟随系统或浏览器语言，并可手动选择简体中文或 English；选择会持久化并立即应用到核心浏览器壳层。\n\n### v0.0.6 — 2026-11-16\n\n- 导航策略现在拒绝 `file:`、`data:`、`devtools:`、`view-source:` 等非网页协议，仅保留应用内部新标签页。\n- GitHub Release 安装器现在要求可验证的 SHA-256 digest；缺失、格式错误或不匹配都会中止安装。\n- 开启高危操作审批后，导出或查看未脱敏网络数据需要用户确认。\n- 新增项目审计、19 个开源项目对标和 40 项升级路线图，详见 [`PROJECT_AUDIT.md`](./PROJECT_AUDIT.md)、[`COMPETITOR_ANALYSIS.md`](./COMPETITOR_ANALYSIS.md) 和 [`UPGRADE_ROADMAP.md`](./UPGRADE_ROADMAP.md)。\n\n### v0.0.5 — 2026-11-16\n\n- MCP 工具列表现在为每个工具明确标注只读、破坏性、幂等性和开放世界提示，AI 客户端可以在调用前获得更准确的风险信息。\n- 工具清单与实际实现保持一致，并补充了按键、控制台日志等工具的回归覆盖，降低客户端看不到或调用失败的情况。\n- 客户端接入不再通过子进程探测 Node，改为无 shell 的 PATH 查找；找不到系统 Node 时自动回退到应用自带运行时。\n\n旧版用户首次请在「设置 → 软件更新」检查、下载并重启安装，或安装最新 Windows 安装包；新逻辑需升级后才会生效。\n\n完整版本历史见[发布说明](./docs/releases/release-notes.md)。\n\n传统浏览器是为\"人眼看像素\"设计的；而 AI Agent 需要的是**结构化页面数据**。Aa Browser 是一个完整的 Chromium 浏览器，任何人都可以正常使用它上网；同时，任何支持 MCP（Model Context Protocol）的 AI Agent 都可以连接进来，读取页面的**结构化快照**（可访问性树 + 元素 ref 编号），并执行点击、输入、选择、滚动、提取等操作——不看截图、不猜坐标。\n\n## 特性\n\n- 🖥️ **真浏览器**：基于 Electron（Chromium），标签页 / 地址栏 / 前进后退 / 登录态持久化，一应俱全\n- 🧠 **结构化快照**：页面被转换成 YAML 风格的可访问性树，每个可交互元素带 `ref` 编号（`- button \"登录\" [ref=e5]`），格式对齐 Playwright MCP 生态，Agent 零学习成本\n- 💸 **增量快照省 token**：页面没变 → 一行回复；小变化 → 只返回变更区块；ref 跨快照稳定复用（React 重渲染也能靠内容签名接上）；跳转/大变化自动回退完整快照。一次多步任务可省 60%+ 上下文\n- 🤖 **MCP 原生接入**：标准 stdio MCP 桥，Codex / ZCode / Claude Code / Cursor 等 MCP 客户端均可驱动\n- 🔒 **本地安全**：WebSocket 仅监听 127.0.0.1，随机端口 + 一次性 token，拒绝非本机连接\n- 🎯 **真实输入路径**：点击走受信任的输入事件（`isTrusted=true`），输入走 `insertText` 管线并对 React 受控组件兜底，被遮挡元素自动降级为合成事件\n- 🔁 **动作后自动快照**：每次点击/输入后自动返回新快照，Agent 无需二次请求即可继续决策\n\n## 快照示例\n\n在必应首页调用 `browser_snapshot` 得到：\n\n```text\n页面快照 url: https://www.bing.com/\ntitle: 搜索 - Microsoft 必应\n元素数: 19\n\n- banner \"登录 Rewards 手机版\"\n  - img \"必应\"\n  - navigation\n    - menuitem \"图片\" [ref=e1]\n    - menuitem \"视频\" [ref=e3]\n- search\n  - combobox \"搜索网页\" [ref=e15]\n  - button \"语音搜索\" [ref=e16]\n```\n\nAgent 随后：\n\n```jsonc\n{ \"tool\": \"browser_type\",   \"arguments\": { \"ref\": \"e15\", \"text\": \"Aa Browser\", \"submit\": true } }\n```\n\n点击/输入后自动返回的是**增量快照**——只有变化的区块：\n\n```text\n页面快照（增量） url: https://www.bing.com/search?q=Aa+Browser\ntitle: Aa Browser - 搜索\n变化: +6 / -1（共 214 行，其余未变，仍以上次快照为准）\n\n  - search\n+ - link \"agent-browser.dev\" [ref=e37]\n+ - text \"Browser automation for AI agents …\"\n- - text \"（旧的空白提示）\"\n\n新增 ref: e37 e38\n失效 ref: e12\n```\n\n页面未变化时只回一行（≈50 token）；跳转到新页面或变化过大时自动回退完整快照。`browser_snapshot { full: true }` 可强制完整树。\n\n## 架构\n\n```text\n┌─────────────────────────────────────────────────────┐\n│                Aa Browser (Electron)                │\n│  ┌───────────────────────────────────────────────┐  │\n│  │  外壳 UI（标签栏/地址栏） ←→ 主进程 IPC        │  │\n│  └───────────────────────────────────────────────┘  │\n│  ┌───────────────────────────────────────────────┐  │\n│  │  页面标签 WebContentsView × N                 │  │\n│  │    └─ 注入快照引擎（DOM → YAML 树 + ref 表）  │  │\n│  └───────────────────────────────────────────────┘  │\n│  ┌───────────────────────────────────────────────┐  │\n│  │  Agent 服务 ws://127.0.0.1:<random>           │  │\n│  │    ~/.aabrowser/connection.json (port+token)  │  │\n│  └───────────────────────────────────────────────┘  │\n└──────────────────────────┬──────────────────────────┘\n                           │ 本地 WebSocket（token 鉴权）\n┌──────────────────────────┴──────────────────────────┐\n│  cli/mcp.mjs —— stdio MCP 桥（零依赖）              │\n│    MCP 客户端：Codex / ZCode / Claude Code / Cursor …│\n└─────────────────────────────────────────────────────┘\n```\n\n## 快速开始\n\n### ⚡ WorkBuddy：一条消息安装并接入\n\n把 [PROMPT.md](./PROMPT.md) 中的 WorkBuddy 提示词整段发给 WorkBuddy。它会尝试下载并运行安装器，准备 `~/.workbuddy/mcp.json` 和本地 Connector 文件；这不保证 WorkBuddy 自动加载。需要时须通过 WorkBuddy 5.9.3 支持的“专家·技能·连接器”流程导入/启用，然后由当前会话实际调用 `browser_tabs` 验证。若产品不支持本地 Connector 导入或工具未出现，报告具体阻塞；不得以安装或配置文件生成声称已接通。\n\n手动 PowerShell 等效命令：\n\n```powershell\nInvoke-WebRequest https://raw.githubusercontent.com/yuchen0x1/aa-browser/main/install.mjs -OutFile install.mjs\nnode .\\\\install.mjs --repo yuchen0x1/aa-browser --clients workbuddy\n```\n\n### 其他 MCP 客户端\n\n```bash\nnode install.mjs --repo yuchen0x1/aa-browser                 # 自动拉 GitHub Releases 最新版\nnode install.mjs --repo yuchen0x1/aa-browser --clients zcode,cursor\n```\n\nWorkBuddy 路径尝试写入用户级 `~/.workbuddy/mcp.json` 并生成本地 Connector 包。配置写入、Connector 导入/启用、bridge 鉴权、工具调用成功是不同状态，必须分别确认；不能推断 WorkBuddy 会自动发现该 JSON，也不要改写 WorkBuddy 数据库、缓存或内部运行时文件。\n\n### 其他方式\n\n要求：Node.js ≥ 20，Windows / macOS / Linux。\n\n### 自动更新\n\n正式 Windows 安装版使用 GitHub Releases 和 `electron-updater` 检查更新。打开「设置 → 软件更新」可以手动检查、选择稳定版/Beta 通道、查看状态并在下载完成后重启安装。发布和配置说明见 [docs/AUTO_UPDATE.md](./docs/AUTO_UPDATE.md)。\n\n### 方式一：Windows 安装包（推荐给普通用户）\n\n```bash\nnpm run dist       # 产出 release/Aa Browser-Setup-<版本>.exe（NSIS 安装器）\n```\n\n双击安装（未做代码签名，Windows SmartScreen 会提示\"更多信息 → 仍要运行\"）。首次打开后，新标签页会提供安装与连接提示词：具备本机终端和文件操作能力的 AI 可按提示从官方仓库下载安装、写入客户端配置，并在重启/重新加载后实际调用 `browser_tabs` 验证。只有 AI 实际调用 `browser_tabs` 后，工具栏才显示「AI 已连接」；配置写入成功本身不代表接通。\n\n### 方式二：源码运行（开发者）\n\n```bash\ngit clone https://github.com/yuchen0x1/aa-browser.git aa-browser\ncd aa-browser\nnpm install        # 首次会下载 Electron，慢可设镜像：\n                   # export ELECTRON_MIRROR=https://npmmirror.com/mirrors/electron/\nnpm run build      # 构建主进程 / 预加载 / 渲染层\nnpm start          # 启动 Aa Browser\n```\n\n开发模式（热更新渲染层）：\n\n```bash\nnpm run dev\n```\n\n## 接入你的 Agent\n\n**方式 A · 一键接入（推荐）**：Aa Browser 工具栏「设置」→「连接 AI 客户端」→ 勾选 → 写入，然后重启 AI 客户端并按新标签页给出的安装与连接提示词实际调用 `browser_tabs`。工具栏显示「AI 已连接」才算验证通过；MCP 桥连上但尚未成功调用工具时会显示「等待 AI 首次调用」。\n命令行等效：`node cli/setup.mjs --yes`（`--list` 查看，`--client zcode,cursor` 指定目标）。\n支持传统配置式 MCP 客户端：**Codex（桌面端 / CLI / IDE）/ ZCode / Claude Code / Cursor / Windsurf / Cline / VS Code / Gemini CLI / Qwen Code**。Codex 配置写入用户级 `~/.codex/config.toml`；其他客户端写入各自 MCP 配置。写入前自动备份原配置为 `<file>.aa-backup-<时间戳>`，幂等可重复执行。保存后需重启客户端，并让它实际调用 `browser_tabs` 验证。\n\n**WorkBuddy**：CLI 会单独生成 `~/.workbuddy/mcp.json` 的 stdio 配置（覆盖前备份并只更新 `mcpServers.aa-browser`）。安装后必须在 WorkBuddy 会话中确认 `browser_tabs` 实际出现并成功调用；若 WorkBuddy 要求 MCP UI 授权或重连，完成后再验证。WorkBuddy 不是由“配置写入成功”自动判定连接成功。\n\n**方式 B · 通用手动 MCP 配置**：在 MCP 客户端配置中添加：\n\n```jsonc\n{\n  \"mcpServers\": {\n    \"aa-browser\": {\n      \"command\": \"node\",\n      \"args\": [\"C:\\Program Files\\aa-browser 或 %LOCALAPPDATA%\\Programs\\Aa Browser/cli/mcp.mjs\"]\n    }\n  }\n}\n```\n\n**前提**：Aa Browser 保持运行（它会在 `~/.aabrowser/connection.json` 写入本地端口与 token，MCP 桥通过它发现浏览器）。\n\n然后让 Agent 干活，例如：\"用浏览器打开 GitHub trending，把前 10 个项目整理成表格\" 或 \"打开 xx 后台，把登录后的接口响应都抓给我看\"。\n\n## MCP 工具\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_navigate` | 导航到 URL（非 URL 文本自动转搜索词；结果内嵌完整快照，`snapshot: false` 可跳过） |\n| `browser_snapshot` | 结构化页面快照（增量模式省 token；`full: true` 强制完整树） |\n| `browser_click` | 按 ref 点击（支持左键/右键/双击，自动返回增量快照） |\n| `browser_drag` | 按 ref 拖拽（拖到目标元素 `toRef` 或相对偏移 `dx, dy`，支持滑块与看板） |\n| `browser_type` | 按 ref 输入文本（支持 `submit` 回车提交、`clear` 清空） |\n| `browser_fill_form` | **批量填写**：一次调用填多个字段（文本/下拉/复选），末尾只回一次快照，省 token |\n| `browser_select_option` | 按 ref 选择下拉项（按 value 或可见文本匹配） |\n| `browser_scroll` | 滚动页面（先主文档，后最大滚动区域） |\n| `browser_extract` | 提取整页或指定元素的纯文本 |\n| `browser_evaluate` | 在页面执行 JS 表达式并返回 JSON（可按 ref 绑定 `element`） |\n| `browser_dialogs` | 读取页面弹过的 `alert`/`confirm`/`prompt`（已被拦截，不会卡死） |\n| `browser_wait` | 等待文本出现 / 消失 / 固定时长（`text``textGone`\\`time`） |\n| `browser_press_key` | 按键：Enter / Escape / 方向键 / 单字符等 |\n| `browser_screenshot` | PNG 截图（支持 `ref` 元素级截图：滚动到位并按包围盒裁剪） |\n| `browser_hover` | 按 ref 悬停（真实 mouseMove，触发悬停菜单/提示） |\n| `browser_navigate_back` / `browser_navigate_forward` | 历史后退 / 前进（返回增量快照） |\n| `browser_resize` | 调整视口尺寸（响应式测试） |\n| `browser_get_selector` | 导出元素的 CSS 选择器（DOM 回验，可复用于脚本/测试） |\n| `browser_find` | 页面内查找文本（原生 Ctrl+F：高亮全部匹配并定位第一处） |\n| `browser_cookies` | Cookie 读 / 写 / 清（登录态测试关键能力） |\n| `browser_storage` | localStorage / sessionStorage 读写与清空 |\n| `browser_downloads` | 下载捕获列表（静默保存到 ~/.aabrowser/downloads/，无弹窗） |\n| `browser_pdf` | 页面渲染为 PDF 并保存 |\n| `browser_upload_file` | 向 `<input type=file>` 上传本机文件（触发 change 事件） |\n| `browser_console` | 读取页面控制台日志 |\n| `browser_network_requests` | **抓包**：列出捕获的 HTTP 请求（方法/状态/类型/大小/耗时/URL，支持过滤） |\n| `browser_network_detail` | **抓包**：单个请求的完整请求/响应头 + 响应体（`body: true`） |\n| `browser_har` | **抓包**：导出 HAR 1.2 文件（可导入 DevTools/Fiddler 人工分析） |\n| `browser_mock_requests` | **拦截 Mock**：按 URL 子串+方法拦截请求，返回假状态/头/体（`action: continue` 只观察放行） |\n| `browser_list_mocks` | **拦截 Mock**：列出当前 mock 规则（匹配器/状态/命中次数） |\n| `browser_clear_mocks` | **拦截 Mock**：按 id 删除或清空全部 mock 规则 |\n| `browser_tabs` | 列表 / 新建 / 切换 / 关闭标签页 |\n\n## 安全说明\n\n- Agent 服务只监听 `127.0.0.1`，连接需携带启动时生成的随机 token\n- token 与端口写在用户目录 `~/.aabrowser/connection.json`（仅当前用户可读）\n- 一键接入写入其他客户端配置前**自动备份**、只改 `aa-browser` 一个键、幂等可重复\n- **注意**：Agent 能看到页面内容与网络流量，包括可能含秘密的 Cookie、Storage、请求头和响应体。敏感输入审批是基于页面字段特征的保护，不是通用 DLP；不要让不可信 Agent 访问高敏站点。\n- 网络详情和 HAR 默认脱敏；开启「高危操作人工确认」后，Agent 请求 `includeSensitive:true` 查看或导出未脱敏网络数据会先等待用户批准。\n- **站点白名单**：在设置中每行填写一个 `https://example.com` 或 `https://*.example.com` 规则；填写后仅允许匹配的 HTTP/HTTPS 站点导航，留空表示关闭白名单。\n- **会话隔离**：普通标签默认共享登录态；可在设置中启用隔离会话。隔离标签使用独立的 Electron session 分区，关闭后清理会话数据。\n\n## 项目结构\n\n```text\naa-browser/\n├── src/\n│   ├── main/          # 主进程：窗口 / 标签 / 动作 / 抓包 / Agent 服务 / MCP 工具 / 客户端接入\n│   ├── preload/       # 仅外壳 UI 的 IPC 桥（页面视图不挂 preload）\n│   ├── renderer/      # 浏览器外壳 UI（含设置面板）+ 新标签页\n│   ├── shared/        # 三方共享的协议类型\n│   └── snapshot/      # 注入引擎（DOM → 快照）与动作脚本\n├── cli/\n│   ├── mcp.mjs        # stdio MCP 桥（零依赖）\n│   └── setup.mjs      # 一键接入 CLI（零依赖）\n├── scripts/           # 冒烟测试 / 实战测试 / 图标生成\n├── electron.vite.config.ts\n└── electron-builder.yml\n```\n\n## 测试\n\n```bash\nnpm run smoke   # 端到端冒烟：启动浏览器 → MCP 驱动 → 断言（含抓包，无外网依赖）\nnpm run validate:codex # 验证 Codex TOML 接入、保留其他配置、备份与幂等\nnode scripts/live-test.mjs   # 实战示例：MCP 驱动必应搜索全流程\n```\n\n[MIT](./LICENSE)\n\n## 致谢\n\nAa Browser 站在巨人的肩膀上，设计中对齐 / 借鉴了这些优秀开源项目的能力与格式：\n\n- [Playwright MCP](https://github.com/microsoft/playwright-mcp) — 可访问性快照 + ref 交互范式（我们对齐其格式），hover/历史导航/视口调整/元素截图等工具设计\n- [browser-use](https://github.com/browser-use/browser-use) — Agent 驱动浏览器的理念与动作后回读状态的实践\n- [BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) — Cookie/本地存储/选择器导出等\"浏览器状态透明化\"工具集\n- [Chrome DevTools MCP](https://github.com/ChromeDevTools/mcp) — CDP 能力面（网络抓包域）的参照\n\n## Star History\n\n<a href=\"https://star-history.com/#yuchen0x1/aa-browser&Date\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/svg?repos=yuchen0x1/aa-browser&type=Date&theme=dark\" />\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/svg?repos=yuchen0x1/aa-browser&type=Date\" />\n    <img alt=\"Star History Chart\" src=\"https://api.star-history.com/svg?repos=yuchen0x1/aa-browser&type=Date\" />\n  </picture>\n</a>\n",
+      "branch": "main",
+      "collectedAt": "2026-11-17T18:11:12.895Z"
+    }
+  },
+  "events": [
+    {
+      "id": "20419698145",
+      "type": "WatchEvent",
+      "repo": "CzJam/gjgjxweb",
+      "date": "2026-11-17T17:27:18.000Z",
+      "summary": "yuchen0x1 watch CzJam/gjgjxweb",
+      "url": "https://github.com/CzJam/gjgjxweb"
+    },
+    {
+      "id": "20419581392",
+      "type": "WatchEvent",
+      "repo": "Smart-Paocai/VioletToolBox",
+      "date": "2026-11-17T17:26:13.000Z",
+      "summary": "yuchen0x1 watch Smart-Paocai/VioletToolBox",
+      "url": "https://github.com/Smart-Paocai/VioletToolBox"
+    },
+    {
+      "id": "27453757517",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/yuchen0x1",
+      "date": "2026-11-17T01:35:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/yuchen0x1",
+      "url": "https://github.com/yuchen0x1/yuchen0x1"
+    },
+    {
+      "id": "27449979466",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GFPGAN",
+      "date": "2026-11-17T00:56:28.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GFPGAN",
+      "url": "https://github.com/yuchen0x1/GFPGAN"
+    },
+    {
+      "id": "27449188584",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-16T06:05:04.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "27448320107",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-17T00:59:02.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27447722860",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02",
+      "date": "2026-11-17T04:29:58.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02"
+    },
+    {
+      "id": "27447253905",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-17T04:24:21.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27447217073",
+      "type": "CreateEvent",
+      "repo": "yuchen0x1/SubtitleFlow",
+      "date": "2026-11-17T14:39:37.000Z",
+      "summary": "yuchen0x1 create yuchen0x1/SubtitleFlow",
+      "url": "https://github.com/yuchen0x1/SubtitleFlow"
+    },
+    {
+      "id": "20402188256",
+      "type": "ReleaseEvent",
+      "repo": "yuchen0x1/SubtitleFlow",
+      "date": "2026-11-17T14:40:27.000Z",
+      "summary": "yuchen0x1 release yuchen0x1/SubtitleFlow",
+      "url": "https://github.com/yuchen0x1/SubtitleFlow"
+    },
+    {
+      "id": "27444630325",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Internet-Speed-Test",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
+    },
+    {
+      "id": "27444630214",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GitHub-Achievement-Hub",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GitHub-Achievement-Hub",
+      "url": "https://github.com/yuchen0x1/GitHub-Achievement-Hub"
+    },
+    {
+      "id": "27444629808",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "27444629992",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Xianyu-Assistant",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Xianyu-Assistant",
+      "url": "https://github.com/yuchen0x1/Xianyu-Assistant"
+    },
+    {
+      "id": "27444521140",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/mind-bench",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/mind-bench",
+      "url": "https://github.com/yuchen0x1/mind-bench"
+    },
+    {
+      "id": "27444521167",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Scan-the-computer-for-viruses",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Scan-the-computer-for-viruses",
+      "url": "https://github.com/yuchen0x1/Scan-the-computer-for-viruses"
+    },
+    {
+      "id": "27444521241",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Gitee-Android",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Gitee-Android",
+      "url": "https://github.com/yuchen0x1/Gitee-Android"
+    },
+    {
+      "id": "27444483657",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GFPGAN",
+      "date": "2026-11-17T00:19:50.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GFPGAN",
+      "url": "https://github.com/yuchen0x1/GFPGAN"
+    },
+    {
+      "id": "27442497614",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-17T04:21:19.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27442413310",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Scan-the-computer-for-viruses",
+      "date": "2026-11-17T04:20:13.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Scan-the-computer-for-viruses",
+      "url": "https://github.com/yuchen0x1/Scan-the-computer-for-viruses"
+    },
+    {
+      "id": "27441384199",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Internet-Speed-Test",
+      "date": "2026-11-16T14:50:14.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
+    },
+    {
+      "id": "27440444652",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02",
+      "date": "2026-11-17T04:20:23.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02"
+    },
+    {
+      "id": "27440052935",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/aa-browser",
+      "date": "2026-11-17T04:14:42.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/aa-browser",
+      "url": "https://github.com/yuchen0x1/aa-browser"
+    },
+    {
+      "id": "27439817031",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27438283198",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-17T04:21:48.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27438272511",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Short-Video-Analysis",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Short-Video-Analysis",
+      "url": "https://github.com/yuchen0x1/Short-Video-Analysis"
+    },
+    {
+      "id": "27438017278",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/AI-QQ-Bot",
+      "date": "2026-11-17T03:33:10.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
+    },
+    {
+      "id": "27436873691",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-16T14:16:29.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "27436722509",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Gitee-Android",
+      "date": "2026-11-16T14:15:05.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Gitee-Android",
+      "url": "https://github.com/yuchen0x1/Gitee-Android"
+    },
+    {
+      "id": "27436422929",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/AI-QQ-Bot",
+      "date": "2026-11-17T03:59:48.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
+    },
+    {
+      "id": "27436104924",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-16T14:10:51.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "27436052563",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "27436052534",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Base64-encode-encoding",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Base64-encode-encoding",
+      "url": "https://github.com/yuchen0x1/Base64-encode-encoding"
+    },
+    {
+      "id": "27436053001",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Novel-Writer-master",
+      "date": "2026-11-17T03:54:34.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Novel-Writer-master",
+      "url": "https://github.com/yuchen0x1/Novel-Writer-master"
+    },
+    {
+      "id": "27435027450",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/aa-browser",
+      "date": "2026-11-16T01:24:49.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/aa-browser",
+      "url": "https://github.com/yuchen0x1/aa-browser"
+    },
+    {
+      "id": "27434940409",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-16T14:00:44.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "27433916901",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/PROJECT-NEXUS",
+      "date": "2026-11-16T13:51:36.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/PROJECT-NEXUS",
+      "url": "https://github.com/yuchen0x1/PROJECT-NEXUS"
+    },
+    {
+      "id": "20385334137",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-17T10:50:54.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "27432187698",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/AI-QQ-Bot",
+      "date": "2026-11-17T03:12:57.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
+    },
+    {
+      "id": "20381267449",
+      "type": "IssuesEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-17T10:50:56.000Z",
+      "summary": "yuchen0x1 issues yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "27430320261",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GFPGAN",
+      "date": "2026-11-17T01:15:43.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GFPGAN",
+      "url": "https://github.com/yuchen0x1/GFPGAN"
+    },
+    {
+      "id": "20380524312",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-17T10:42:41.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "27428916433",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Audio-Studio",
+      "date": "2026-11-16T13:08:51.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Audio-Studio",
+      "url": "https://github.com/yuchen0x1/Audio-Studio"
+    },
+    {
+      "id": "20378186506",
+      "type": "WatchEvent",
+      "repo": "maboloshi/github-chinese",
+      "date": "2026-11-17T10:16:50.000Z",
+      "summary": "yuchen0x1 watch maboloshi/github-chinese",
+      "url": "https://github.com/maboloshi/github-chinese"
+    },
+    {
+      "id": "20377458629",
+      "type": "WatchEvent",
+      "repo": "ip7z/7zip",
+      "date": "2026-11-17T10:08:38.000Z",
+      "summary": "yuchen0x1 watch ip7z/7zip",
+      "url": "https://github.com/ip7z/7zip"
+    },
+    {
+      "id": "27423654280",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-15T22:56:37.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "27419481060",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GFPGAN",
+      "date": "2026-11-17T00:53:23.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GFPGAN",
+      "url": "https://github.com/yuchen0x1/GFPGAN"
+    },
+    {
+      "id": "27415242187",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T17:21:10.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27414976424",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GFPGAN",
+      "date": "2026-11-16T17:19:17.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GFPGAN",
+      "url": "https://github.com/yuchen0x1/GFPGAN"
+    },
+    {
+      "id": "27411249746",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:53:29.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "20356875419",
+      "type": "WatchEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-17T05:56:11.000Z",
+      "summary": "yuchen0x1 watch yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "27410501626",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:48:19.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "20350694355",
+      "type": "ReleaseEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-17T04:26:10.000Z",
+      "summary": "yuchen0x1 release yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "27394798427",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T17:24:45.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27392767926",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GFPGAN",
+      "date": "2026-11-16T17:08:01.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GFPGAN",
+      "url": "https://github.com/yuchen0x1/GFPGAN"
+    },
+    {
+      "id": "27391464861",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:32:53.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27390111932",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:45:23.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27390093620",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-16T14:23:55.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27389685361",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:42:08.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27388892644",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:35:19.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27388541434",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/PROJECT-NEXUS",
+      "date": "2026-11-15T16:55:04.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/PROJECT-NEXUS",
+      "url": "https://github.com/yuchen0x1/PROJECT-NEXUS"
+    },
+    {
+      "id": "27388422455",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-16T14:12:47.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "27385665071",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/AI-QQ-Bot",
+      "date": "2026-11-16T13:51:53.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
+    },
+    {
+      "id": "27377718957",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T17:02:56.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27374354309",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/AI-QQ-Bot",
+      "date": "2026-11-14T16:23:06.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
+    },
+    {
+      "id": "27373732014",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:33:13.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27370156122",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/GitHub-Achievement-Hub",
+      "date": "2026-11-16T13:57:10.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/GitHub-Achievement-Hub",
+      "url": "https://github.com/yuchen0x1/GitHub-Achievement-Hub"
+    },
+    {
+      "id": "27369111258",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T17:19:19.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27368961908",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:35:19.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27368906910",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:53:12.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27367276658",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Gitee-Android",
+      "date": "2026-11-16T14:21:14.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Gitee-Android",
+      "url": "https://github.com/yuchen0x1/Gitee-Android"
+    },
+    {
+      "id": "27366602679",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:16:57.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27366534327",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-16T14:16:26.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "27366522491",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-16T14:16:22.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "27365753170",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-16T14:11:15.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "27365418891",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-16T13:23:59.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "27364781907",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-16T15:12:17.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "27363802806",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Base64-encode-encoding",
+      "date": "2026-11-16T13:59:37.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Base64-encode-encoding",
+      "url": "https://github.com/yuchen0x1/Base64-encode-encoding"
+    },
+    {
+      "id": "27362055855",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/mind-bench",
+      "date": "2026-11-16T13:45:51.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/mind-bench",
+      "url": "https://github.com/yuchen0x1/mind-bench"
+    },
+    {
+      "id": "27361968190",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-16T14:50:38.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27361958748",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/AI-QQ-Bot",
+      "date": "2026-11-14T13:12:06.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
+      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
+    },
+    {
+      "id": "27360925924",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/themes",
+      "date": "2026-11-16T16:23:15.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/themes",
+      "url": "https://github.com/yuchen0x1/themes"
+    },
+    {
+      "id": "27358944483",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Gitee-Android",
+      "date": "2026-11-16T14:29:10.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Gitee-Android",
+      "url": "https://github.com/yuchen0x1/Gitee-Android"
+    },
+    {
+      "id": "27358886710",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-14T12:24:25.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27356629914",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Internet-Speed-Test",
+      "date": "2026-11-16T15:08:41.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
+    },
+    {
+      "id": "27356576690",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Gitee-Android",
+      "date": "2026-11-16T14:09:23.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Gitee-Android",
+      "url": "https://github.com/yuchen0x1/Gitee-Android"
+    },
+    {
+      "id": "27356162894",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Xray-server-management-panel",
+      "date": "2026-11-16T14:06:13.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Xray-server-management-panel",
+      "url": "https://github.com/yuchen0x1/Xray-server-management-panel"
+    },
+    {
+      "id": "27355907465",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Doomsday-Survival-Guide",
+      "date": "2026-11-16T14:04:10.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Doomsday-Survival-Guide",
+      "url": "https://github.com/yuchen0x1/Doomsday-Survival-Guide"
+    },
+    {
+      "id": "27354476960",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/aa-browser",
+      "date": "2026-11-16T13:51:33.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/aa-browser",
+      "url": "https://github.com/yuchen0x1/aa-browser"
+    },
+    {
+      "id": "20281323292",
+      "type": "ForkEvent",
+      "repo": "radix-ui/themes",
+      "date": "2026-11-16T15:21:07.000Z",
+      "summary": "yuchen0x1 fork radix-ui/themes",
+      "url": "https://github.com/radix-ui/themes"
+    },
+    {
+      "id": "20281306340",
+      "type": "WatchEvent",
+      "repo": "radix-ui/themes",
+      "date": "2026-11-16T15:21:00.000Z",
+      "summary": "yuchen0x1 watch radix-ui/themes",
+      "url": "https://github.com/radix-ui/themes"
+    },
+    {
+      "id": "20280432729",
+      "type": "WatchEvent",
+      "repo": "TencentARC/GFPGAN",
+      "date": "2026-11-16T15:11:42.000Z",
+      "summary": "yuchen0x1 watch TencentARC/GFPGAN",
+      "url": "https://github.com/TencentARC/GFPGAN"
+    },
+    {
+      "id": "20280153263",
+      "type": "ReleaseEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-16T15:08:47.000Z",
+      "summary": "yuchen0x1 release yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "20280141868",
+      "type": "ForkEvent",
+      "repo": "TencentARC/GFPGAN",
+      "date": "2026-11-16T15:08:39.000Z",
+      "summary": "yuchen0x1 fork TencentARC/GFPGAN",
+      "url": "https://github.com/TencentARC/GFPGAN"
+    },
+    {
+      "id": "27351024679",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Base64-encode-encoding",
+      "date": "2026-11-16T14:15:26.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Base64-encode-encoding",
+      "url": "https://github.com/yuchen0x1/Base64-encode-encoding"
+    },
+    {
+      "id": "20278006896",
+      "type": "ReleaseEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-16T14:46:39.000Z",
+      "summary": "yuchen0x1 release yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "27348831874",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Xianyu-Assistant",
+      "date": "2026-11-16T13:58:52.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Xianyu-Assistant",
+      "url": "https://github.com/yuchen0x1/Xianyu-Assistant"
+    },
+    {
+      "id": "27348796121",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/baidu-tieba-yunqiandao",
+      "date": "2026-11-16T13:58:36.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/baidu-tieba-yunqiandao",
+      "url": "https://github.com/yuchen0x1/baidu-tieba-yunqiandao"
+    },
+    {
+      "id": "27347834062",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-16T13:56:21.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "27347829639",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Short-Video-Analysis",
+      "date": "2026-11-16T13:56:18.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Short-Video-Analysis",
+      "url": "https://github.com/yuchen0x1/Short-Video-Analysis"
+    }
+  ],
+  "coverage": {
+    "complete": false,
+    "details": [],
+    "failed": [
+      "GFPGAN release: GitHub API 404 for /repos/yuchen0x1/GFPGAN/releases/latest",
+      "themes release: GitHub API 404 for /repos/yuchen0x1/themes/releases/latest",
+      "yuchen0x1 release: GitHub API 404 for /repos/yuchen0x1/yuchen0x1/releases/latest"
+    ],
+    "retained": [],
+    "eventStart": "2026-11-16T13:56:18.000Z",
+    "eventEnd": "2026-11-17T17:27:18.000Z"
+  },
+  "rateLimit": {
+    "remaining": 3903,
+    "limit": 5000,
+    "resetAt": "2026-11-17T18:44:38.000Z",
+    "observedAt": "2026-11-17T18:11:12.895Z",
+    "source": "github-authenticated"
+  }
+}
