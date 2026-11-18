@@ -1,5 +1,12 @@
 const API_ORIGIN = 'https://api.github.com';
 
+export class GitHubApiError extends Error {
+  constructor(status, path) {
+    super(`GitHub API ${status} for ${path}`);
+    this.status = status;
+  }
+}
+
 export function createClient({fetchImpl = fetch, cache = {}, token = '', sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms)), maxRetries = 2} = {}) {
   async function get(path) {
     if (typeof path !== 'string' || !path.startsWith('/') || path.startsWith('//') || path.includes('://')) throw new Error('path must be a relative GitHub API path');
@@ -15,13 +22,12 @@ export function createClient({fetchImpl = fetch, cache = {}, token = '', sleep =
         return cached.body;
       }
       if (response.status === 429 || response.status === 403) {
-        if (response.status === 403) throw new Error(`GitHub API 403 for ${path}`);
-        if (attempt >= maxRetries) throw new Error(`GitHub API 429 for ${path}`);
+        if (response.status === 403 || attempt >= maxRetries) throw new GitHubApiError(response.status, path);
         const retryAfter = Number(response.headers.get('retry-after') || 1);
         await sleep(Math.min(10000, Math.max(0, retryAfter * 1000)));
         continue;
       }
-      if (!response.ok) throw new Error(`GitHub API ${response.status} for ${path}`);
+      if (!response.ok) throw new GitHubApiError(response.status, path);
       const data = await response.json();
       cache[path] = {etag: response.headers.get('etag') || undefined, body:data};
       client.lastResponse = {status:response.status, headers:response.headers, fromCache:false};

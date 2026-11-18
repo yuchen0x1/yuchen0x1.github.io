@@ -1,4 +1,4 @@
-import type { Filters, Repo, Snapshot } from '../types/github';
+import type { Filters, History, Repo, Snapshot } from '../types/github';
 
 export function selectRepos(repos:Repo[], filters:Filters):Repo[] {
   const query = filters.query.trim().toLowerCase();
@@ -52,10 +52,34 @@ export function changes(oldRepos:Repo[]|null, nextRepos:Repo[]) {
   return result;
 }
 
+const isRecord = (value:unknown):value is Record<string, unknown> =>
+  value !== null && typeof value === 'object' && !Array.isArray(value);
+const hasStrings = (value:Record<string, unknown>, keys:string[]) =>
+  keys.every((key) => typeof value[key] === 'string');
+
 export function validateSnapshot(value:unknown):value is Snapshot {
-  if (!value || typeof value !== 'object') return false;
-  const candidate = value as Partial<Snapshot>;
-  return candidate.schemaVersion === 1 && typeof candidate.username === 'string' && Array.isArray(candidate.repos) &&
-    typeof candidate.profile === 'object' && candidate.profile !== null && Array.isArray(candidate.events) &&
-    typeof candidate.generatedAt === 'string' && typeof candidate.lastSuccessfulAt === 'string';
+  if (!isRecord(value) || value.schemaVersion !== 1) return false;
+  const {profile, repos, events, coverage, commitsByRepo, readmesByRepo, releasesByRepo} = value;
+  return hasStrings(value, ['username', 'generatedAt', 'lastSuccessfulAt']) &&
+    isRecord(profile) && hasStrings(profile, ['login', 'name', 'avatar']) &&
+    Number.isFinite(profile.followers) && Number.isFinite(profile.publicRepos) &&
+    isRecord(coverage) && typeof coverage.complete === 'boolean' &&
+    isRecord(commitsByRepo) && Object.values(commitsByRepo).every((entry) =>
+      entry === null || (isRecord(entry) && hasStrings(entry, ['sha', 'message']))) &&
+    isRecord(readmesByRepo) && Object.values(readmesByRepo).every((entry) =>
+      isRecord(entry) && hasStrings(entry, ['markdown', 'branch'])) &&
+    isRecord(releasesByRepo) && Object.values(releasesByRepo).every((entry) =>
+      entry === null || (isRecord(entry) && hasStrings(entry, ['tag', 'date', 'url']))) &&
+    Array.isArray(events) && events.every((event) =>
+      isRecord(event) && hasStrings(event, ['id', 'type', 'summary', 'date'])) &&
+    Array.isArray(repos) && repos.every((repo) =>
+      isRecord(repo) && hasStrings(repo, ['name', 'description', 'url', 'createdAt', 'updatedAt', 'pushedAt', 'defaultBranch']) &&
+      Number.isFinite(repo.id) && Number.isFinite(repo.stars) && Number.isFinite(repo.forks) &&
+      (repo.language === null || typeof repo.language === 'string') &&
+      Array.isArray(repo.topics) && repo.topics.every((topic) => typeof topic === 'string'));
+}
+
+export function validateHistory(value:unknown):value is History {
+  return isRecord(value) && value.schemaVersion === 1 && Array.isArray(value.samples) &&
+    value.samples.every((sample) => isRecord(sample) && typeof sample.date === 'string' && Number.isFinite(sample.stars));
 }

@@ -4,9 +4,35 @@ const initial:LoadedSnapshot={snapshot:null,history:null,cached:false,cachedAt:n
 export function useSnapshot() {
   const [state,setState]=useState<LoadedSnapshot>(initial);
   const [loading,setLoading]=useState(true);
-  const mounted=useRef(true);
-  const refresh=useCallback(async()=>{setLoading(true);const controller=new AbortController();const timer=window.setTimeout(()=>controller.abort(),10000);try{const next=await loadSnapshot(controller.signal);if(mounted.current)setState(next);}finally{window.clearTimeout(timer);if(mounted.current)setLoading(false);}},[]);
-  useEffect(()=>{mounted.current=true;void refresh();return()=>{mounted.current=false};},[refresh]);
+  const pending=useRef<AbortController|null>(null);
+  const refresh=useCallback(async()=>{
+    if (pending.current) return;
+    const controller=new AbortController();
+    pending.current=controller;
+    setLoading(true);
+    const timer=window.setTimeout(()=>controller.abort(),10000);
+    try {
+      const next=await loadSnapshot(controller.signal);
+      if (pending.current===controller) {
+        setState((previous)=>!next.snapshot && previous.snapshot
+          ? {...previous,cached:true,checkedAt:next.checkedAt,error:next.error}
+          : next);
+      }
+    } finally {
+      window.clearTimeout(timer);
+      if (pending.current===controller) {
+        pending.current=null;
+        setLoading(false);
+      }
+    }
+  },[]);
+  useEffect(()=>{
+    void refresh();
+    return ()=>{
+      pending.current?.abort();
+      pending.current=null;
+    };
+  },[refresh]);
   useEffect(()=>{const handler=()=>{if(document.visibilityState==='visible')void refresh()};const interval=window.setInterval(()=>{if(document.visibilityState==='visible')void refresh()},60000);document.addEventListener('visibilitychange',handler);return()=>{window.clearInterval(interval);document.removeEventListener('visibilitychange',handler)}},[refresh]);
   return {...state,loading,refresh};
 }

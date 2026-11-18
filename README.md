@@ -4,6 +4,16 @@
 
 [访问作品集](https://lenmo.top/) · [GitHub Pages](https://yuchen0x1.github.io/) · [最近部署](https://github.com/yuchen0x1/yuchen0x1.github.io/actions/workflows/pages.yml) · [数据刷新记录](https://github.com/yuchen0x1/yuchen0x1.github.io/actions/workflows/collect.yml)
 
+## 最新更新
+
+### v1.0.1 · 2026-11-18
+
+- 命令面板支持按名称查找和回车执行，终端输入与结果独立显示。
+- Star 榜按 Star 数排序，时间线展示已采集的版本，README 相对链接指向对应仓库。
+- 快照异常时保留可用数据并显示状态，GitHub Pages 会在采集成功后更新。
+
+[完整发布历史](docs/releases/release-notes.md)
+
 ## 本地运行
 
 ```powershell
@@ -31,7 +41,7 @@ node scripts/collect.mjs
 
 采集器只访问固定的 GitHub 公开接口，支持 `GITHUB_TOKEN` / `GH_TOKEN` 提升速率额度。Token 只从环境变量读取，私有 ETag 缓存在被忽略的 `.cache/` 中，不会写入页面、快照或日志。
 
-`.github/workflows/collect.yml` 每小时在第 17 分和第 47 分运行一次，只提交两个快照文件；`.github/workflows/pages.yml` 构建 `dist/` 并部署 GitHub Pages。当前用户站点从域名根路径构建，应用的数据和 favicon 会跟随根路径。
+`.github/workflows/collect.yml` 计划在每小时第 17 分和第 47 分刷新快照。采集成功后，`.github/workflows/pages.yml` 从 `main` 构建 `dist/` 并部署 GitHub Pages。当前用户站点从域名根路径构建，应用的数据和 favicon 会跟随根路径。独立服务器上的 `lenmo.top` 通过发布构建更新。
 
 ## 可选代理
 
