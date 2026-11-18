@@ -1,0 +1,22 @@
+name: 问题报告或功能建议
+description: 网站、移动端、PWA 更新或自托管反馈
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options: [问题报告, 平台兼容性, 更新失败, 功能建议]
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 页面地址、版本、系统和浏览器
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 复现步骤、期望结果或功能用途
+    validations:
+      required: true

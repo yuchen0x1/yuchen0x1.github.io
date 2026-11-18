@@ -8,3 +8,6 @@ artifacts/
 .qa/
 *.log
 *.tsbuildinfo
+release/
+research-scan/
+.snapshot-worktree/
