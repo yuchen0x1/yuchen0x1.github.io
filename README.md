@@ -2,6 +2,8 @@
 
 一个面向 `yuchen0x1` 的双语个人作品集。页面以公开 GitHub 快照为数据源，展示个人简介、技术栈、旗舰项目、仓库排行、动态、提交日志和创建时间线。
 
+[访问作品集](https://lenmo.top/) · [GitHub Pages](https://yuchen0x1.github.io/) · [最近部署](https://github.com/yuchen0x1/yuchen0x1.github.io/actions/workflows/pages.yml) · [数据刷新记录](https://github.com/yuchen0x1/yuchen0x1.github.io/actions/workflows/collect.yml)
+
 ## 本地运行
 
 ```powershell
@@ -49,5 +51,3 @@ node examples/proxy/server.mjs
 - `public/data/`：公开快照
 - `examples/proxy/`：固定上游代理示例
 - `.github/workflows/`：快照刷新和 Pages 构建工作流
-
-当前版本已直接部署到 `https://lenmo.top/`，并推送到 [yuchen0x1/yuchen0x1.github.io](https://github.com/yuchen0x1/yuchen0x1.github.io)，GitHub Pages 地址为 `https://yuchen0x1.github.io/`。
