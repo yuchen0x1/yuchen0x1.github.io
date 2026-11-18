@@ -6,13 +6,28 @@
 
 ## 最新更新
 
-### v1.0.1 · 2026-11-18
+### v1.1.0 · 2026-11-18
 
-- 命令面板支持按名称查找和回车执行，终端输入与结果独立显示。
-- Star 榜按 Star 数排序，时间线展示已采集的版本，README 相对链接指向对应仓库。
-- 快照异常时保留可用数据并显示状态，GitHub Pages 会在采集成功后更新。
+- 可以安装到桌面或主屏幕，成功缓存后支持离线重新打开。
+- 新版本准备好后提示确认刷新，也可以选择稍后更新。
+- 提供带版本信息、校验文件和 GitHub 来源证明的 Web 归档。
+- 补齐开发与发布检查，支持静态服务器、Docker 和 NAS 自托管。
 
 [完整发布历史](docs/releases/release-notes.md)
+
+## 功能与使用
+
+个人简介与项目介绍支持中英切换，页面提供深浅主题、公开仓库搜索与组合筛选、Star 排行、README 摘要、GitHub 动态、最近提交和版本时间线。项目演示区域使用明确标注的示例数据。
+
+按 Ctrl/⌘+K 打开命令面板，输入名称并回车跳转。按反引号打开终端，输入 `help` 查看命令。移动端可以使用顶部导航和仓库搜索。
+
+![作品集实际页面](docs/screenshots/portfolio.png)
+
+## 支持平台与安装
+
+支持现代桌面与移动浏览器。浏览器支持时，页面提供安装按钮，也可以通过浏览器菜单添加到桌面或主屏幕。完整设备与功能对照见 [平台说明](docs/platforms.md)，其中记录实测范围与待设备验证项。
+
+[下载最新 Web 归档](https://github.com/yuchen0x1/yuchen0x1.github.io/releases/latest) 后可部署到静态服务器。Docker、NAS、更新和归档来源验证步骤见 [维护手册](docs/maintenance.md)。PWA 在新版准备好后提供确认刷新，选择稍后会在当前会话隐藏同一提醒。
 
 ## 本地运行
 
@@ -61,3 +76,15 @@ node examples/proxy/server.mjs
 - `public/data/`：公开快照
 - `examples/proxy/`：固定上游代理示例
 - `.github/workflows/`：快照刷新和 Pages 构建工作流
+
+## 文档与反馈
+
+- [开发和维护](docs/maintenance.md)
+- [平台兼容性](docs/platforms.md)
+- [研究与对比](docs/research/comparison.md)
+- [升级候选和路线图](docs/roadmap.md)
+- [贡献方式](CONTRIBUTING.md)
+- [安全反馈](SECURITY.md)
+- [问题反馈](https://github.com/yuchen0x1/yuchen0x1.github.io/issues/new/choose)
+
+常见问题包括离线缓存、安装入口和更新检查，见维护手册。仓库当前没有项目级开源许可证，复用项目代码前请联系作者确认授权。发布归档包含依赖的第三方许可证文本。

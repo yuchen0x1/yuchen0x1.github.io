@@ -20,6 +20,26 @@ test('proxy allowlists fixed yuchen0x1 GitHub routes', () => {
 test('proxy rejects arbitrary query keys', () => {
   assert.equal(hasAllowedQuery(new URL('http://localhost/?page=1&per_page=100').searchParams), true);
   assert.equal(hasAllowedQuery(new URL('http://localhost/?q=secrets').searchParams), false);
+  assert.equal(hasAllowedQuery(new URL('http://localhost/?page=1&page=2').searchParams), false);
+  assert.equal(hasAllowedQuery(new URL('http://localhost/?page=999999').searchParams), false);
+});
+
+test('proxy serves fresh cached data and conditional responses without extra upstream calls', async () => {
+  let calls=0;
+  const server=createProxyServer({fetchImpl:async()=>{
+    calls+=1;
+    return Response.json({login:'yuchen0x1'},{headers:{ETag:'"one"'}});
+  }});
+  await new Promise((resolve)=>server.listen(0,'127.0.0.1',resolve));
+  try {
+    const url=`http://127.0.0.1:${server.address().port}/users/yuchen0x1`;
+    assert.equal((await fetch(url)).status,200);
+    assert.equal((await fetch(url)).headers.get('x-proxy-cache'),'hit');
+    assert.equal((await fetch(url,{headers:{'If-None-Match':'"one"'}})).status,304);
+    assert.equal(calls,1);
+  } finally {
+    await new Promise((resolve)=>server.close(resolve));
+  }
 });
 
 test('proxy rejects disallowed HTTP requests before contacting GitHub', async () => {

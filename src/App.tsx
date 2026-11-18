@@ -9,6 +9,7 @@ import {defaultFilters, type Filters, type Language, type Repo} from './types/gi
 import {selectRepos, starRatio, summarize} from './services/model';
 import {Network} from './components/Network';
 import './styles.css';
+import {WebAppStatus} from './components/WebAppStatus';
 
 const copy = {zh:{home:'首页',about:'关于',projects:'项目',rank:'Live Rank',activity:'动态',timeline:'时间线',contact:'联系',view:'查看项目',github:'打开 GitHub',live:'实时状态',cached:'缓存数据',fresh:'数据在线',refresh:'刷新',all:'全部',search:'搜索仓库、描述或主题',demo:'交互演示 · 示例数据',details:'查看 README 摘要',close:'关闭',language:'语言',topic:'主题'},en:{home:'Home',about:'About',projects:'Projects',rank:'Live Rank',activity:'Activity',timeline:'Timeline',contact:'Contact',view:'View projects',github:'Open GitHub',live:'Live status',cached:'Cached data',fresh:'Data online',refresh:'Refresh',all:'All',search:'Search repositories, descriptions or topics',demo:'Interactive demo · sample data',details:'Read README summary',close:'Close',language:'Language',topic:'Topic'}};
 const fmtNumber=(value:number)=>new Intl.NumberFormat('zh-CN').format(value);
@@ -149,7 +150,7 @@ function App(){
       <section id="timeline" className="section container"><SectionHead index="05" title={t.timeline} intro="Repository creation and captured release milestones."/><div className="timeline-toggle"><button className="button ghost" onClick={()=>setTimelineReverse((value)=>!value)}>{timelineReverse?'Newest first':'Oldest first'} <ChevronDown size={15}/></button></div><div className="timeline">{timeline.map((entry)=><div className="timeline-item" key={entry.id}><span className="timeline-dot"/><time>{new Date(entry.date).toLocaleDateString()}</time><div><strong><a href={entry.url} target="_blank" rel="noreferrer">{entry.name}</a></strong><p>{entry.description||(lang==='zh'?'仓库创建':'Repository created')}</p></div></div>)}</div></section>
       <section id="contact" className="section contact-section"><div className="container contact-inner"><div><p className="eyebrow">06 / contact</p><h2>Build quietly.<br/><span>Ship clearly.</span></h2></div><div className="contact-links"><a href={site.github} target="_blank" rel="noreferrer"><Github size={17}/> GitHub <ExternalLink size={14}/></a><a href={site.gitee} target="_blank" rel="noreferrer">◇ Gitee <ExternalLink size={14}/></a>{site.email&&<button onClick={copyEmail}><Copy size={17}/> {copied?'Copied':site.email}</button>}</div></div></section>
     </main>
-    <footer className="footer"><span>© {new Date().getFullYear()} {site.name}</span><span>Powered by GitHub API · public snapshot</span><button onClick={()=>window.scrollTo({top:0,behavior:'smooth'})}>back to top ↑</button></footer>
+    <footer className="footer"><span>© {new Date().getFullYear()} {site.name}</span><span>Powered by GitHub API · public snapshot</span><WebAppStatus lang={lang}/><button onClick={()=>window.scrollTo({top:0,behavior:'smooth'})}>back to top ↑</button></footer>
     {commandOpen&&<div className="overlay" onMouseDown={()=>setCommandOpen(false)}>
       <div className="command-panel" role="dialog" aria-label={lang==='zh'?'命令面板':'Command palette'} onMouseDown={(event)=>event.stopPropagation()}>
         <form className="command-input" onSubmit={(event)=>{event.preventDefault();if(filteredActions[0])command(filteredActions[0].id)}}>
