@@ -31,6 +31,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Audit production dependencies
+        if: runner.os == 'Linux'
+        run: npm audit --omit=dev --audit-level=high --registry=https://registry.npmjs.org
       - run: npm run verify
       - run: npm run build
       - run: npm run test:dist
@@ -40,7 +43,14 @@ jobs:
           docker build -t portfolio-ci .
           docker run --detach --rm --name portfolio-ci -p 127.0.0.1:8080:8080 portfolio-ci
           trap 'docker stop portfolio-ci' EXIT
-          curl --retry 5 --retry-connrefused --retry-delay 1 --fail http://127.0.0.1:8080/version.json
+          for attempt in $(seq 1 30); do
+            if curl --silent --show-error --fail http://127.0.0.1:8080/version.json; then
+              exit 0
+            fi
+            sleep 1
+          done
+          docker logs portfolio-ci
+          exit 1
   dependencies:
     name: Dependency review
     if: github.event_name == 'pull_request'

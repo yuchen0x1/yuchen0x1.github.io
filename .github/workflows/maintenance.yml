@@ -18,7 +18,18 @@ jobs:
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 22
-      - run: npm audit --audit-level=high --registry=https://registry.npmjs.org
+      - name: Enforce production dependency audit
+        run: npm audit --omit=dev --audit-level=high --registry=https://registry.npmjs.org
+      - name: Capture complete dependency audit
+        shell: bash
+        run: |
+          npm audit --json --registry=https://registry.npmjs.org > dependency-audit.json || test "$?" -eq 1
+          node scripts/summarize-audit.mjs dependency-audit.json
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: complete-dependency-audit
+          path: dependency-audit.json
+          retention-days: 30
   published:
     runs-on: ubuntu-latest
     steps:
