@@ -12,7 +12,10 @@ self.addEventListener('install',(event)=>{
     mode:'same-origin',
     redirect:'error',
   }));
-  event.waitUntil(caches.open(cacheName).then((cache)=>cache.addAll(requests)));
+  event.waitUntil(caches.open(cacheName).then((cache)=>cache.addAll(requests)).catch(async(error)=>{
+    await caches.delete(cacheName);
+    throw error;
+  }));
 });
 
 self.addEventListener('activate',(event)=>{

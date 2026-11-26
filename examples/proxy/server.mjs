@@ -54,7 +54,13 @@ export function createProxyServer({fetchImpl = fetch, now = () => Date.now()} = 
       response.end();
       return;
     }
-    const url = new URL(request.url || '/', 'http://localhost');
+    let url;
+    try {
+      url = new URL(request.url || '/', 'http://localhost');
+    } catch {
+      writeJson(response, 400, {error:'invalid request URL'});
+      return;
+    }
     if (url.href.length>1024) {
       writeJson(response, 414, {error:'request URL too long'});
       return;
@@ -75,11 +81,11 @@ export function createProxyServer({fetchImpl = fetch, now = () => Date.now()} = 
       return;
     }
     const headers = {Accept: 'application/vnd.github+json', 'User-Agent': USER_AGENT};
-    if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
     if (previous?.etag) headers['If-None-Match'] = previous.etag;
     try {
       const upstream = await fetchImpl(`${UPSTREAM_ORIGIN}${key}`, {headers,signal:AbortSignal.timeout(10000),redirect:'error'});
       if (upstream.status === 304 && previous) {
+        previous.expiresAt = now() + CACHE_TTL_MS;
         if (request.headers['if-none-match'] === previous.etag) {
           response.writeHead(304, {...corsHeaders(), ETag: previous.etag, 'Cache-Control': 'public, max-age=60, stale-while-revalidate=300'});
           response.end();

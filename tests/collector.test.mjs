@@ -12,8 +12,10 @@ test('304 without saved body does not invent data',async()=>{
   await assert.rejects(()=>client.get('/users/yuchen0x1'),/304/);
 });
 test('403 limit failure propagates rather than replacing data with zeroes',async()=>{
-  const client=createClient({fetchImpl:async()=>new Response('{"message":"limit"}',{status:403})});
+  const client=createClient({fetchImpl:async()=>new Response('{"message":"limit"}',{status:403,headers:{'x-ratelimit-remaining':'0'}})});
   await assert.rejects(()=>client.get('/users/yuchen0x1'),/403/);
+  assert.equal(client.lastResponse.status,403);
+  assert.equal(client.lastResponse.headers.get('x-ratelimit-remaining'),'0');
 });
 test('429 retries once after retry-after and returns actual body',async()=>{
   let n=0;const waits=[];
@@ -23,6 +25,17 @@ test('429 retries once after retry-after and returns actual body',async()=>{
 test('credentials cannot be sent to arbitrary URLs',async()=>{
   const client=createClient({token:'example-only',fetchImpl:async()=>{throw new Error('should not fetch')}});
   await assert.rejects(()=>client.get('https://evil.example/'),/path/);
+});
+test('collector aborts stalled upstream requests and refuses redirects',async()=>{
+  const client=createClient({requestTimeoutMs:5,fetchImpl:(_url,init)=>new Promise((_resolve,reject)=>{
+    assert.equal(init.redirect,'error');
+    const timer=setTimeout(()=>reject(new Error('request did not abort')),1000);
+    init.signal.addEventListener('abort',()=>{
+      clearTimeout(timer);
+      reject(init.signal.reason);
+    },{once:true});
+  })});
+  await assert.rejects(()=>client.get('/users/yuchen0x1'),{name:'TimeoutError'});
 });
 test('same history bucket is replaced and past values stay literal',()=>{
   const snapshot={generatedAt:'2026-11-18T01:04:00Z',repos:[{name:'a',stars:3,forks:1}]};

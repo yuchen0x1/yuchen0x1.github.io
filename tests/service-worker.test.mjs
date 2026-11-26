@@ -34,11 +34,11 @@ function worker({rejectInstall=false}={}) {
   return {dispatch,removed,get activated(){return activated},get requests(){return installationRequests}};
 }
 
-test('failed offline installation preserves the previous worker and cache',async()=>{
+test('failed offline installation removes its incomplete cache and preserves the previous worker',async()=>{
   const app=worker({rejectInstall:true});
   await assert.rejects(app.dispatch('install'),/Integrity/);
   assert.equal(app.activated,0);
-  assert.deepEqual(app.removed,[]);
+  assert.deepEqual(app.removed,['portfolio:/lab/:new']);
   assert.equal(app.requests[0].url,'https://portfolio.test/lab/index.html');
   assert.equal(app.requests[0].integrity,'sha256-example');
 });

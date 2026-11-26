@@ -45,12 +45,21 @@ jobs:
           trap 'docker stop portfolio-ci' EXIT
           for attempt in $(seq 1 30); do
             if curl --silent --show-error --fail http://127.0.0.1:8080/version.json; then
-              exit 0
+              break
             fi
             sleep 1
           done
-          docker logs portfolio-ci
-          exit 1
+          asset=$(find dist/assets -maxdepth 1 -name '*.js' -printf '%f\n' -quit)
+          test -n "$asset"
+          for path in / /sw.js /version.json /manifest.webmanifest /data/repos.json "/assets/$asset"; do
+            headers=$(curl --silent --show-error --fail --dump-header - --output /dev/null "http://127.0.0.1:8080$path")
+            printf '%s\n' "$headers" | grep -qi '^X-Content-Type-Options: nosniff'
+            printf '%s\n' "$headers" | grep -qi '^Referrer-Policy: strict-origin-when-cross-origin'
+            case "$path" in
+              /assets/*) printf '%s\n' "$headers" | grep -qi '^Cache-Control: public, max-age=31536000, immutable' ;;
+              *) printf '%s\n' "$headers" | grep -qi '^Cache-Control: no-cache' ;;
+            esac
+          done
   dependencies:
     name: Dependency review
     if: github.event_name == 'pull_request'
