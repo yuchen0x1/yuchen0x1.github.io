@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import {request} from 'node:http';
 import {createProxyServer, hasAllowedQuery, isAllowedMethod, isAllowedPath} from '../examples/proxy/server.mjs';
 
 test('proxy only accepts read methods', () => {
@@ -54,4 +55,65 @@ test('proxy rejects disallowed HTTP requests before contacting GitHub', async ()
   assert.equal(method.status, 405);
   assert.equal(upstreamCalls, 0);
   await new Promise((resolve) => server.close(resolve));
+});
+
+test('proxy refreshes cache freshness after an upstream 304', async () => {
+  let time=0;
+  let calls=0;
+  const server=createProxyServer({now:()=>time,fetchImpl:async()=>{
+    calls+=1;
+    return calls===1 ? Response.json({login:'yuchen0x1'},{headers:{ETag:'"one"'}})
+      : new Response(null,{status:304});
+  }});
+  await new Promise((resolve)=>server.listen(0,'127.0.0.1',resolve));
+  try {
+    const url=`http://127.0.0.1:${server.address().port}/users/yuchen0x1`;
+    await fetch(url);
+    time=300001;
+    const revalidated=await fetch(url);
+    assert.deepEqual(await revalidated.json(),{login:'yuchen0x1'});
+    const next=await fetch(url);
+    assert.equal(next.headers.get('x-proxy-cache'),'hit');
+    assert.equal(calls,2);
+  } finally {
+    await new Promise((resolve)=>server.close(resolve));
+  }
+});
+
+test('proxy returns 400 for malformed request URLs without contacting GitHub', async () => {
+  let calls=0;
+  const server=createProxyServer({fetchImpl:async()=>{calls+=1;return Response.json({});}});
+  await new Promise((resolve)=>server.listen(0,'127.0.0.1',resolve));
+  try {
+    const status=await new Promise((resolve,reject)=>{
+      const pending=request({host:'127.0.0.1',port:server.address().port,path:'http://['},(response)=>{
+        response.resume();
+        response.on('end',()=>resolve(response.statusCode));
+      });
+      pending.on('error',reject);
+      pending.end();
+    });
+    assert.equal(status,400);
+    assert.equal(calls,0);
+  } finally {
+    await new Promise((resolve)=>server.close(resolve));
+  }
+});
+
+test('public proxy does not forward the collector token to repository endpoints', async () => {
+  const previousToken=process.env.GITHUB_TOKEN;
+  process.env.GITHUB_TOKEN='example-collector-token';
+  const server=createProxyServer({fetchImpl:async(_url,init)=>{
+    assert.equal(new Headers(init.headers).has('authorization'),false);
+    return Response.json({message:'Not Found'},{status:404});
+  }});
+  await new Promise((resolve)=>server.listen(0,'127.0.0.1',resolve));
+  try {
+    const url=`http://127.0.0.1:${server.address().port}/repos/yuchen0x1/private-example/readme`;
+    assert.equal((await fetch(url)).status,404);
+  } finally {
+    if (previousToken===undefined) delete process.env.GITHUB_TOKEN;
+    else process.env.GITHUB_TOKEN=previousToken;
+    await new Promise((resolve)=>server.close(resolve));
+  }
 });

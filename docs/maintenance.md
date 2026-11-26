@@ -29,8 +29,8 @@ Release Web 检查标签与包版本、main 归属、测试、运行依赖漏洞
 维护者下载资产后执行以下校验，仓库与签名工作流需明确匹配。
 
 ```powershell
-gh release download v1.1.0 --repo yuchen0x1/yuchen0x1.github.io --pattern '*web.zip'
-gh attestation verify .\yuchen0x1-lab-v1.1.0-web.zip --repo yuchen0x1/yuchen0x1.github.io --signer-workflow yuchen0x1/yuchen0x1.github.io/.github/workflows/release.yml
+gh release download v1.1.1 --repo yuchen0x1/yuchen0x1.github.io --pattern '*web.zip'
+gh attestation verify .\yuchen0x1-lab-v1.1.1-web.zip --repo yuchen0x1/yuchen0x1.github.io --signer-workflow yuchen0x1/yuchen0x1.github.io/.github/workflows/release.yml
 ```
 
 SHA-256 检查下载内容完整性，签名证明用于确认 GitHub 发布工作流来源。Web 的页面信任根为 HTTPS 主机，客户端不会执行独立下载的安装程序。
@@ -39,7 +39,7 @@ SHA-256 检查下载内容完整性，签名证明用于确认 GitHub 发布工�
 
 解压 Web 归档到静态服务器根目录。HTML、sw.js、version.json、manifest 和 data 需要重新校验缓存，带内容哈希的 assets 可长期缓存。部署应先创建完整的新目录，再原子切换 current 链接。保存前一个目录，以便校验失败后切回。生产发布前确认新目录在预期发布根目录下。
 
-本地构建后运行 `docker build -t yuchen0x1-lab:1.1.0 .`，再运行 `docker run --rm -p 8080:8080 yuchen0x1-lab:1.1.0`。容器以 nginx 用户运行。NAS 可采用同一容器，将 HTTPS 交给现有反向代理。更新时部署新归档或重建镜像。
+本地构建后运行 `docker build -t yuchen0x1-lab:1.1.1 .`，再运行 `docker run --rm -p 8080:8080 yuchen0x1-lab:1.1.1`。容器以 nginx 用户运行。NAS 可采用同一容器，将 HTTPS 交给现有反向代理。更新时部署新归档或重建镜像。
 
 ## PWA 和页面更新
 

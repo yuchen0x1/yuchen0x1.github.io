@@ -72,5 +72,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ github.ref_name }}
         run: |
-          gh release create "$TAG" --repo "$GITHUB_REPOSITORY" --verify-tag --title "$TAG" \
+          gh release create "$TAG" --repo "$GITHUB_REPOSITORY" --verify-tag --title "yuchen0x1 独立开发者实验室 $TAG" \
             --notes-file release/notes.md release/*.zip release/SHA256SUMS.txt release/release-metadata.json

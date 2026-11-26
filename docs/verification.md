@@ -1,5 +1,23 @@
 # 本地验证记录
 
+## v1.1.1 验收（2026-11-27）
+
+环境：Windows、Node.js 22.23.5、Vite 8.3.8、Edge 158（BrowserSkill 0.5.0）。
+
+| 检查 | 结果 | 证据 |
+| --- | --- | --- |
+| 安装与验证 | PASS | `npm ci` 成功，`npm run verify` 包含类型检查、ESLint、13 项前端和 18 项 Node 测试 |
+| 构建与产物 | PASS | `npm run build`、`npm run test:dist` 完成，版本为 1.1.1 |
+| 全量依赖审计 | PASS | 官方 npm registry 返回 0 漏洞 |
+| 旧版更新提醒 | PASS | 使用 v1.1.0 标签的真实生产页面，替换服务器构建后出现“当前版本 v1.1.0 · 新版作品集已就绪” |
+| 确认升级与缓存 | PASS | 点击更新后页脚显示 v1.1.1，worker 接管成功，Cache Storage 只保留新版应用缓存 |
+| 桌面与移动布局 | PASS | 桌面与 390×844 iPhone 14 仿真视口无页面横向溢出，Canvas 有非空像素 |
+| 移动端交互 | PASS | 导航打开和关闭、中英文和深浅主题切换、搜索 aa-browser 及空结果提示均正常 |
+
+Service Worker 的资源完整性失败由回归测试模拟；本次未独立验证 Safari、Firefox、真实移动设备和物理离线网络。
+
+## 历史验收（2026-11-18）
+
 环境：Windows、Node.js 22、Vite 8、Chromium（Tencent BrowserSkill）、2026-11-18。
 
 | 检查 | 结果 | 证据 |
