@@ -1,17 +1,93 @@
 {
   "schemaVersion": 1,
   "username": "yuchen0x1",
-  "generatedAt": "2026-11-27T04:14:12.600Z",
-  "lastSuccessfulAt": "2026-11-27T04:14:12.600Z",
+  "generatedAt": "2026-11-27T13:51:52.063Z",
+  "lastSuccessfulAt": "2026-11-27T13:51:52.063Z",
   "profile": {
     "login": "yuchen0x1",
     "name": "冷漠不是神",
     "avatar": "https://avatars.githubusercontent.com/u/261203860?v=4",
     "url": "https://github.com/yuchen0x1",
     "followers": 18,
-    "publicRepos": 34
+    "publicRepos": 35
   },
   "repos": [
+    {
+      "id": 1462745068,
+      "name": "LUMORA-Camera",
+      "fullName": "yuchen0x1/LUMORA-Camera",
+      "description": "Android 胶片风格相机，支持手动拍摄、20 种胶片预设与非破坏性照片编辑。",
+      "url": "https://github.com/yuchen0x1/LUMORA-Camera",
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "camera",
+        "camerax",
+        "film-simulation",
+        "kotlin",
+        "manual-camera",
+        "photo-editor",
+        "photography"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-18T12:05:06.000Z",
+      "updatedAt": "2026-11-27T09:37:44.000Z",
+      "pushedAt": "2026-11-26T09:28:58.000Z",
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1474044894,
+      "name": "AutoCut-AI",
+      "fullName": "yuchen0x1/AutoCut-AI",
+      "description": "Local-first AI video editing workstation with FFmpeg, MCP and Jianying adapter",
+      "url": "https://github.com/yuchen0x1/AutoCut-AI",
+      "language": "Python",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-27T06:05:41.000Z",
+      "updatedAt": "2026-11-27T06:05:53.000Z",
+      "pushedAt": "2026-11-27T06:05:48.000Z",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
+    {
+      "id": 1444957212,
+      "name": "HongGuo-PC",
+      "fullName": "yuchen0x1/HongGuo-PC",
+      "description": "红果短剧 Windows 桌面客户端，支持搜索、播放、追剧、下载管理、断点续看和本地剧库。",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC",
+      "language": "JavaScript",
+      "topics": [
+        "desktop-app",
+        "electron",
+        "hongguo",
+        "react",
+        "short-drama",
+        "short-video",
+        "video-downloader",
+        "video-player",
+        "windows"
+      ],
+      "fork": false,
+      "archived": false,
+      "createdAt": "2026-11-03T23:49:15.000Z",
+      "updatedAt": "2026-11-27T05:46:25.000Z",
+      "pushedAt": "2026-11-26T19:59:09.000Z",
+      "stars": 11,
+      "forks": 2,
+      "issues": 0,
+      "subscribers": null,
+      "defaultBranch": "main"
+    },
     {
       "id": 1445808111,
       "name": "Short-Video-Analysis",
@@ -67,35 +143,6 @@
       "pushedAt": "2026-11-26T11:29:54.000Z",
       "stars": 56,
       "forks": 11,
-      "issues": 0,
-      "subscribers": null,
-      "defaultBranch": "main"
-    },
-    {
-      "id": 1444957212,
-      "name": "HongGuo-PC",
-      "fullName": "yuchen0x1/HongGuo-PC",
-      "description": "红果短剧 Windows 桌面客户端，支持搜索、播放、追剧、下载管理、断点续看和本地剧库。",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC",
-      "language": "JavaScript",
-      "topics": [
-        "desktop-app",
-        "electron",
-        "hongguo",
-        "react",
-        "short-drama",
-        "short-video",
-        "video-downloader",
-        "video-player",
-        "windows"
-      ],
-      "fork": false,
-      "archived": false,
-      "createdAt": "2026-11-03T23:49:15.000Z",
-      "updatedAt": "2026-11-25T11:23:50.000Z",
-      "pushedAt": "2026-11-26T19:59:09.000Z",
-      "stars": 10,
-      "forks": 2,
       "issues": 0,
       "subscribers": null,
       "defaultBranch": "main"
@@ -332,7 +379,7 @@
       "archived": false,
       "createdAt": "2026-11-17T18:40:31.000Z",
       "updatedAt": "2026-11-18T14:16:23.000Z",
-      "pushedAt": "2026-11-26T21:56:11.000Z",
+      "pushedAt": "2026-11-27T04:14:34.000Z",
       "stars": 0,
       "forks": 0,
       "issues": 0,
@@ -393,34 +440,6 @@
       "createdAt": "2026-11-18T12:04:56.000Z",
       "updatedAt": "2026-11-18T13:15:48.000Z",
       "pushedAt": "2026-11-26T19:04:45.000Z",
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "subscribers": null,
-      "defaultBranch": "main"
-    },
-    {
-      "id": 1462745068,
-      "name": "LUMORA-Camera",
-      "fullName": "yuchen0x1/LUMORA-Camera",
-      "description": "Android 胶片风格相机，支持手动拍摄、20 种胶片预设与非破坏性照片编辑。",
-      "url": "https://github.com/yuchen0x1/LUMORA-Camera",
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "camera",
-        "camerax",
-        "film-simulation",
-        "kotlin",
-        "manual-camera",
-        "photo-editor",
-        "photography"
-      ],
-      "fork": false,
-      "archived": false,
-      "createdAt": "2026-11-18T12:05:06.000Z",
-      "updatedAt": "2026-11-18T13:15:45.000Z",
-      "pushedAt": "2026-11-26T09:28:58.000Z",
       "stars": 0,
       "forks": 0,
       "issues": 0,
@@ -594,7 +613,7 @@
       "archived": false,
       "createdAt": "2026-11-06T21:53:07.000Z",
       "updatedAt": "2026-11-18T11:14:30.000Z",
-      "pushedAt": "2026-11-26T17:32:44.000Z",
+      "pushedAt": "2026-11-27T06:13:42.000Z",
       "stars": 0,
       "forks": 2,
       "issues": 0,
@@ -625,7 +644,7 @@
       "archived": false,
       "createdAt": "2026-11-06T20:01:13.000Z",
       "updatedAt": "2026-11-18T11:14:28.000Z",
-      "pushedAt": "2026-11-23T08:18:17.000Z",
+      "pushedAt": "2026-11-27T06:19:12.000Z",
       "stars": 1,
       "forks": 0,
       "issues": 6,
@@ -711,10 +730,10 @@
       "archived": false,
       "createdAt": "2026-11-02T13:21:34.000Z",
       "updatedAt": "2026-11-18T11:14:20.000Z",
-      "pushedAt": "2026-11-23T16:18:15.000Z",
+      "pushedAt": "2026-11-27T06:24:58.000Z",
       "stars": 0,
       "forks": 0,
-      "issues": 6,
+      "issues": 0,
       "subscribers": null,
       "defaultBranch": "main"
     },
@@ -741,7 +760,7 @@
       "archived": false,
       "createdAt": "2026-11-09T01:00:55.000Z",
       "updatedAt": "2026-11-18T11:14:17.000Z",
-      "pushedAt": "2026-11-26T18:46:07.000Z",
+      "pushedAt": "2026-11-27T07:07:22.000Z",
       "stars": 0,
       "forks": 0,
       "issues": 1,
@@ -944,10 +963,10 @@
       "archived": false,
       "createdAt": "2026-11-18T10:40:53.000Z",
       "updatedAt": "2026-11-18T11:13:53.000Z",
-      "pushedAt": "2026-11-25T00:36:31.000Z",
+      "pushedAt": "2026-11-27T06:32:29.000Z",
       "stars": 0,
       "forks": 0,
-      "issues": 4,
+      "issues": 3,
       "subscribers": null,
       "defaultBranch": "main"
     },
@@ -1016,8 +1035,8 @@
   "languagesByRepo": {
     "1442993298": {
       "bytes": {
-        "TypeScript": 1842451,
-        "JavaScript": 816595,
+        "TypeScript": 1851579,
+        "JavaScript": 817170,
         "CSS": 147040,
         "HTML": 35243,
         "Java": 14888,
@@ -1026,7 +1045,7 @@
         "Dockerfile": 814,
         "Ruby": 688
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1443461962": {
@@ -1042,7 +1061,7 @@
         "HTML": 550,
         "Batchfile": 492
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1444957212": {
@@ -1054,7 +1073,7 @@
         "NSIS": 1594,
         "Batchfile": 1101
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1445616368": {
@@ -1062,7 +1081,7 @@
         "PowerShell": 33011,
         "Python": 17551
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1445808111": {
@@ -1076,7 +1095,7 @@
         "Dockerfile": 1004,
         "HTML": 887
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1445887359": {
@@ -1085,7 +1104,7 @@
         "Python": 4405,
         "Kotlin": 3430
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1445999094": {
@@ -1097,7 +1116,7 @@
         "Dockerfile": 2316,
         "HTML": 1958
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1446149302": {
@@ -1107,7 +1126,7 @@
         "HTML": 66402,
         "CSS": 60506
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1446552834": {
@@ -1126,7 +1145,7 @@
         "Makefile": 2005,
         "Go Template": 174
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1448642300": {
@@ -1141,14 +1160,14 @@
         "Makefile": 2447,
         "HTML": 1317
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1448693762": {
       "bytes": {
-        "TypeScript": 15483797,
-        "JavaScript": 4091950,
-        "Python": 1732115,
+        "TypeScript": 15537699,
+        "JavaScript": 4092301,
+        "Python": 1733631,
         "PowerShell": 426755,
         "CSS": 268396,
         "Shell": 23605,
@@ -1156,7 +1175,7 @@
         "HTML": 8532,
         "MDX": 3601
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1448730459": {
@@ -1170,18 +1189,18 @@
         "Dockerfile": 1729,
         "Mako": 504
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1448784688": {
       "bytes": {
-        "JavaScript": 209971,
+        "JavaScript": 215145,
         "CSS": 60832,
         "HTML": 60290,
         "Shell": 46321,
         "PowerShell": 33563
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1448861026": {
@@ -1195,7 +1214,7 @@
         "NSIS": 875,
         "Batchfile": 212
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1449830892": {
@@ -1206,7 +1225,7 @@
         "HTML": 15473,
         "Shell": 2638
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1449921163": {
@@ -1215,7 +1234,7 @@
         "Inno Setup": 20857,
         "PowerShell": 13165
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1450523143": {
@@ -1228,7 +1247,7 @@
         "PowerShell": 1628,
         "HTML": 774
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1450533843": {
@@ -1243,7 +1262,7 @@
         "Ruby": 850,
         "HTML": 639
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1450774425": {
@@ -1257,7 +1276,7 @@
         "Swift": 5052,
         "Java": 116
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1450800727": {
@@ -1268,7 +1287,7 @@
         "JavaScript": 26779,
         "HTML": 775
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1452036559": {
@@ -1279,7 +1298,7 @@
         "CSS": 4758,
         "Dockerfile": 2336
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1455692468": {
@@ -1291,7 +1310,7 @@
         "HTML": 10593,
         "Dockerfile": 178
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1456129753": {
@@ -1301,7 +1320,7 @@
         "Dockerfile": 925,
         "HTML": 545
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1457793236": {
@@ -1313,7 +1332,7 @@
         "NSIS": 4472,
         "Shell": 970
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1460179440": {
@@ -1321,7 +1340,7 @@
         "Python": 245232,
         "Dockerfile": 1470
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1461537564": {
@@ -1333,7 +1352,7 @@
         "PowerShell": 1427,
         "HTML": 696
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1461826644": {
@@ -1343,7 +1362,7 @@
         "HTML": 1216,
         "Dockerfile": 234
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1462658395": {
@@ -1354,7 +1373,7 @@
         "PowerShell": 11253,
         "HTML": 358
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1462744908": {
@@ -1364,7 +1383,7 @@
         "Shell": 2516,
         "Inno Setup": 1139
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1462745068": {
@@ -1375,7 +1394,7 @@
         "PowerShell": 2311,
         "Java": 1391
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1462747432": {
@@ -1386,7 +1405,7 @@
         "EJS": 2340,
         "Shell": 327
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1462755074": {
@@ -1395,7 +1414,7 @@
         "Inno Setup": 32313,
         "PowerShell": 22026
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1462758535": {
@@ -1409,7 +1428,7 @@
         "HTML": 301,
         "Go": 161
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     },
     "1468619369": {
@@ -1417,11 +1436,34 @@
         "Python": 187145,
         "HTML": 17685
       },
-      "collectedAt": "2026-11-27T04:14:12.600Z",
+      "collectedAt": "2026-11-27T13:51:52.063Z",
+      "stale": false
+    },
+    "1474044894": {
+      "bytes": {
+        "Python": 205723,
+        "PowerShell": 7170
+      },
+      "collectedAt": "2026-11-27T13:51:52.063Z",
       "stale": false
     }
   },
   "releasesByRepo": {
+    "LUMORA-Camera": {
+      "tag": "v2.1.8",
+      "name": "LUMORA Camera 2.1.8",
+      "date": "2026-11-26T09:11:12.000Z",
+      "url": "https://github.com/yuchen0x1/LUMORA-Camera/releases/tag/v2.1.8",
+      "download": "https://github.com/yuchen0x1/LUMORA-Camera/releases/download/v2.1.8/android-update.json"
+    },
+    "AutoCut-AI": null,
+    "HongGuo-PC": {
+      "tag": "v6.41",
+      "name": "红果短剧 v6.41",
+      "date": "2026-11-26T18:46:10.000Z",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC/releases/tag/v6.41",
+      "download": "https://github.com/yuchen0x1/HongGuo-PC/releases/download/v6.41/hongguo-downloader-6.41-win-x64-setup.exe"
+    },
     "Short-Video-Analysis": {
       "tag": "v1.3.6",
       "name": "短视频去水印解析工具 v1.3.6",
@@ -1435,13 +1477,6 @@
       "date": "2026-11-26T11:36:55.000Z",
       "url": "https://github.com/yuchen0x1/apkstart/releases/tag/v0.12.0",
       "download": "https://github.com/yuchen0x1/apkstart/releases/download/v0.12.0/ApkStart-0.12.0-amd64.deb"
-    },
-    "HongGuo-PC": {
-      "tag": "v6.41",
-      "name": "红果短剧 v6.41",
-      "date": "2026-11-26T18:46:10.000Z",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC/releases/tag/v6.41",
-      "download": "https://github.com/yuchen0x1/HongGuo-PC/releases/download/v6.41/hongguo-downloader-6.41-win-x64-setup.exe"
     },
     "github-project-health-inspector": {
       "tag": "v1.0.1",
@@ -1513,13 +1548,6 @@
       "url": "https://github.com/yuchen0x1/VoxMaster-AI/releases/tag/v0.5.1",
       "download": "https://github.com/yuchen0x1/VoxMaster-AI/releases/download/v0.5.1/Qt-6.12.0-Corresponding-Sources.zip"
     },
-    "LUMORA-Camera": {
-      "tag": "v2.1.8",
-      "name": "LUMORA Camera 2.1.8",
-      "date": "2026-11-26T09:11:12.000Z",
-      "url": "https://github.com/yuchen0x1/LUMORA-Camera/releases/tag/v2.1.8",
-      "download": "https://github.com/yuchen0x1/LUMORA-Camera/releases/download/v2.1.8/android-update.json"
-    },
     "XiaFlow": {
       "tag": "v1.1.0",
       "name": "匣流 XiaFlow v1.1.0",
@@ -1556,11 +1584,11 @@
       "download": "https://github.com/yuchen0x1/PROJECT-NEXUS/releases/download/v2.1.1/latest.yml"
     },
     "OpenWrt-Flashing-Guide-RE-CP02": {
-      "tag": "v1.5.2",
-      "name": "OpenWrt 刷机指南 v1.5.2",
-      "date": "2026-11-26T16:37:07.000Z",
-      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/releases/tag/v1.5.2",
-      "download": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/releases/download/v1.5.2/OpenWrt-Flashing-Guide-RE-CP02-v1.5.2.tar.gz"
+      "tag": "v1.5.7",
+      "name": "OpenWrt 刷机指南 v1.5.7",
+      "date": "2026-11-27T06:13:30.000Z",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/releases/tag/v1.5.7",
+      "download": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/releases/download/v1.5.7/OpenWrt-Flashing-Guide-RE-CP02-v1.5.7.tar.gz"
     },
     "Novel-Writer-master": {
       "tag": "v0.0.3",
@@ -1584,11 +1612,11 @@
       "download": "https://github.com/yuchen0x1/LINUX-DO/releases/download/v1.1.4/linux_do_android_release_1.1.4_arm64-v8a.apk"
     },
     "JukeboxRoom": {
-      "tag": "v0.0.23",
-      "name": "JukeboxRoom v0.0.23",
-      "date": "2026-11-18T15:45:30.000Z",
-      "url": "https://github.com/yuchen0x1/JukeboxRoom/releases/tag/v0.0.23",
-      "download": "https://github.com/yuchen0x1/JukeboxRoom/releases/download/v0.0.23/jukeboxroom-server-0.0.23.zip"
+      "tag": "v0.0.24",
+      "name": "v0.0.24",
+      "date": "2026-11-27T06:16:49.000Z",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom/releases/tag/v0.0.24",
+      "download": "https://github.com/yuchen0x1/JukeboxRoom/releases/download/v0.0.24/jukeboxroom-desktop-setup-0.0.24-x64.exe"
     },
     "Internet-Speed-Test": {
       "tag": "v1.15.7",
@@ -1662,6 +1690,24 @@
     }
   },
   "commitsByRepo": {
+    "LUMORA-Camera": {
+      "sha": "f0dfc7f61ae191a7d6c57fc9053f7050f3b62ce9",
+      "message": "docs(release): record verified 2.1.8 publication",
+      "date": "2026-11-26T09:28:03.000Z",
+      "url": "https://github.com/yuchen0x1/LUMORA-Camera/commit/f0dfc7f61ae191a7d6c57fc9053f7050f3b62ce9"
+    },
+    "AutoCut-AI": {
+      "sha": "845ed6ab74f8a6e1238137f7dee6120e0b2019eb",
+      "message": "chore: ignore generated packaging spec",
+      "date": "2026-11-27T06:05:40.000Z",
+      "url": "https://github.com/yuchen0x1/AutoCut-AI/commit/845ed6ab74f8a6e1238137f7dee6120e0b2019eb"
+    },
+    "HongGuo-PC": {
+      "sha": "61866253ee3ea0d521e9ce396e530ebcf7e5eef6",
+      "message": "ci(playback): schedule the probe away from the top-of-hour peak",
+      "date": "2026-11-26T19:59:04.000Z",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC/commit/61866253ee3ea0d521e9ce396e530ebcf7e5eef6"
+    },
     "Short-Video-Analysis": {
       "sha": "db857d21e1d04dbebc67786afb22fa57534f04d0",
       "message": "Merge pull request #28 from yuchen0x1/codex/repository-cleanup",
@@ -1673,12 +1719,6 @@
       "message": "feat: add DNS presets and pause background polling (v0.12.0)",
       "date": "2026-11-26T11:29:18.000Z",
       "url": "https://github.com/yuchen0x1/apkstart/commit/e1cafe6adc16619d8cca5ef84801ffd3c2adc18d"
-    },
-    "HongGuo-PC": {
-      "sha": "61866253ee3ea0d521e9ce396e530ebcf7e5eef6",
-      "message": "ci(playback): schedule the probe away from the top-of-hour peak",
-      "date": "2026-11-26T19:59:04.000Z",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC/commit/61866253ee3ea0d521e9ce396e530ebcf7e5eef6"
     },
     "github-project-health-inspector": {
       "sha": "344609d187f4024d7e56fc6ab54e97797eed6b89",
@@ -1740,12 +1780,6 @@
       "date": "2026-11-26T19:04:38.000Z",
       "url": "https://github.com/yuchen0x1/VoxMaster-AI/commit/3a637587a67f89efcce9d8bf904700a64e612f71"
     },
-    "LUMORA-Camera": {
-      "sha": "f0dfc7f61ae191a7d6c57fc9053f7050f3b62ce9",
-      "message": "docs(release): record verified 2.1.8 publication",
-      "date": "2026-11-26T09:28:03.000Z",
-      "url": "https://github.com/yuchen0x1/LUMORA-Camera/commit/f0dfc7f61ae191a7d6c57fc9053f7050f3b62ce9"
-    },
     "XiaFlow": {
       "sha": "640e0bdbc0475e57e715ca1b8b8871c0aea7ee5b",
       "message": "Add signed updates, cross-platform CLI and release automation",
@@ -1777,16 +1811,16 @@
       "url": "https://github.com/yuchen0x1/PROJECT-NEXUS/commit/43378ab16ff11cd080d73e4cc9202781f1088f88"
     },
     "OpenWrt-Flashing-Guide-RE-CP02": {
-      "sha": "6d47fbec8e61bb30cccd2a176ba4bc2153aedd3d",
-      "message": "fix: atomically recover stale ota lock",
-      "date": "2026-11-26T17:30:34.000Z",
-      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/commit/6d47fbec8e61bb30cccd2a176ba4bc2153aedd3d"
+      "sha": "c25670f30ddac412c62dc143be23d8406fcbe828",
+      "message": "docs: sync README with GitHub Releases",
+      "date": "2026-11-27T06:13:42.000Z",
+      "url": "https://github.com/yuchen0x1/OpenWrt-Flashing-Guide-RE-CP02/commit/c25670f30ddac412c62dc143be23d8406fcbe828"
     },
     "Novel-Writer-master": {
-      "sha": "fc5bf466935c4763b539d6e99d42b57fd159eb3d",
-      "message": "chore: add aa-browser-mcp dsh plugin config",
-      "date": "2026-11-19T16:16:27.000Z",
-      "url": "https://github.com/yuchen0x1/Novel-Writer-master/commit/fc5bf466935c4763b539d6e99d42b57fd159eb3d"
+      "sha": "9524168768dbac61dc4189bb67715606dd70fa6c",
+      "message": "fix: harden writing flows and bridge desktop updates to v2.0.0",
+      "date": "2026-11-27T06:17:21.000Z",
+      "url": "https://github.com/yuchen0x1/Novel-Writer-master/commit/9524168768dbac61dc4189bb67715606dd70fa6c"
     },
     "mind-bench": {
       "sha": "5f60b4e433532e21985ba8d432601a1163a3f94c",
@@ -1801,10 +1835,10 @@
       "url": "https://github.com/yuchen0x1/LINUX-DO/commit/5a3b3353f3b171650f9591e82889771248428807"
     },
     "JukeboxRoom": {
-      "sha": "e2a26d2d5f2eeffdb30b09fc4e51fa241274da56",
+      "sha": "83b04a92ecfebb58a78392d8f0b860773fdd44e0",
       "message": "docs: sync README with GitHub Releases",
-      "date": "2026-11-19T15:53:50.000Z",
-      "url": "https://github.com/yuchen0x1/JukeboxRoom/commit/e2a26d2d5f2eeffdb30b09fc4e51fa241274da56"
+      "date": "2026-11-27T06:17:02.000Z",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom/commit/83b04a92ecfebb58a78392d8f0b860773fdd44e0"
     },
     "Internet-Speed-Test": {
       "sha": "dbe13f11b0d7f49a597a8a775b9af9052e0be91f",
@@ -1849,10 +1883,10 @@
       "url": "https://github.com/yuchen0x1/baidu-tieba-yunqiandao/commit/9c44b51bc951b77fadc5c507b773bdeb5e45efe4"
     },
     "authenticator-desk": {
-      "sha": "2a65b670478730bd69f76e46ba166a6536753acd",
-      "message": "Merge pull request #13 from yuchen0x1/dependabot/cargo/src-tauri/rust-compatible-94f4ffd531",
-      "date": "2026-11-21T13:35:16.000Z",
-      "url": "https://github.com/yuchen0x1/authenticator-desk/commit/2a65b670478730bd69f76e46ba166a6536753acd"
+      "sha": "56c2e2b1299322d45d21295053b27bd6c3dec6b7",
+      "message": "build(deps): bump the rust-compatible group in /src-tauri with 3 updates (#16)",
+      "date": "2026-11-27T06:30:07.000Z",
+      "url": "https://github.com/yuchen0x1/authenticator-desk/commit/56c2e2b1299322d45d21295053b27bd6c3dec6b7"
     },
     "Audio-Studio": {
       "sha": "4e6ffdf2dcefe6b84ca8402ef49945d15a23c084",
@@ -1871,20 +1905,292 @@
     "aa-browser": {
       "markdown": "# Aa Browser\n\n**为 AI Agent 提供独立登录身份、可恢复工作流与人工审批的开源桌面浏览器运行平台。**\n\n![License](https://img.shields.io/badge/license-MIT-blue) ![CI](https://github.com/yuchen0x1/aa-browser/actions/workflows/ci.yml/badge.svg) ![Platform](https://img.shields.io/badge/platform-Windows%20x64%20%7C%20Linux%20x86_64-lightgrey) ![MCP](https://img.shields.io/badge/protocol-MCP-purple) [![M8ven Score](https://m8ven.ai/badge/mcp/yuchen0x1-aa-browser-135ffo?v=5eaaa577bc85b8b59b5e327efd51d38c)](https://m8ven.ai/mcp/yuchen0x1-aa-browser-135ffo?s=readme)\n\n> 人像人一样浏览网页，Agent 像工程师一样驱动它。\n> **The Agent-Native Browser** — snapshots, actions, and packet capture over MCP.\n\n<p align=\"center\">\n  <b>简体中文</b> ·\n  <a href=\"./docs/i18n/readmes/README.en.md\">English</a> ·\n  <a href=\"./docs/i18n/readmes/README.zh-TW.md\">繁體中文</a> ·\n  <a href=\"./docs/i18n/readmes/README.ja.md\">日本語</a> ·\n  <a href=\"./docs/i18n/readmes/README.ko.md\">한국어</a> ·\n  <a href=\"./docs/i18n/readmes/README.es.md\">Español</a> ·\n  <a href=\"./docs/i18n/readmes/README.pt-BR.md\">Português (BR)</a> ·\n  <a href=\"./docs/i18n/readmes/README.fr.md\">Français</a> ·\n  <a href=\"./docs/i18n/readmes/README.de.md\">Deutsch</a> ·\n  <a href=\"./docs/i18n/readmes/README.ru.md\">Русский</a> ·\n  <a href=\"./docs/i18n/readmes/README.ar.md\">العربية</a> ·\n  <a href=\"./docs/i18n/readmes/README.hi.md\">हिन्दी</a>\n</p>\n\n> 其他语言版本是精简导读，安装、接入、安全与工具的权威细节以本文件为准。语言清单见 [`docs/i18n/readme-languages.json`](./docs/i18n/readme-languages.json)。\n\n<p align=\"center\">\n  <img src=\"./docs/media/aa-browser-demo.webp\" alt=\"Aa Browser —— 为 Agent 而生的浏览器\" width=\"720\" />\n</p>\n\n## 最新更新\n\n<!-- github-release:start -->\n\n**[v0.17.0](https://github.com/yuchen0x1/aa-browser/releases/tag/v0.17.0)** · 2026-11-24 · 最新正式版（Windows x64、Linux x86_64）\n\nGitHub Release 更新支持官方线路优先、代理回退、断点续传和可信摘要/大小校验；尚未在中国大陆网络或完整 Release 大包上实测。Windows 安装包仍未 Authenticode 签名。\n\n[全部发行记录](https://github.com/yuchen0x1/aa-browser/releases)\n\n<!-- github-release:end -->\n\n从旧版本升级：打开「设置 → 软件更新」检查、下载并重启安装；升级后新功能才会生效。完整版本历史见[发布说明](./docs/releases/release-notes.md)与 [CHANGELOG](./CHANGELOG.md)。\n\nAa Browser 是一个完整的 Chromium 桌面浏览器，任何人都可以正常使用它上网；同时它通过本地 MCP 桥把页面能力开放给支持 [MCP](https://modelcontextprotocol.io)（Model Context Protocol）的 Agent：优先读取**结构化快照**（可访问性树 + 元素 ref 编号），执行点击、输入、选择、滚动、提取和抓包。Canvas、图表等结构化信息不足的页面可使用截图与受保护的坐标操作补充。\n\n它适合后台运营、数据采集、回归验证、抓包排障，以及把重复的网页操作交给模型。工作账号、个人账号与测试账号可以放在独立 Profile 中，Agent 和工作流显式绑定对应环境；有副作用的中断步骤需要先检查页面，再由人批准重试。\n\n当前源码面向 **v0.19.0**：保留原有 **47 个 MCP 工具**，增加 6 个平台入口，共 **53 个工具**。已发布版本与安装包以顶部正式发行链接为准。\n\n## 目录\n\n- [特性](#特性)\n- [演示](#演示)\n- [快照示例](#快照示例)\n- [架构](#架构)\n- [快速开始](#快速开始)\n  - [一键接入（推荐）](#一键接入推荐)\n  - [Windows 安装包](#windows-安装包)\n  - [Linux AppImage](#linux-appimage)\n  - [源码运行](#源码运行)\n  - [自动更新](#自动更新)\n- [接入你的 Agent](#接入你的-agent)\n  - [客户端配置位置](#客户端配置位置)\n  - [连接状态与验证](#连接状态与验证)\n- [Profile 与工作流](#profile-与工作流)\n- [MCP 工具](#mcp-工具)\n- [界面与快捷键](#界面与快捷键)\n- [安全说明](#安全说明)\n- [本地数据与卸载](#本地数据与卸载)\n- [平台支持](#平台支持)\n- [已知限制](#已知限制)\n- [故障排查](#故障排查)\n- [项目结构](#项目结构)\n- [开发与测试](#开发与测试)\n- [文档](#文档)\n- [常见问题](#常见问题)\n- [贡献](#贡献)\n- [许可](#许可)\n- [致谢](#致谢)\n\n## 特性\n\n- 🖥️ **真浏览器**：基于 Electron（Chromium），标签页 / 地址栏 / 前进后退 / 页面查找 / 下载面板 / 登录态持久化，一应俱全\n- 🧠 **结构化快照**：页面被转换成 YAML 风格的可访问性树，每个可交互元素带 `ref` 编号（`- button \"登录\" [ref=e5]`），格式对齐 Playwright MCP 生态，Agent 零学习成本\n- 💸 **增量快照省 token**：页面没变 → 一行回复；小变化 → 只返回变更区块；ref 跨快照稳定复用（React 重渲染也能靠内容签名接上）；跳转 / 大变化自动回退完整快照。长任务通常能省 60%+ 上下文\n- 🤖 **MCP 原生接入**：标准 stdio MCP 桥，Codex / ZCode / Claude Code / Cursor 等 MCP 客户端均可驱动\n- 🎯 **真实输入路径**：点击走受信任的输入事件（`isTrusted=true`），输入走 `insertText` 管线并对 React 受控组件兜底；真实事件偶发丢失时自动补发合成事件，不会「调用成功但页面没动」\n- 🔁 **动作后自动快照**：每次点击 / 输入 / 滚动后自动返回新快照，Agent 无需二次请求即可继续决策\n- 📊 **性能诊断**：`browser_performance` 一次返回导航耗时、首绘、资源体积与慢资源、JS 堆和 DOM 规模，Agent 不开 DevTools 也能解释慢页面\n- 🌐 **中英双语界面**：跟随系统 / 浏览器语言，也可在设置里固定简体中文或 English\n- 🧭 **地址栏历史补全**：本地记录最近 1000 条访问，按域名 / URL 前缀 / 标题补全并加权排序；隔离标签不写入\n- 🧩 **已解压扩展**：按 Profile 加载本地 MV2 / MV3 扩展，查看版本、权限、来源，启用、禁用、卸载并检查本地版本变化；一次性隔离标签不加载扩展\n- **独立浏览器身份**：Profile 使用独立的持久化 Chromium Session，分开 Cookie、Storage、IndexedDB、登录态、缓存、历史、下载目录、代理和扩展登记；旧版默认环境保留原分区\n- **可恢复工作流**：复用既有工具执行依赖步骤，持久化步骤状态、重试计数、检查点与审计事件；只读失败有界重试，不自动重放中断的写操作\n- **网络与故障诊断**：按 Profile 设置系统、直连或 HTTP/HTTPS/SOCKS5 代理，检测真实路由、连通性与本机 DNS；诊断面板汇总 Renderer、MCP、任务、CPU 和内存\n- 🗂️ **标签与会话恢复**：`Ctrl+Shift+T` 恢复本次运行中最近关闭的标签（最多 20 个）；重启后按上次顺序恢复普通网页标签与活动标签，隔离标签、内部页和非 HTTP(S) 地址不恢复，地址中的账号密码会被剥离\n- 🛡️ **Agent 可观测、可接管**：工具栏实时显示连接状态，Agent 操作浏览器时窗口四周显示闪烁光圈、右下角显示当前工具；活动日志保留最近 30 条操作；敏感输入由用户亲自填写，高危操作走浏览器内审批。AI 操作网页时页面默认只读：点击网页或 HUD 的「接管页面」会立即暂停 AI 并把操作权交给你，首次点击只用于接管、不会误触网页；操作完点「继续 AI」恢复，接管期间不会自动恢复。工具栏「中断」仍会取消所有调用并暂停 30 秒，随后自动恢复，也可随时手动恢复。长操作（导航 / 等待 / 整页截图 / 多视口矩阵 / 视觉对比）会按 MCP 规范回传 `notifications/progress`；多客户端并发时 HUD 列出每个调用及其进度，并可「停止」单个调用而不影响其他客户端\n- 🧩 **长页面与证据治理**：超长页面可用 `browser_snapshot {maxNodes, cursor}` 分页且跨页 ref 仍有效；closed shadow DOM 内的元素也能被快照与点击；截图 / HAR / PDF / 视觉基线自动登记 sha256、大小与 TTL，按配额清理临时证据而保留用户数据\n- 🖱️ **下载与权限可控**：下载可取消 / 重试（重试重新校验站点白名单）；摄像头 / 麦克风 / 定位 / 通知请求进入人工审批，允许后仅在该会话内生效；原生右键菜单跟随语言设置，并带图片另存与打印\n- 🔒 **本地安全**：WebSocket 仅监听 `127.0.0.1`，每次启动随机 token，拒绝非本机来源；另有站点白名单、隔离会话与网络数据脱敏\n- 🔌 **一段接入**：把新标签页或 [PROMPT.md](./PROMPT.md) 里的通用提示词发给任意具备本机执行能力的 AI，自动完成下载、安装、MCP 配置和 `browser_tabs` 验证；配置指向稳定桥路径，随应用升级\n- 📦 **可验证发行**：当前正式版提供 Windows NSIS 安装包与 Linux AppImage，附 `SHA256SUMS.txt`、GitHub 不可变发行证明和 CycloneDX `sbom.cdx.json`\n\n## 演示\n\n<p align=\"center\">\n  <a href=\"./docs/media/aa-browser-demo.mp4\">\n    <img src=\"./docs/media/aa-browser-demo.webp\" alt=\"Aa Browser 演示录屏（15 秒）\" width=\"720\" />\n  </a>\n</p>\n\n15 秒录屏。点击画面或[观看原片（MP4，1280×720，约 1.9 MB）](./docs/media/aa-browser-demo.mp4)；GitHub 的 README 不支持内嵌视频播放，这里用一份等长动图预览代替。\n\n### 地址栏编辑\n\n聚焦地址栏或按 `Ctrl/Cmd+L` 时编辑完整地址，保留协议、查询参数与 `#` 路由；未编辑直接回车不会改变原地址。按 Esc 先收起历史建议，再按一次取消编辑。以下截图来自本地真实 Electron 回归页面：\n\n![完整地址编辑（本地 HTTP 测试页面）](./docs/screenshots/omnibox-edit.png)\n\n## 快照示例\n\n在必应首页调用 `browser_snapshot` 得到：\n\n```text\n页面快照 url: https://www.bing.com/\ntitle: 搜索 - Microsoft 必应\n元素数: 19\n\n- banner \"登录 Rewards 手机版\"\n  - img \"必应\"\n  - navigation\n    - menuitem \"图片\" [ref=e1]\n    - menuitem \"视频\" [ref=e3]\n- search\n  - combobox \"搜索网页\" [ref=e15]\n  - button \"语音搜索\" [ref=e16]\n```\n\nAgent 随后：\n\n```jsonc\n{ \"tool\": \"browser_type\", \"arguments\": { \"ref\": \"e15\", \"text\": \"Aa Browser\", \"submit\": true } }\n```\n\n点击 / 输入后自动返回的是**增量快照**——只有变化的区块：\n\n```text\n页面快照（增量） url: https://www.bing.com/search?q=Aa+Browser\ntitle: Aa Browser - 搜索\n变化: +6 / -1（共 214 行，其余未变，仍以上次快照为准）\n\n  - search\n+ - link \"agent-browser.dev\" [ref=e37]\n+ - text \"Browser automation for AI agents …\"\n- - text \"（旧的空白提示）\"\n\n新增 ref: e37 e38\n失效 ref: e12\n```\n\n页面未变化时只回一行（≈50 token）；跳转到新页面或变化过大时自动回退完整快照。`browser_snapshot { full: true }` 可强制完整树。完整的工具清单见下文 [MCP 工具](#mcp-工具)。\n\n## 架构\n\n```text\n┌─────────────────────────────────────────────────────┐\n│                Aa Browser (Electron)                │\n│  ┌───────────────────────────────────────────────┐  │\n│  │  外壳 UI（标签栏 / 地址栏 / 设置）←→ 主进程 IPC │  │\n│  └───────────────────────────────────────────────┘  │\n│  ┌───────────────────────────────────────────────┐  │\n│  │  页面标签 WebContentsView × N                 │  │\n│  │    └─ 注入快照引擎（DOM → YAML 树 + ref 表）  │  │\n│  └───────────────────────────────────────────────┘  │\n│  ┌───────────────────────────────────────────────┐  │\n│  │  Agent 服务 ws://127.0.0.1:<随机端口>         │  │\n│  │    ~/.aabrowser/connection.json（端口 + token）│  │\n│  └───────────────────────────────────────────────┘  │\n└──────────────────────────┬──────────────────────────┘\n                           │ 本地 WebSocket（token 鉴权）\n┌──────────────────────────┴──────────────────────────┐\n│  cli/mcp.mjs → out/bridge/mcp.cjs（stdio MCP 桥）   │\n│    MCP 客户端：Codex / ZCode / Cursor / Claude Code │\n└─────────────────────────────────────────────────────┘\n```\n\n端口与 token 由应用在启动时生成并写入 `~/.aabrowser/connection.json`（正常退出时删除）；MCP 桥通过它发现浏览器。若浏览器尚未运行，桥在第一次 `tools/call` 时会从受信安装路径自动启动 Aa Browser，并等待 WebSocket 就绪；可用 `AA_BROWSER_APP_PATH` 指定绝对可执行文件路径，用 `AA_BROWSER_AUTO_LAUNCH=0` 禁用自动启动。升级应用一般不需要重写客户端配置。页面视图不挂 preload，快照与动作脚本由主进程注入。发布版使用 `out/bridge/mcp.cjs`——由 `cli/mcp.mjs` 构建出的单文件零依赖产物，安装后无需 `node_modules`。\n\n## 快速开始\n\n| 你的情况 | 建议路径 |\n| --- | --- |\n| 想最快接上 AI，且有一个能执行本机命令的 AI | [一键接入（推荐）](#一键接入推荐) |\n| 想自己手动安装 | [Windows 安装包](#windows-安装包) / [Linux AppImage](#linux-appimage) |\n| 想改代码或自行构建 | [源码运行](#源码运行) |\n\n### 一键接入（推荐）\n\n把 [PROMPT.md](./PROMPT.md) 中的提示词整段发给任意具备本机命令执行能力的 AI（WorkBuddy、ZCode、Codex/ChatGPT 桌面端、Claude Code、Cursor、Windsurf、Cline、VS Code、Gemini CLI、Qwen Code、DeepSeek Harness 等）。\n\n- **还没安装 Aa Browser**：AI 会下载官方安装器，自动选择平台、校验 SHA-256、安装并启动，再写入 MCP 配置。\n- **已经下载并打开了 Aa Browser**：点新标签页的「复制接入提示词」，AI 会跳过安装，只写配置并实际调用 `browser_tabs` 列表验证。\n- **已经下载 Aa Browser 但尚未打开**：AI 写入配置后，第一次调用 `browser_tabs` 时 MCP 桥会自动启动浏览器并等待连接；也可以先手动打开再验证。\n- **网页版 ChatGPT 等没有本机执行能力的环境**：提示词要求 AI 明确说明无法自动安装并给出手动步骤，不会假装成功。\n\n安装器写入前会备份客户端配置，只修改 `aa-browser` 一个条目；配置指向稳定桥路径，应用升级后一般无需重写。完整平台 / 客户端矩阵、参数和排查见[通用安装与接入](./docs/CONNECT.md)。\n\n手动等效命令（AI 不可用时）：\n\n```bash\nnode install.mjs --repo yuchen0x1/aa-browser --verify --json   # 下载、校验、安装、接入并验证\nnode install.mjs --connect-only --verify --json                 # 已安装，只接入并验证\nnode install.mjs --verify-only                                  # 只验证浏览器侧连接，不写配置\nnode install.mjs --print-config                                 # 输出通用 MCP 配置片段（stdout 是纯 JSON）\n```\n\n常用参数：\n\n| 参数 | 作用 |\n| --- | --- |\n| `--repo yuchen0x1/aa-browser` | 从官方 GitHub Releases 安装最新版 |\n| `--connect-only` | 跳过安装，只写配置（可配合 `--verify`） |\n| `--verify` / `--verify-only` | 安装 / 接入后实际调用 `browser_tabs` 验证 / 只验证 |\n| `--json` | 机器可读输出，日志走 stderr |\n| `--clients zcode,cursor` | 只配置指定客户端 |\n| `--dir <目录>` | Windows 安装目录 / Linux AppImage 存放目录 |\n| `--no-launch` | 安装后不自动启动浏览器 |\n| `--sha256 <hex>` | 显式校验安装包哈希 |\n| `--print-config` | 只输出通用 MCP 配置片段 |\n\n安装器从不交互提问；`--yes` 只是兼容提示词的无人值守开关。自动写入配置的客户端：ZCode、Claude Code、Cursor、Windsurf、Cline、VS Code、Gemini CLI、Qwen Code、OpenCode、Codex、WorkBuddy。DeepSeek Harness 通过插件市场手动接入（安装器不会修改 `.dsh`）；其他客户端可用 `--print-config` 获取通用配置。DeepSeek Harness 可直接安装插件市场的 Aa Browser 插件（见[插件市场接入](./docs/MARKETPLACE.md)）。\n\nWorkBuddy 会写入用户级 `~/.workbuddy/mcp.json` 并生成本地 Connector；配置写入、Connector 导入 / 启用、bridge 鉴权、工具调用成功是不同状态，必须由 WorkBuddy 实际调用 `browser_tabs` 后才能报告已连接。不要改写 WorkBuddy 数据库、缓存或内部运行时文件。\n\n### Windows 安装包\n\n从 [GitHub Releases](https://github.com/yuchen0x1/aa-browser/releases/latest) 下载 `aa-browser-setup-<版本>.exe`，双击安装。安装包未做代码签名，Windows SmartScreen 提示时选「更多信息 → 仍要运行」。\n\n同一 Release 还提供 `SHA256SUMS.txt`、`sbom.cdx.json` 和 GitHub 不可变发行证明，可自行核对文件来源与依赖清单。\n\n首次打开后，新标签页会提供安装与连接提示词：具备本机终端和文件操作能力的 AI 可以按提示从官方仓库下载安装、写入客户端配置，并在重启 / 重新加载后实际调用 `browser_tabs` 验证。只有 AI 实际成功调用 `browser_tabs` 的列表操作，工具栏才显示「AI 已连接」；配置写入成功本身不代表接通。\n\n需要在本地打出安装包时（维护者）：\n\n```bash\nnpm run dist -- --publish never  # 产出 release/aa-browser-setup-<版本>.exe\n```\n\n### Linux AppImage\n\nv0.17.0 提供 Linux AppImage；Ubuntu 24.04 的 Xvfb 桌面、打包、AppImage 启动和 MCP 桥连接由标签 CI 验证，其他发行版和桌面环境仍需实机确认。下载 `aa-browser-0.17.0-linux-x86_64.AppImage`，赋予执行权限后从当前桌面会话启动。需要 GTK 3、NSS、GBM、音频库以及可用的 Chromium 沙箱；MCP 接入需要系统 Node.js 22.12 或更高版本。\n\n```bash\nmkdir -p ~/Applications\nmv aa-browser-0.17.0-linux-x86_64.AppImage ~/Applications/AaBrowser.AppImage\nchmod u+x ~/Applications/AaBrowser.AppImage\n~/Applications/AaBrowser.AppImage\n```\n\n没有 FUSE 时可用 `APPIMAGE_EXTRACT_AND_RUN=1 ~/Applications/AaBrowser.AppImage` 启动。系统依赖、按发行版验证状态和恢复步骤见[平台指南](./docs/PLATFORMS.md)。\n\n### 源码运行\n\n开发和打包使用 Node.js 22.12 或更高版本。\n\n```bash\ngit clone https://github.com/yuchen0x1/aa-browser.git aa-browser\ncd aa-browser\nnpm ci             # 首次会下载 Electron，慢可设镜像：\n                   # export ELECTRON_MIRROR=https://npmmirror.com/mirrors/electron/\nnpm run build      # 构建主进程 / 预加载 / 渲染层 / MCP 桥 / DeepSeek Harness 插件桥\nnpm start          # 启动 Aa Browser（预览构建产物）\n```\n\n开发模式（热更新渲染层）：\n\n```bash\nnpm run dev\n```\n\n开发版使用独立的 `aa-browser-dev` 用户数据目录，不会和安装版抢单实例锁、登录态或 `connection.json`，两者可以同时运行。\n\n### 自动更新\n\nWindows NSIS 安装版和 Linux AppImage 都从 GitHub Releases 检查更新。打开「设置 → 软件更新」可以检查、查看下载状态并确认重启安装；下载完成后只有用户确认才会交给安装器。默认稳定版通道，也可切换到 Beta；网络失败会按 1 / 5 / 15 分钟退避重试，也可手动重试。AI 正在操作浏览器时会先提示重启会中断当前步骤。更新后桥会自动重连，只读且幂等的在途调用会重发；写操作不会重放，标签 id 会随会话恢复保留。安装流程、SHA-512 校验与回滚方法见[自动更新](./docs/AUTO_UPDATE.md)。\n\n## 接入你的 Agent\n\n### 前提\n\n- Aa Browser 已安装；它会在 `~/.aabrowser/connection.json` 写入本地端口与 token，浏览器未运行时 MCP 桥会在第一次工具调用时自动拉起它。\n- 客户端支持 stdio MCP；浏览器与客户端在同一台机器、同一个用户账户下。\n\n### 方式 A · 一键接入（推荐）\n\nAa Browser 工具栏「设置」→「连接 AI 客户端」→ 勾选 → 写入，然后重启 AI 客户端，并让它实际调用 `browser_tabs` 的列表操作。工具栏显示「AI 已连接」才算验证通过；MCP 桥连上但尚未成功调用工具时会显示「等待 AI 首次调用」。\n\n命令行等效：`node cli/setup.mjs --yes`（`--list` 查看客户端，`--client zcode,cursor` 指定目标）。\n\n### 方式 B · 手动写入通用配置\n\n先运行 `node install.mjs --print-config`，它会输出当前安装可用的 `command` / `args` / `env`，直接粘贴到客户端即可。下面是配置的形态（Windows 示例，路径和 `env` 不要照抄）：\n\n```jsonc\n{\n  \"mcpServers\": {\n    \"aa-browser\": {\n      \"command\": \"node\",\n      // 路径以 node install.mjs --print-config 的输出为准\n      \"args\": [\"C:\\\\path\\\\to\\\\Aa Browser\\\\resources\\\\app.asar.unpacked\\\\out\\\\bridge\\\\mcp.cjs\"]\n    }\n  }\n}\n```\n\n打包版自带的 Node 运行时可能写成 `\"command\": \"C:\\\\...\\\\Aa Browser.exe\"` 并附带 `\"env\": { \"ELECTRON_RUN_AS_NODE\": \"1\" }`，同样以 `--print-config` 的输出为准。\n\n### 客户端配置位置\n\n| 客户端 | 自动写入 | 配置文件 / 接入方式 |\n| --- | --- | --- |\n| ZCode | 是 | `~/.zcode/cli/config.json`（`mcp.servers`） |\n| Claude Code | 是 | `~/.claude.json`（`mcpServers`） |\n| Cursor | 是 | `~/.cursor/mcp.json`（`mcpServers`） |\n| Windsurf | 是 | `~/.codeium/windsurf/mcp_config.json`（`mcpServers`） |\n| Cline（VS Code 扩展） | 是 | `%APPDATA%\\Code\\User\\globalStorage\\saoudrizwan.claude-dev\\settings\\cline_mcp_settings.json`（JSONC） |\n| VS Code（原生 MCP） | 是 | `%APPDATA%\\Code\\User\\mcp.json`（`servers`，需要 `type`） |\n| Gemini CLI | 是 | `~/.gemini/settings.json`（`mcpServers`） |\n| Qwen Code | 是 | `~/.qwen/settings.json`（`mcpServers`） |\n| OpenCode（开源项目：[anomalyco/opencode](https://github.com/anomalyco/opencode)） | 是 | Windows `%APPDATA%\\opencode\\opencode.json`；macOS `~/Library/Application Support/opencode/opencode.json`；Linux `$XDG_CONFIG_HOME/opencode/opencode.json`（`mcp`，`type: local`） |\n| Codex（桌面端 / CLI / IDE） | 是 | `~/.codex/config.toml`（`mcp_servers`，TOML） |\n| WorkBuddy | 是 | `~/.workbuddy/mcp.json` + 本地 Connector |\n| DeepSeek Harness | 插件市场手动接入 | 安装/启用 Aa Browser 插件；工具以 `mcp__aa-browser__*` 出现；不会改写 `.dsh` 配置、数据库或缓存 |\n| 其他 MCP 客户端 | 手动 | `node install.mjs --print-config` 后按客户端文档粘贴 |\n\n写入前自动备份原配置为 `<文件>.aa-backup-<时间戳>`，只改 `aa-browser` 一个键，幂等可重复执行；配置文件存在但无法解析时会跳过自动写入并提示手动配置，不会硬写坏原文件。Linux 上 VS Code 配置位于 `~/.config/Code/User/`。\n\n### 连接状态与验证\n\n| 工具栏状态 | 含义 |\n| --- | --- |\n| 等待 AI 连接 | 还没有 MCP 桥连上：配置没写入、客户端没重启，或浏览器没运行 |\n| 等待 AI 首次调用 | 桥已连上并完成鉴权，但还没有一次成功的工具调用 |\n| AI 已连接 ×N | 至少一次 `browser_tabs` 列表调用成功；N 为已验证的桥连接数 |\n\n「配置写入成功」不等于接通。命令行验证：`node install.mjs --verify-only`。DeepSeek Harness 场景先确认 `~/.aabrowser/dsh-bridge.cjs` 存在，再让 Agent 实际调用一次 `mcp__aa-browser__browser_tabs`；工具出现在列表里只证明桥启动成功，不能证明浏览器可达。\n\n然后让 Agent 干活，例如：「用浏览器打开 GitHub trending，把前 10 个项目整理成表格」或「打开 xx 后台，把登录后的接口响应都抓给我看」。\n\n## MCP 工具\n\n共 **53 个**工具：原有 47 个名称与核心参数保留，新增 6 个平台管理入口。工具名在客户端可能带 `mcp__aa-browser__` 前缀（如 `mcp__aa-browser__browser_tabs`），以客户端实际展示为准。\n\n共享行为：\n\n- 导航与多数动作工具默认在结果里附带一份快照；`snapshot: false` 可跳过，`browser_snapshot { full: true }` 强制完整树。\n- 所有工具新增可选 `profileId`。省略时使用当前 MCP 客户端绑定的 Profile，否则使用默认 Profile；`tabId` 只对声明了该参数的页面工具生效。`browser_resize` 仍调整共享桌面窗口尺寸。\n- 浏览器未运行时，桥返回 `isError` 工具结果而不是挂起；桥每 5 秒重试连接，启动浏览器后无需重启客户端。\n- 单次调用超时 180 秒；等待人工审批最长 120 秒，超时按拒绝处理。\n- 网络详情与 HAR 默认脱敏；响应体额外对 JSON、表单和常见授权文本做内容级脱敏，并在 MCP 边界限制为最多 1 MiB。敏感读取、坐标写操作和平台配置修改使用明确的权限或人工审批，调用参数不能自行授权。\n\n**导航与快照**\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_navigate` | 导航到 URL（非 URL 文本自动转搜索词；结果内嵌完整快照，`snapshot: false` 可跳过）。SPA 可用 `waitFor: { selector / text / urlContains, timeoutMs }` 等真实内容渲染；超时返回 `isError` 与当前快照 |\n| `browser_reload` | 刷新当前或指定标签页；`hard: true` 绕过缓存，默认返回刷新后快照 |\n| `browser_snapshot` | 结构化页面快照（默认增量省 token；`full: true` 强制完整树）。长页面可用 `maxNodes` 分页，响应给出 `nextCursor`，跨页 ref 仍有效 |\n| `browser_navigate_back` / `browser_navigate_forward` | 历史后退 / 前进（返回增量快照） |\n\n**交互**\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_click` | 按 ref 点击（支持左键 / 右键 / 双击，自动返回增量快照） |\n| `browser_type` | 按 ref 输入文本（支持 `submit` 回车提交、`clear` 清空） |\n| `browser_fill_form` | **批量填写**：一次调用填多个字段（文本 / 下拉 / 复选），末尾只回一次快照 |\n| `browser_select_option` | 按 ref 选择下拉项（按 value 或可见文本匹配） |\n| `browser_drag` | 按 ref 拖拽（拖到目标元素 `toRef` 或相对偏移 `dx, dy`，支持滑块与看板） |\n| `browser_hover` | 按 ref 悬停（真实 mouseMove，触发悬停菜单 / 提示） |\n| `browser_scroll` | 滚动页面（先主文档，后该方向上最大的滚动区域；默认 700px，上限 3000px）。返回真实前后位置、`didScroll`、`atLimit`、`visibilityState` 与未滚动原因，不再把静默无操作报告为成功 |\n| `browser_press_key` | 按键：Enter / Escape / Tab / 方向键 / PageUp / PageDown / F1-F12 / 单字符；支持 `modifiers: [ctrl, alt, shift, meta]` 及 `Ctrl+C` / `Ctrl+Shift+R` 等组合 |\n| `browser_upload_file` | 向 `<input type=file>` 上传本机文件（触发 change 事件） |\n\n**读取与状态**\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_extract` | 提取整页或指定元素的纯文本 |\n| `browser_page_state` | 一次读取页面状态：URL / 标题 / `readyState` / 可见性与焦点 / 滚动位置与高度 / 可见弹窗与被拦截的原生对话框 / Cloudflare 验证 / 限流提示，并附带浏览器实例、标签创建时间等身份信息 |\n| `browser_cloudflare` | Cloudflare 验证辅助：`inspect` 枚举跨域挑战 iframe 与可见复选框，`click`（必须 `confirm:true`）发送一次真实鼠标点击，`wait` 等待挑战完成；不提取令牌、不改 Cookie，不自动完成滑块或图片挑战 |\n| `browser_evaluate` | 在页面执行 JS 表达式并返回 JSON（可按 ref 绑定 `element`） |\n| `browser_dialogs` | 读取页面弹过的 `alert` / `confirm` / `prompt`（已被拦截，不会卡死），并显示守卫实际返回的值 |\n| `browser_dialog_respond` | 预设 `confirm` / `prompt` 的返回值（可 `once:false` 常驻、`reset:true` 清除），用于测试需要确认或输入的流程 |\n| `browser_assert` | 断言校验：`url` / `title` / `text` / `selector` / `count` / `value` / `checked` / `attribute` / `console` / `network`，失败时返回 `isError` 并给出期望 vs 实际 |\n| `browser_frame` | 在任意 frame（含跨域 iframe：支付、OAuth、第三方编辑器）内工作：`list` / `text` / `elements` / `evaluate` / `click` / `type` / `select` |\n| `browser_wait` | 等待文本出现 / 消失（`text` / `textGone`）、选择器出现 / 消失（`selector` / `selectorGone`）、URL 包含（`urlContains`）或固定时长（`time`），250ms 轮询，上限 30s |\n| `browser_screenshot` | PNG 截图（支持 `ref` 元素级截图：滚动到位并按包围盒裁剪；`fullPage:true` 抓完整长页面），存 `~/.aabrowser/screenshots/` |\n| `browser_visual_diff` | **视觉基线对比**：`save` 存基线 / `compare` 逐像素对比（变化像素数、百分比、包围盒、差异图）/ `list` / `delete`，差异超阈值返回 `isError`，可作视觉断言；基线存 `~/.aabrowser/baselines/` |\n| `browser_contrast_audit` | **对比度审计**：扫描可见文本的计算前景/背景色，按 WCAG AA / AAA 算出对比度并列出不达标元素（选择器 + 文本 + 比值），违规时返回 `isError` |\n| `browser_viewport_matrix` | **多视口矩阵**：一次在 320/480/768/桌面 + 2x 高 DPI 等视口截图并报告横向溢出；走 CDP 设备指标模拟，不受窗口 960×640 最小尺寸限制 |\n| `browser_evidence` | **证据文件管理**：查看自动生成的截图 / HAR / PDF / 基线登记（含 sha256、大小、TTL），可 `sweep` 按 TTL/配额清理、`hash` 校验、`forget` 移除登记 |\n| `browser_find` | 页面内查找文本（原生 Ctrl+F：高亮全部匹配并定位第一处） |\n| `browser_get_selector` | 导出元素的 CSS 选择器（DOM 回验，可复用于脚本 / 测试） |\n| `browser_cookies` | Cookie 读 / 写 / 清（登录态测试关键能力） |\n| `browser_storage` | localStorage / sessionStorage 读写、删除与清空 |\n| `browser_downloads` | 下载捕获列表（静默保存到 `~/.aabrowser/downloads/`，无弹窗） |\n| `browser_pdf` | 页面渲染为 PDF 并保存（A4、打印背景） |\n| `browser_console` | 读取页面控制台日志（可按级别过滤） |\n\n**网络与 Mock**\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_network_requests` | **抓包**：列出捕获的 HTTP 请求（方法 / 状态 / 类型 / 大小 / 耗时 / URL，支持过滤） |\n| `browser_network_detail` | **抓包**：单个请求的请求 / 响应头 + 响应体（`body: true`）；响应体默认内容级脱敏并限制为最多 1 MiB |\n| `browser_har` | **抓包**：导出 HAR 1.2 文件（可导入 DevTools / Fiddler 人工分析） |\n| `browser_mock_requests` | **拦截 Mock**：按 URL 子串 + 方法拦截请求，返回假状态 / 头 / 体（`action: continue` 只观察放行） |\n| `browser_list_mocks` | **拦截 Mock**：列出当前 mock 规则（匹配器 / 状态 / 命中次数） |\n| `browser_clear_mocks` | **拦截 Mock**：按 id 删除或清空全部 mock 规则 |\n\n**诊断与标签**\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_performance` | 页面性能摘要：TTFB / DOMContentLoaded / load、首绘、资源体积与慢资源、JS 堆、DOM 规模（只读诊断） |\n| `browser_resize` | 调整视口尺寸 200–5000px（响应式测试） |\n| `browser_tabs` | 列表 / 新建 / 切换 / 关闭标签页；列表附带浏览器实例、PID、版本、启动时间、标签创建时间与恢复标记；`isolated: true` 新建隔离标签；`select` 可加 `bringToFront: true` 同时恢复窗口并聚焦页面 |\n| `browser_window` | 统一窗口策略：`visible`、`background`（显示但不抢焦点）、`minimized`、`hidden`、`background-visual`；可启动只捕获指定标签的独立实时预览，并用 `takeover` / `release` 锁定或交还 AI 操作权 |\n| `browser_tasks` | 后台任务中心：列出多客户端并发调用、按客户端与调用 id 取消、暂停 / 恢复自动化；人工接管时 AI 输入会被锁定 |\n| `browser_extensions` | 按 Profile 加载本地解压扩展、列出版本/权限/来源、启用/禁用、检查本地版本变化与卸载；扩展对之后打开或刷新的页面生效，一次性隔离标签不装载 |\n\n**平台管理**\n\n| 工具 | 说明 |\n| --- | --- |\n| `browser_profiles` | 创建、编辑、启动、关闭、绑定、设为默认与删除独立身份；离线复制及加密导入/导出受生命周期与审批保护 |\n| `browser_workflows` | 模板或自定义步骤创建工作流，运行、暂停、继续、取消、定向重试、补充受保护输入；返回持久化状态与审计事件 |\n| `browser_network` | 按 Profile 读取/应用代理配置，解析真实代理路由，测试连通性、出口 IP 与本机 DNS |\n| `browser_visual` | 获取短期截图凭据，在像素与视口仍有效时进行坐标点击、拖拽或裁剪；修改操作必须批准并留下前后证据 |\n| `browser_permissions` | 查看授权与审批记录，申请有范围和期限的权限、撤销授权；敏感和高危授权单次使用 |\n| `browser_diagnostics` | 汇总真实进程、页面、Profile、MCP、任务和资源状态；经批准刷新页面、重新连接或仅清理 HTTP 缓存 |\n\nCloudflare 验证辅助的完整流程与边界见 [`docs/CLOUDFLARE.md`](./docs/CLOUDFLARE.md)。\n\n后台运行、独立预览、人工接管和 15 项能力审计见 [`docs/BACKGROUND_CONTROL.md`](./docs/BACKGROUND_CONTROL.md)。\n\n### 两套引擎如何分工\n\nAa Browser 的页面理解不是单一路径，而是**结构化快照引擎**与**视觉引擎**互为补充：\n\n| 引擎 | 负责 | 何时使用 |\n| --- | --- | --- |\n| 结构化快照（Accessibility Tree + ref） | 读取页面语义、定位元素、执行点击 / 输入 / 选择 | 默认路径。ref 稳定、可校验命中测试，不依赖像素坐标 |\n| 视觉（CDP 截图 + 元素截图 + 基线对比） | 元素坐标、遮挡判断、布局变化、视觉回归 | 快照无法表达时（canvas、图片、图表），或需要人眼可见的证据 |\n\n两者不是二选一：视觉定位失败时回退到 DOM，DOM 表达不了的视觉差异再交给截图与基线对比。**坐标点击永远不是默认操作方式**——它只在结构化定位不可用、且已确认命中测试通过时才作为补充手段，避免把「碰巧点在那个位置」当成可靠操作。\n\n视觉评审建议流程：先用 `browser_viewport_matrix` 跑一遍响应式矩阵（发现横向溢出），再用 `browser_contrast_audit` 找不可读文本，最后对关键页面用 `browser_visual_diff action=save` 存基线、改动后 `action=compare` 做回归对比。基线目录可用 `AA_BROWSER_BASELINE_DIR` 覆盖。\n\n> 开发者注意：工具的名称、说明、参数 schema 与 MCP annotations 只维护在 [`src/shared/tool-defs.mjs`](./src/shared/tool-defs.mjs)。主进程只写 `name` + `handler`，桥直接导入同一份定义。`npm run check` 会断言唯一来源、主进程、桥与文档四方一致，并阻止任何一方重新手写 schema。\n\n完整参数与返回示例见上方工具表；名称、schema 与 annotations 以 [`src/shared/tool-defs.mjs`](./src/shared/tool-defs.mjs) 为准。\n\n## Profile 与工作流\n\n在「设置 → 配置文件」创建“工作”或“测试”身份，再从工具栏选择 Profile 打开页面并登录。每个持久化 Profile 有独立 Session 分区；同一 Profile 内的普通标签共享该身份，`isolated:true` 标签仍是关闭即清理的临时环境。\n\nAgent 先列出配置文件，复制真实返回的 `id`，再绑定自己的 MCP 连接：\n\n```json\n{\"name\":\"browser_profiles\",\"arguments\":{\"action\":\"list\"}}\n```\n\n```json\n{\"name\":\"browser_profiles\",\"arguments\":{\"action\":\"bind\",\"profileId\":\"从列表返回的配置文件ID\"}}\n```\n\n后续普通调用无需重复传 Profile；也可以在单次调用里使用 `profileId`。不同账号应使用不同 Profile。工作流运行期间持有 Profile 租约，避免其他任务插入该环境。完整规则、目录布局与加密备份见 [Profile 使用指南](./docs/PROFILES.md)。\n\n在「设置 → 工作流」选择模板、Profile 和目标 URL 创建任务，也可以通过 MCP 创建自定义步骤。例如先创建网站巡检，再用返回的 `id` 运行：\n\n```json\n{\"name\":\"browser_workflows\",\"arguments\":{\"action\":\"create\",\"name\":\"网站巡检\",\"templateId\":\"inspection\",\"url\":\"https://example.com\",\"profileId\":\"default\"}}\n```\n\n```json\n{\"name\":\"browser_workflows\",\"arguments\":{\"action\":\"run\",\"workflowId\":\"从创建结果返回的工作流ID\"}}\n```\n\n任务中心保留每次工具调用记录；工作流面板显示跨步骤状态、耗时、检查点、结果元数据和错误。程序重启后不会自动重放写操作；出现 `uncertain` 时先检查真实页面，再定向重试并处理审批。涉及 Cookie、Storage、凭据或文件时，在「安全与权限」查看申请范围与撤销授权。详见 [工作流指南](./docs/WORKFLOWS.md)、[权限与安全模型](./docs/SECURITY_MODEL.md)和 [MCP 参数示例](./docs/MCP_TOOLS.md)。\n\n## 界面与快捷键\n\n工具栏左侧依次是后退 / 前进 / 刷新和 AI 连接状态；右侧是恢复关闭的标签页、页面查找、Agent 活动日志、下载、设置和「中断 Agent」。AI 调用浏览器工具时窗口四周会显示闪烁光圈，右下角 HUD 会显示当前工具以及「接管页面 / 中断」按钮；点网页或「接管页面」会暂停 AI 并由你操作网页，HUD 改为「继续 AI」，接管不会自动过期；并发调用会逐条列出（含进度），每条可单独停止；地址栏支持输入网址、搜索词与历史补全（↑ / ↓ 选择，Enter 打开，Esc 取消）。Agent 每次点击时页面会闪出激光波纹，方便人观察它在点哪里。\n\n点击工具栏的「◉」可打开后台实时预览。预览只显示选中的标签页，支持人工接管/交还 AI；接管期间自动化调用会暂停，避免和人工输入竞态。窗口模式也可在设置中选择，或由 Agent 调用 `browser_window` 切换。\n\n| 快捷键 | 作用 |\n| --- | --- |\n| `Ctrl+T` | 新建标签页 |\n| `Ctrl+W` | 关闭当前标签页 |\n| `Ctrl+Shift+T` | 恢复本次运行中最近关闭的标签页（最多 20 个） |\n| `Ctrl+L` | 聚焦地址栏 |\n| `Ctrl+F` | 页面内查找（`Enter` / `Shift+Enter` 切换匹配，`Esc` 关闭） |\n| `F5` / `Ctrl+R` | 重新加载页面 |\n| `Alt+←` / `Alt+→` | 后退 / 前进 |\n| `Ctrl+Shift+I` | 打开 DevTools（与抓包互斥，打开前会释放调试通道） |\n| `Esc` | 关闭面板 / 查找栏 / 搜索建议 |\n\n常用设置：\n\n| 设置项 | 说明 |\n| --- | --- |\n| 界面语言 | 自动跟随系统，或固定简体中文 / English |\n| 主题 | 新用户默认为浅色；可切换深色或跟随系统。旧设置文件缺少主题字段时运行时采用浅色，不强制改写原文件；已有显式深色选择保持不变 |\n| 默认搜索引擎 | 必应 / Google / 百度 / DuckDuckGo / GitHub，也可自定义基址 |\n| 快照默认全量 | 打开后每次返回完整树（更费 token），默认关闭以使用增量快照 |\n| 高危操作人工确认 | 提交表单 / 输入后回车、查看或导出未脱敏网络数据前，在浏览器内弹确认 |\n| 新建标签使用隔离会话 | 默认新标签共享登录态；打开后新标签使用一次性分区，关闭即清理 |\n| 重启后恢复标签页 | 默认开启；只恢复普通网页标签与活动标签 |\n| 下载保存目录 | 留空则使用 `~/.aabrowser/downloads/` |\n| 站点白名单 | 每行一个 `https://example.com` 或 `https://*.example.com`；填写后仅允许匹配的 HTTP/HTTPS 导航 |\n| 自动更新 / 更新通道 | 稳定版或 Beta；下载完成后仍需用户确认重启安装 |\n| 连接 AI 客户端 | 扫描已安装客户端，勾选后一键写入 MCP 配置 |\n| Agent 本地服务 | 显示桥端口、发现文件位置、已连接客户端数 |\n\n### 加载已解压扩展\n\n在地址栏输入 `chrome://extensions` 会打开设置里的「扩展」管理区。选择包含 `manifest.json` 的本地目录，装载到当前 Profile，对之后打开或刷新的普通标签页生效；一次性隔离标签不会注入。默认 Profile 保留 `~/.aabrowser/extensions.json`，其他 Profile 使用独立登记文件。界面可查看版本、声明权限和本地来源，启用、禁用与卸载；更新检查只比较本地目录版本，不连接扩展商店。扩展源码目录本身仍由用户管理，备份不替代对外部扩展目录的维护。\n\n## 安全说明\n\n- **连接面很小**：Agent 服务只监听 `127.0.0.1`，每次启动随机生成 token，并拒绝非本机来源的连接；端口与 token 写入用户目录 `~/.aabrowser/connection.json`（正常退出时删除）。\n- **页面视图不挂 preload**：快照与动作脚本由主进程注入；导航只允许 `http:` / `https:`（内部新标签页除外），`file:`、`data:`、`devtools:` 等协议会被拒绝。\n- **审批与中断**：敏感输入框要求用户亲自填写；被识别的高危对象、提交动作和敏感数据读取强制审批，不再由旧版偏好开关关闭，120 秒未确认按拒绝处理。工具栏或右下角 HUD 可中断调用，单个调用也可独立停止。取消不会撤销已发生的网页或网络副作用，恢复后必须检查真实状态。\n- **网络数据脱敏**：网络详情与 HAR 默认脱敏认证头和凭据类参数；`includeSensitive: true` 查看或导出未脱敏数据必须经对应权限或人工审批。Cookie 值和 Storage 敏感值同样区分普通与敏感读取。\n- **站点白名单**：只作用于导航，留空表示关闭；即使白名单为空，`file:`、`data:`、`devtools:` 等非网页协议也不会被放行。\n- **会话隔离**：隔离标签使用独立 session 分区，不共享 Cookie 与登录态，关闭后清理数据；隔离标签不进入全局历史、最近关闭列表与会话恢复记录。\n- **Profile 与文件边界**：持久化身份使用独立分区，文件读取与导出校验所属 Profile、绝对路径和符号链接；导出默认拒绝覆盖。Profile 租约保护工作流期间的 Agent 调用，不能阻止用户手动操作网页。\n- **恢复安全**：调度意图先写检查点再执行；重启后中断步骤需要重新核验，可能产生副作用的步骤不自动重放。工作流输入仅在操作系统加密可用时持久化，否则重启后重新输入；审计不保存工具返回的页面正文。\n- **接入写入**：安装器只改 `aa-browser` 一个条目，写入前自动备份，不写入任何 token / 密码；下载安装包时校验 Release 的 SHA-256 digest 与文件头。\n- **边界提醒**：Agent 能看到页面内容与网络流量，包括可能含秘密的 Cookie、Storage、请求头和响应体。上述措施是缓解手段，不是通用 DLP；不要让不可信 Agent 访问高敏站点。\n\n安全问题请按 [SECURITY.md](./SECURITY.md) 通过 GitHub 私密报告提交，不要在公开 issue 里附令牌、Cookie 或账号数据。\n\n## 本地数据与卸载\n\n| 路径 | 内容 | 说明 |\n| --- | --- | --- |\n| `~/.aabrowser/connection.json` | 本地桥端口、token、pid、版本、instanceId | 运行时存在，正常退出删除；可用 `AA_BROWSER_CONNECTION_FILE` 覆盖 |\n| `~/.aabrowser/settings.json` | 全部设置 | 可用 `AA_BROWSER_SETTINGS_FILE` 覆盖 |\n| `~/.aabrowser/history/history.json` | 最近 1000 条访问（标题 / URL / 次数） | 隔离标签不写入；可用 `AA_BROWSER_HISTORY_DIR` 覆盖 |\n| `~/.aabrowser/session.json` | 上次标签快照（≤20 条，剥离 URL 账号密码） | 可用 `AA_BROWSER_SESSION_FILE` 覆盖 |\n| `~/.aabrowser/extensions.json` | 已加载的已解压扩展目录列表 | 下次启动自动恢复；可用 `AA_BROWSER_EXTENSIONS_FILE` 覆盖 |\n| `~/.aabrowser/profiles.json` | Profile 元数据、默认身份与待清理删除记录 | 默认 Profile 继续使用旧的 `persist:aa-main` |\n| `~/.aabrowser/profiles/<id>/` | 非默认 Profile 的历史、下载、扩展登记和证据文件 | Chromium Cookie/Storage 位于 Electron 用户数据的独立分区目录 |\n| `~/.aabrowser/workflows.json` | 工作流状态、检查点、脱敏审计与加密输入 | 无 OS 安全存储时不持久化实际输入，重启需补充 |\n| `~/.aabrowser/network-environments.json` | Profile 代理配置和 OS 保护的凭据 | 读取 API 不回传代理密码 |\n| `~/.aabrowser/downloads/` | 浏览器下载与 PDF | 可在设置中修改下载目录；可用 `AA_BROWSER_DOWNLOAD_DIR` 覆盖 |\n| `~/.aabrowser/screenshots/` | MCP 截图 | 可用 `AA_BROWSER_SCREENSHOT_DIR` 覆盖 |\n| `~/.aabrowser/har/` | `browser_har` 导出的 HAR 文件 | 默认路径 `aa-<时间戳>.har` |\n| `~/.aabrowser/dsh-bridge.cjs` | DeepSeek Harness 插件放置的 MCP 桥副本 | 安装并启用 DeepSeek Harness 插件后出现 |\n| Electron 用户数据目录 | Chromium profile（Cookie、登录态、缓存）、`error.log`、Linux 的 `mcp/bridge.cjs` 与 `previous-versions/` | Windows 为 `%APPDATA%\\Aa Browser`，Linux 为 `~/.config/Aa Browser`；开发模式为 `aa-browser-dev`（可用 `AA_BROWSER_USER_DATA_DIR` 覆盖，此时 `connection.json` 也落在这里） |\n\n**Windows 卸载**：系统「设置 → 应用 → 已安装的应用」中卸载 Aa Browser，快捷方式与卸载项由 NSIS 管理；用户数据默认保留，需要彻底清理时手动删除上面的目录。\n\n**Linux 卸载**：退出应用，删除 AppImage 与自行添加的启动器；用户数据在 `~/.config/Aa Browser`，需要时一并删除。\n\n移除 MCP 接入时，只从各客户端配置里删除 `aa-browser` 条目；DeepSeek Harness 场景卸载 `aa-browser-dsh` 插件即可。升级回滚见[自动更新](./docs/AUTO_UPDATE.md)与[平台指南](./docs/PLATFORMS.md)。\n\n## 平台支持\n\n| 平台 | 官方发行 | 说明 |\n| --- | --- | --- |\n| Windows 11 x64 | NSIS 安装包 | 直接维护，CI 与本机回归覆盖 |\n| Windows 10 x64 | 同一安装包 | 与 Windows 11 共享安装包，仍需 Windows 10 实机升级验收 |\n| Linux x86_64（Ubuntu 桌面） | v0.17.0 AppImage | Linux 验证范围是 Ubuntu 24.04 CI/Xvfb、AppImage 启动和 MCP 桥连接；其他发行版仍需实机确认 |\n| Windows ARM64 / macOS / Android / iOS | 暂无 | 安装器会明确拒绝，不会假装安装 |\n\n正式发行附 `SHA256SUMS.txt`、CycloneDX `sbom.cdx.json` 和 GitHub 不可变发行证明。更完整的可行性评估、系统依赖与恢复步骤见[平台指南](./docs/PLATFORMS.md)。\n\n## 已知限制\n\n- **未做代码签名**：Windows SmartScreen 会提示，需要手动选择「更多信息 → 仍要运行」。\n- **v0.17.0 官方安装包覆盖 Windows x64 和 Linux x86_64**：Linux 证据仅限 Ubuntu 24.04 CI/Xvfb；macOS、Windows ARM64 和移动端没有官方安装包；从源码自行构建不属于官方验证过的分发渠道。\n- **Linux AppImage 的 MCP 接入依赖系统 Node.js 22.12+**：Windows 未安装系统 Node 时使用应用自带的运行时。\n- **不是 Chrome 的替代品**：没有扩展商店、账号同步和多设备同步；可加载本地已解压扩展，定位仍是「浏览器内核 + Agent 接入」。\n- **Agent 权限很大**：能看到页面内容、Cookie、Storage 与网络流量；白名单、会话隔离、脱敏和审批是缓解措施，不是通用 DLP。\n- **会话恢复有范围**：只恢复普通网页标签，不恢复隔离标签、内部页与非 HTTP(S) 地址，最多 20 条。\n- **同一用户数据目录只运行一个实例**：重复启动会聚焦已有窗口；开发版使用独立目录，可与安装版并存。\n- **安装与更新依赖 GitHub Releases**：访问受限时需要手动下载安装包；旧版 AppImage 原地更新要求当前文件目录可写。\n- **不伪造页面可见性**：后台模式下页面拿到的 `document.visibilityState` 仍是真实值。少数站点会在不可见时暂停视频、轮询或渲染，这类站点请显式选择 `visible` 或 `background`；Aa Browser 不会用伪造状态绕过站点的安全检查。\n- **后台拖放有平台差异**：原生 HTML5 拖放在窗口最小化或完全隐藏时，部分平台（实测 Linux/X11）不会建立系统级拖放会话。此时 `browser_drag` 会改用页面内 DataTransfer 事件序列完成拖放，并在返回结果中标注「DOM 事件回退」；这条路径的事件不是 `isTrusted`，对强制校验可信输入的站点可能无效。\n- **视觉定位由 Agent 判断**：坐标引擎提供真实截图、几何校验与人工审批，没有内置 OCR、图像语义检索或视觉模型。像素变化只能证明画面不同，不能证明支付、提交等业务成功。\n- **备份与系统保护有约束**：完整 Profile 备份仅支持本进程尚未初始化 Session 的非旧版默认身份，至少 12 字符密码，解包数据最多 128 MiB / 10000 个文件。Chromium 的系统绑定凭据不保证跨操作系统或跨账号可解密；Linux 无安全存储时不保存代理密码，工作流输入重启后需重新提供。\n\n## 故障排查\n\n| 现象 | 处理 |\n| --- | --- |\n| 工具栏一直「等待 AI 连接」 | 确认配置已写入并重启了客户端；运行 `node install.mjs --verify-only` 检查浏览器侧是否正常 |\n| 显示「等待 AI 首次调用」 | 桥已连上但还没成功调用工具：让 Agent 调用 `browser_tabs { \"action\": \"list\" }` |\n| 客户端看不到工具 | 重启 / 重载客户端；检查配置文件路径与 `.aa-backup-*` 备份；DeepSeek Harness 场景确认插件已启用 |\n| 工具返回「浏览器未运行」 | 启动 Aa Browser；桥每 5 秒重试连接，无需重启客户端 |\n| 调用卡住或超时 | 单次调用上限 180 秒；可能有审批面板在等待确认，或页面仍在加载；用 `browser_wait` 显式等待 |\n| 返回「已点击」但页面没反应 | 真实事件偶发丢失时已自动补发合成事件；用 `browser_snapshot` 复核，必要时重新 `browser_click` |\n| 下载文件找不到 | 默认在 `~/.aabrowser/downloads/`，设置里可改；用 `browser_downloads` 查看记录 |\n| 截图 / PDF 存到哪 | 截图在 `~/.aabrowser/screenshots/`；PDF 默认在 `~/.aabrowser/downloads/` |\n| 站点打不开、提示不在白名单 | 清空或补充「站点白名单」；白名单只允许匹配的 HTTP/HTTPS 站点 |\n| Windows SmartScreen 提示 | 安装包未做代码签名；确认来源为官方 Release 后选「更多信息 → 仍要运行」 |\n| Linux AppImage 启动失败（FUSE / 沙箱） | 用 `APPIMAGE_EXTRACT_AND_RUN=1` 启动；检查 GTK3 / NSS / GBM / 音频库与用户命名空间策略 |\n| 更新下载失败 | 检查 GitHub 访问；失败会按 1 / 5 / 15 分钟退避重试，也可在设置里手动重试 |\n| 想回到旧版本 | AppImage：复制用户数据 `previous-versions/<版本>.AppImage` 回安装目录；Windows：重装旧版安装包 |\n\n更多排查项见[通用安装与接入](./docs/CONNECT.md)与[平台指南](./docs/PLATFORMS.md)。\n\n## 项目结构\n\n```text\naa-browser/\n├── src/\n│   ├── main/          # 主进程：窗口 / 标签 / 动作 / 抓包 / Agent 服务 / MCP 工具 / 客户端接入\n│   ├── preload/       # 仅外壳 UI 的 IPC 桥（页面视图不挂 preload）\n│   ├── renderer/      # 浏览器外壳 UI（设置面板、新标签页、活动日志、审批面板）\n│   ├── shared/        # 三方共享的协议类型、界面语言与 MCP 工具定义单一来源（tool-defs.mjs）\n│   └── snapshot/      # 注入引擎（DOM → 快照）与动作脚本\n├── cli/\n│   ├── mcp.mjs        # stdio MCP 桥源码（构建为 out/bridge/mcp.cjs）\n│   ├── setup.mjs      # 一键接入 CLI（零依赖）\n│   └── workbuddy.mjs  # WorkBuddy Connector 生成\n├── installer/         # 通用安装 / 接入提示词源文件（生成 PROMPT.md 与新标签页）\n├── packages/dsh/      # DeepSeek Harness 插件（插件市场接入）\n├── docs/              # 接入、平台、自动更新、发行与维护文档\n│   ├── internal/      # 维护者过程档案、审计与调研记录\n│   └── media/         # README 演示录屏与动图预览\n├── scripts/           # 冒烟 / 回归 / 安装器与接入校验 / 图标与 SBOM 生成\n├── build/             # 图标等打包资源\n├── electron.vite.config.ts\n└── electron-builder.yml\n```\n\n## 开发与测试\n\n要求 Node.js 22.12 或更高版本（构建、测试与 MCP 桥共用）。\n\n```bash\nnpm run check          # typecheck + 工具契约 + 提示词漂移 + DeepSeek Harness 插件检查 + 页面脚本转义\nnpm run typecheck      # 仅 TypeScript 类型检查\nnpm run test:page-scripts # 注入脚本字面量转义回归（特殊字符不被截断、能原样还原）\nnpm run smoke          # 端到端冒烟：启动浏览器 → MCP 驱动 → 断言（含抓包，无外网依赖）\nnpm run test:desktop   # 原生桌面回归：会话恢复、查找、快捷键、隔离会话、审批\nnpm run test:extensions # 已解压扩展清单校验、持久化与卸载回归\nnpm run test:update-ui # 更新提示 / 后台下载 / 重试交互（模拟 provider）\nnpm run test:stores    # 设置 / 历史 / 会话恢复记录的持久化回归\nnpm run test:security  # 安全相关回归\nnode scripts/test-workflows.mjs # 真实工作流引擎：依赖、恢复、审批、输入保护与定时执行\nnpm run test:installer # 安装器纯函数：平台资产选择、稳定路径、digest/文件头校验\nnpm run test:bridge    # MCP 桥离线行为与错误返回\nnpm run test:bridge-autolaunch # 浏览器未运行时桥自动启动并完成 browser_tabs\nnpm run test:connect   # 对打包产物执行 --connect-only --verify --json（需先 dist）\nnpm run test:updater   # 更新器状态机（模拟 provider）\nnpm run test:release   # 发布标签 / 草稿 / 资产回归（模拟 GitHub API）\nnpm run validate:codex # 验证 Codex TOML 接入、保留其他配置、备份与幂等\nnpm run validate:workbuddy\nnpm run prompt         # 从 installer/*.md 重新生成 PROMPT.md 与新标签页提示词\nnpm run sbom           # 生成 CycloneDX SBOM\nnode scripts/live-test.mjs   # 实战示例：MCP 驱动必应搜索全流程\n```\n\nUbuntu 24.04 执行 `check`、工具与客户端接入校验、构建、Node/WebSocket 套件和 SBOM；Windows x64 与 Ubuntu 24.04 的桌面矩阵都执行 Electron 桌面回归。标签构建还会验证 Windows 安装 / 卸载与 Linux AppImage 启动、打包产物连接。Linux 证据仅覆盖该 CI/Xvfb 环境。贡献流程见 [CONTRIBUTING.md](./CONTRIBUTING.md)。\n\n## 文档\n\n| 文档 | 内容 |\n| --- | --- |\n| [通用安装与接入](./docs/CONNECT.md) | 平台与客户端矩阵、安装器参数、手动步骤、排查 |\n| [平台指南](./docs/PLATFORMS.md) | 发行矩阵、Linux 依赖、卸载与数据恢复 |\n| [自动更新](./docs/AUTO_UPDATE.md) | 检查、下载、重启安装、SHA-512 与回滚 |\n| [Profile 使用指南](./docs/PROFILES.md) | 独立身份、默认兼容、生命周期、目录与加密备份 |\n| [工作流指南](./docs/WORKFLOWS.md) | 依赖步骤、模板、检查点、恢复、重试与定时任务 |\n| [权限与安全模型](./docs/SECURITY_MODEL.md) | 敏感读取、人工审批、文件边界和已知限制 |\n| [架构说明](./docs/ARCHITECTURE.md) | 主进程模块、Session、工作流与兼容设计 |\n| [MCP 工具与示例](./docs/MCP_TOOLS.md) | 53 个工具的组织方式、新增上下文与平台参数示例 |\n| [插件市场接入](./docs/MARKETPLACE.md) | DeepSeek Harness 插件安装与验证 |\n| [维护状态](./docs/MAINTENANCE.md) | 发行证据、回归记录与维护边界 |\n| [后台控制与实时预览](./docs/BACKGROUND_CONTROL.md) | 窗口模式、后台操控审计、预览与接管、竞品取舍与许可证审查 |\n| [发布说明](./docs/releases/release-notes.md) / [Release 正文归档](./docs/releases/bodies/) / [发布模板](./docs/releases/release-notes-template.md) | 按版本摘要、线上正文副本与下一版模板；`npm run check:release-bodies:remote` 可对照 GitHub 检查漂移 |\n| [CHANGELOG](./CHANGELOG.md) | 工程与产品变更摘要 |\n| [竞品与生态调研](./docs/RESEARCH.md) | 开源项目对标、平台可行性依据 |\n| [README 多语言](./docs/i18n/README.md) | 12 种语言的 README 索引与新增语言步骤 |\n| [贡献指南](./CONTRIBUTING.md) | 开发环境、提交约定与 PR 要求 |\n\n## 常见问题\n\n**它和 Playwright MCP 有什么区别？**\n\n快照格式与 ref 交互范式对齐 Playwright MCP。Aa Browser 同时是一个桌面浏览器：可保留默认登录态，也可为不同账号建立独立 Profile，原生带抓包、Mock、HAR、可恢复工作流与运行诊断。\n\n**需要会写代码吗？**\n\n不需要。安装包双击即用；接入时把 `PROMPT.md` 交给有本机执行能力的 AI，或在工具栏「设置 → 连接 AI 客户端」里勾选即可。\n\n**支持 macOS 吗？**\n\n目前没有官方 macOS 安装包。安装器遇到 macOS、Windows ARM64 或其他架构会明确拒绝，不会假装安装；从源码构建可以自行尝试，但不属于官方验证过的分发渠道。\n\n**为什么工具栏显示「等待 AI 首次调用」？**\n\n说明 MCP 桥已经连上，但还没有任何一次工具调用成功。让客户端实际调用 `browser_tabs`，返回标签列表后状态才会变成「AI 已连接」。配置写入成功本身不代表接通。\n\n**Agent 能看到我的密码吗？**\n\n能读取你允许它操作的页面内容，包括可能含秘密的 Cookie、Storage、请求头和响应体。请配合站点白名单与会话隔离使用，不要把高敏后台交给不可信的 Agent；敏感输入审批与网络脱敏是缓解措施，不是通用 DLP。\n\n**为什么 Agent 说点过了，页面却没变化？**\n\n真实输入事件在个别页面偶发丢失，Aa Browser 会补发合成事件兜底；仍不生效时用 `browser_snapshot` 复核状态，再重试 `browser_click`，或改用 `browser_evaluate` 触发页面自身逻辑。\n\n**能同时开两个 Aa Browser 吗？**\n\n同一用户数据目录只允许一个实例，再次启动会聚焦已有窗口。开发版使用独立的 `aa-browser-dev` 目录，可以和安装版同时运行。\n\n**数据存在哪里？会上传吗？**\n\n设置、历史、会话记录、下载与截图都在本机 `~/.aabrowser/` 与 Electron 用户数据目录中，详见[本地数据与卸载](#本地数据与卸载)。没有账号体系，也没有云端中转；只有检查更新时会访问 GitHub Releases。\n\n**收费吗？**\n\nMIT 开源、免费。没有账号体系，也没有云端中转。浏览器本地直连，更新检查走 GitHub Releases。\n\n**怎么升级或回滚？**\n\nWindows 安装版和 Linux AppImage 可以在「设置 → 软件更新」检查升级；旧版 AppImage 会保留在用户数据的 `previous-versions/` 下。细节见[自动更新](./docs/AUTO_UPDATE.md)与[平台指南](./docs/PLATFORMS.md)。\n\n## 贡献\n\n欢迎 bug 报告、功能讨论、文档改进与代码 PR。开始前请读 [CONTRIBUTING.md](./CONTRIBUTING.md)；新增 MCP 工具时请同步更新 [`src/shared/tool-defs.mjs`](./src/shared/tool-defs.mjs)、`src/main/tools.ts`、`cli/mcp.mjs` 与本文档的工具表（`npm run check` 会校验一致性）。\n\n安全问题请走[私密安全报告](https://github.com/yuchen0x1/aa-browser/security/advisories/new)，不要公开披露未修复的漏洞。\n\n## 许可\n\n[MIT](./LICENSE) © Aa Browser contributors\n\n## 致谢\n\nAa Browser 站在巨人的肩膀上，设计中对齐 / 借鉴了这些优秀开源项目的能力与格式：\n\n- [Playwright MCP](https://github.com/microsoft/playwright-mcp) — 可访问性快照 + ref 交互范式（我们对齐其格式），hover/历史导航/视口调整/元素截图等工具设计\n- [browser-use](https://github.com/browser-use/browser-use) — Agent 驱动浏览器的理念与动作后回读状态的实践\n- [BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) — Cookie/本地存储/选择器导出等「浏览器状态透明化」工具集\n- [Chrome DevTools MCP](https://github.com/ChromeDevTools/mcp) — CDP 能力面（网络抓包域）的参照\n\n## Star History\n\n<a href=\"https://star-history.com/#yuchen0x1/aa-browser&Date\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/svg?repos=yuchen0x1/aa-browser&type=Date&theme=dark\" />\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/svg?repos=yuchen0x1/aa-browser&type=Date\" />\n    <img alt=\"Star History Chart\" src=\"https://api.star-history.com/svg?repos=yuchen0x1/aa-browser&type=Date\" />\n  </picture>\n</a>\n",
       "branch": "main",
-      "collectedAt": "2026-11-27T04:14:12.600Z"
+      "collectedAt": "2026-11-27T13:51:52.063Z"
     },
     "PROJECT-NEXUS": {
       "markdown": "# PROJECT NEXUS\n\n<p align=\"center\">\n  <img src=\"assets/branding/PROJECT-NEXUS-icon-256.png\" width=\"96\" alt=\"PROJECT NEXUS\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/yuchen0x1/PROJECT-NEXUS/releases/latest\"><img src=\"https://img.shields.io/github/v/release/yuchen0x1/PROJECT-NEXUS?label=%E6%9C%80%E6%96%B0%E7%89%88\" alt=\"最新版本\"></a>\n  <img src=\"https://img.shields.io/badge/%E7%8A%B6%E6%80%81-2.1.1%20%E5%B7%B2%E5%8F%91%E5%B8%83-brightgreen\" alt=\"2.1.1 已发布\">\n  <img src=\"https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%20x64-0078d6\" alt=\"Windows x64\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-MIT-blue\" alt=\"MIT License\"></a>\n  <a href=\"https://project-nexus.edgeone.dev/\"><img src=\"https://img.shields.io/badge/%E5%AE%98%E7%BD%91-project--nexus.edgeone.dev-teal\" alt=\"官网\"></a>\n</p>\n\n**Windows 桌面 AI 仓库研发与运维工作站。** 连接 GitHub、本地项目目录与已安装的桌面 AI 编程客户端，持续监控仓库、主动研究同类开源项目、生成升级建议、在隔离工作区中修复与独立验证，并按授权策略交付变更。\n\n**在线宣传页：[project-nexus.edgeone.dev](https://project-nexus.edgeone.dev/)**（源码在 `website/`）\n\n> **v2.1.1（当前 main）**：在 v2.0 的只读安全边界之上增加了可审计的 Action Intent 授权、统一敏感文件/密钥检测、SQLite/state 备份校验与恢复原语、任务检查点以及完整 i18n/CSS 质量门禁。2.1.1 把这些能力接入真实界面——自动运维中心新增**「安全与恢复」页签**，可直接查看/撤销授权并执行备份创建、校验与状态恢复——同时修复了备份校验路由被误判为写操作而永远 403 的缺陷，并让本地测试与 CI 契约一致。真实 AI Provider、专用测试仓库、Windows VM 和 Authenticode 仍按报告标记为 BLOCKED/NOT TESTED。**v2.1.1 已作为未签名构建公开发布**（Windows x64 安装包、blockmap、`latest.yml`、`SHA256SUMS.txt`；安装包 SHA-256 `128604c1…76c2376`），未削弱 Authenticode 门禁，而是经 PR #28 的 `publish_unsigned` 显式豁免通道发布；发布者身份未验证，SmartScreen 可能告警。发布状态见 [2.1.1 发布报告](docs/PROJECT_NEXUS_2.1.1_RELEASE_REPORT.md)，v2.0.0 验收见 [v2.0.0 验收](docs/POST_RELEASE_ACCEPTANCE_V2.0.0.md)。\n\n## 最新更新\n\n<!-- github-release:start -->\n\n**[v2.1.1](https://github.com/yuchen0x1/PROJECT-NEXUS/releases/tag/v2.1.1)** · 2026-11-23\n\nPROJECT NEXUS 2.1.1 makes the v2.1.0 authorization and backup engine usable from the application, fixes a read-only route that could never succeed, and makes the local regression suite deterministic on developer machines.\n\n[全部发行记录](https://github.com/yuchen0x1/PROJECT-NEXUS/releases)\n\n<!-- github-release:end -->\n\n[查看完整发布记录](docs/releases/release-notes.md)\n\n## 项目定位\n\n用户只需：添加 GitHub 仓库 → 绑定本地目录 → 配置 GitHub 连接与桌面 AI 客户端 → 设置运行周期和权限 → 启动自动运维。此后由 NEXUS 在后台完成监控、分析、任务生成、AI 执行调度、独立验收与受控交付。\n\n**桌面客户端模式不需要 AI API Key**：直接利用 Windows 上已安装、已登录的 ChatGPT Desktop 或 WorkBuddy。传统 API 模式保留且与之独立。\n\n## 核心功能\n\n### 自主运维（v0.9.0 新增，Autonomy Runtime V2）\n\n- **24/7 后台运行**：调度器运行在 Node 服务进程内，窗口最小化到托盘或关闭主窗口都继续工作；服务崩溃自动重启；重启后恢复未完成任务现场。\n- **增量仓库监控**：13 类资源（Issues、评论、PR、Review、提交、分支、Release、Actions、安全公告、Dependabot、Code/Secret Scanning、仓库配置），ETag 条件请求、游标续查、分页、事件指纹去重、限流指数退避、Webhook 优先且自动回退轮询。\n- **Issue 生命周期**：关闭 ≠ 解决。真实核对关联 PR、合并状态、修复是否进入目标分支、测试、Review、新评论与回归，输出 9 态结论与置信度。\n- **持久化调度**：P0–P4 优先级、全局并发上限、同仓库写入互斥、客户端占用管理、任务幂等去重、失败退避、超时终止、暂停/取消/人工接管、append-only 审计日志。\n- **桌面 AI 客户端适配器**：ChatGPT Desktop、WorkBuddy、Codex CLI（明确区分同包不同入口）、Generic 配置驱动；独立能力检测表；Windows UI Automation 按窗口/控件识别（不用固定坐标、不用固定 Sleep）；项目归属强制校验；幂等发送；失败截图与可靠人工接管。\n- **完整任务包**：仓库信息、base SHA、问题证据、复现方法、预期结果、关联 Issue、同类项目参考、推荐方案、禁止修改项、测试要求、验收标准与文档要求；发送前双重脱敏检查。\n- **独立验收**：Git Worktree 隔离（脏工作区直接拒绝）、diff 范围/删除/敏感文件/密钥审查、按项目真实配置探测并执行测试与构建、失败有限轮次重派。\n- **发布门禁**：9 项独立条件、patch/minor/major 版本计算、CHANGELOG 生成、内容指纹防止重复发布。\n- **同类项目情报**：GitHub Search 发现并持久化、跟踪真实 release/commit/issue/PR、12 项移植分析、开源许可证兼容矩阵。\n- **精确就绪诊断**：把「AI API 未配置 / 桌面客户端未连接 / 扫描未完成 / manifest 按技术栈判断 / 任务尚未生成 / 任务不可执行」分开报告，桌面模式不因缺少 API Key 被阻断。\n- **指挥中心界面**：首页 12 项真实指标、全局自动运维开关与立即动作、仓库监控、客户端能力表、任务与执行监控、智能研究、审计日志。无演示数据。\n\n### 既有能力（全部保留）\n\n- 七步教学上手、批量仓库托管、十语言界面、深浅色跟随系统。\n- Issue 巡检分类、AI 修复流水线、仓库扫描、安全扫描、竞品研究、升级提案。\n- 本机 Codex `app-server` 官方桥接、Agent runtime（plan → edit → verify → review）、隔离沙箱。\n- 仓库来源档案（Fork/共同提交证据、ZIP 基线三方比较）。\n- 应用内自动更新、Draft PR / Release 管理、GitHub App 与 Webhook HMAC。\n- 明确授权边界：脚本执行、远程写入、合并发布均需逐项授权。\n\n## 2.0 导航重构：9 个功能中心\n\n2.0 将原来平铺的 21 个顶层页面收拢为 9 个功能中心。**中心只是分组，不是新功能**：每个叶子仍是原有页面组件、原有 API 与原有权限门控，数据库格式、历史数据与隔离 Worktree 均未改变。\n\n| 中心 | 中文名 | 包含的既存页面 |\n| --- | --- | --- |\n| Dashboard | 总览控制台 | 总览、监控 |\n| Repository Center | 仓库中心 | 项目、仓库扫描、Issue 跟踪 |\n| AI Autopilot | AI 自主运维 | AI 自动运维、AI Operations、托管 |\n| Development Center | 开发与工作流 | 构建中心、AI 流水线 |\n| Security Center | 安全与质量 | 安全中心、安全发现、更新安全 |\n| Research Center | 智能研究 | 竞品研究 |\n| Release Center | 发布与交付 | 发布中心、自动更新 |\n| Task Center | 任务与日志 | 任务中心、集成历史 |\n| Settings | 系统设置 | 服务器设置、GitHub 连接、适配器中心 |\n\n- 单一注册表 `src/nav/centers.ts` 同时驱动 Web 侧边栏、Electron ActivityBar 与命令面板，三个界面不会各自漂移。\n- 叶子标识（如 `Build Center`、`Task Center`）保持稳定，历史导航事件、通知跳转与深链继续有效。\n- 回归测试：`tests/unit/navigation-registry.test.ts`（9 中心 / 21 叶子不变量）与 `npm run test:desktop:centers`（真实 Electron 中的中心、叶子与命令面板验收）。\n\n## 系统架构\n\n```\nElectron 主进程 (托盘常驻 / 崩溃重启 / DPAPI 凭据)\n   └─ Node 服务进程 server/index.mjs (Express, 127.0.0.1:4317)\n        ├─ 既有 /api/* 与 60+ services（未改动）\n        └─ /api/autonomy/*  ←  server/autonomy/  (Autonomy Runtime V2)\n             ├─ engine.mjs        调度与编排\n             ├─ monitor.mjs       GitHub 增量监控\n             ├─ desktop/          桌面客户端适配器 + UIA 驱动\n             ├─ workspace.mjs     Git Worktree 隔离\n             ├─ reviewer.mjs      独立验收与发布门禁\n             ├─ intelligence.mjs  就绪诊断与同类项目情报\n             ├─ db.mjs            SQLite (schema v2) + JSON 降级\n             └─ api.mjs           REST + 后台 ticker\nReact / Vite 前端（9 个功能中心，包含全部 21 个既存页面；见下方「2.0 导航重构」）\n```\n\n数据：`data/state.json`（既有 schema v4，不迁移）与 `data/autonomy.db`（新增，独立）。详见 [架构说明](docs/AUTONOMY_V2_ARCHITECTURE.md)。\n\n## 安装方式\n\n[Windows 实测截图：设置、中文及浅色模式](docs/evidence/2026-11-21-windows-settings.png)（开发预览候选，不代表签名更新已验收）。\n\n[查看 Windows x64 发行记录](https://github.com/yuchen0x1/PROJECT-NEXUS/releases)；请选含安装包、blockmap、`latest.yml` 和 `SHA256SUMS.txt` 的版本，并按 SHA256 校验下载内容。v2.0.0 的安装包若未配置 Authenticode 证书会明确标注为未签名，不代表已验证安全更新。发布与验收流程见 [发布管理](docs/RELEASE_MANAGEMENT.md)。\n\n1. 在 Windows 10/11 x64 运行安装程序。\n2. 首次启动自动进入教学；之后可从工作台或顶部「一键教学」重看。\n3. 配置 GitHub 连接与（可选）AI API。\n4. 添加要管理的仓库，绑定本地目录与桌面客户端项目。\n5. 设置自动化等级，开启自动运维。\n\n窗口可最小化到托盘继续运行；退出应用或关机后本机任务停止，开机启动由用户在设置中启用。后台是 Electron 管理的 Node 子进程，不安装 Windows 系统服务。\n\n### 开发者运行\n\n需要 Node.js 22+、npm、Git。\n\n```bash\nnpm ci\nnpm run desktop:dev\n```\n\n网页/API 开发：`npm run dev`；生产后端：`npm run build && npm start`。环境模板见 `.env.example`；`npm start` 不自动加载 `.env`，需要时 `node --env-file=.env server/index.mjs`。默认 API 仅监听 `127.0.0.1:4317`。\n\n## AI 客户端接入方式\n\n| 客户端 | 检测 | 说明 |\n| --- | --- | --- |\n| ChatGPT Desktop | MSIX 包 `OpenAI.Codex` + 进程 `ChatGPT` | 与同包的 Codex CLI 是不同入口 |\n| WorkBuddy | 卸载注册表 + 进程 `WorkBuddy` | 独立安装 |\n| Codex CLI / Generic | 进程 / 配置驱动 | 见文档 |\n\n- **无需 AI API Key**：桌面客户端模式直接驱动已登录的客户端。\n- 每个仓库单独配置 `agentAdapterId` 与 `agentProjectRef`，发送前强制校验项目归属，不确定即停止。\n- 若 UI Automation 不可用或控件无法识别，NEXUS 生成完整任务包并进入人工接管；结果仍由 Git diff 与测试独立验收，不采信 AI 自我报告。\n- 传统 API 模式（AI_BASE_URL / AI_API_KEY / AI_MODEL）保留，二者独立。\n\n完整说明：[桌面 AI 客户端接入](docs/AUTONOMY_V2_DESKTOP_CLIENTS.md)。\n\n## GitHub 接入方式\n\n- 应用内 GitHub Token 或 GitHub App 安装；只读监控需要 `repo` / `actions:read` / `security_events:read`。\n- 每个仓库可配置监控周期（5/15/30/60 分钟或自定义）、监控项、Webhook 开关。\n- Webhook 有效时事件驱动，停止投递后自动回到轮询；既有 `/api/github/webhook` 继续可用。\n- 默认不做任何远程写入；PR / 合并 / Release 需显式授权与发布门禁。\n\n完整说明：[GitHub 配置](docs/AUTONOMY_V2_GITHUB_SETUP.md)。\n\n## 自动运维使用方法\n\n指挥中心（导航「系统设置」之前的一级中心「AI 自主运维」）提供：\n\n- **启动 / 暂停 / 恢复**：全局自动运维开关。\n- **立即扫描 / 立即研究 / 执行待处理任务 / 停止当前任务**：手动触发。\n- **12 项首页指标**：管理仓库、正常仓库、新问题、待修复、AI 执行中、已修复、待验收、安全风险、同类项目更新、最近版本、执行记录、客户端状态。\n- **六个页签**：总览（含就绪诊断）、仓库监控、桌面客户端（能力表 + 真实窗口识别）、任务与执行、智能研究、审计日志。\n\nREST 控制示例：\n\n```bash\ncurl -X POST http://127.0.0.1:4317/api/autonomy/control/scan-now\ncurl -X POST http://127.0.0.1:4317/api/autonomy/adapters/probe\ncurl http://127.0.0.1:4317/api/autonomy/overview\n```\n\n## 权限设置\n\n| 模式 | 能力 |\n| --- | --- |\n| `observe`（默认） | 只监控、扫描、分析、生成建议，不改代码 |\n| `repair` | 允许隔离分支修改 + 测试；合并与发布需人工确认 |\n| `autonomous` | 额外允许符合规则的低风险修复、PR、合并与发布 |\n\n始终需人工确认：删除远程仓库、强推、覆盖未提交修改、删除用户数据、修改凭据、高危安全事件、仓库权限变更、发布有严重问题的版本。自动合并与自动发布是**两个独立开关**。详见 [权限与安全策略](docs/AUTONOMY_V2_PERMISSIONS.md)。\n\n### v2.1 Action Intent\n\nAutonomy 的任何写操作现在都需要一个短期、精确范围的 intent grant；角色本身不会自动授予写权限。默认仍是只读，管理员可在本机 loopback API 中显式授权并随后撤销：\n\n```bash\ncurl http://127.0.0.1:4317/api/autonomy/intents\ncurl -X POST http://127.0.0.1:4317/api/autonomy/intents/grant \\\n  -H \"content-type: application/json\" \\\n  -d '{\"action\":\"local_file_write\",\"scope\":{\"repository\":\"__global__\"},\"duration\":\"once\",\"confirm\":true}'\n```\n\n每次授权、使用、完成和失败都会进入 append-only `intent_uses`/`audit_log`；高风险 PR、合并、Release 使用独立 action，不会继承低风险授权。\n\n指挥中心的**「安全与恢复」页签**是这套授权与备份能力的图形入口：列出仍有效的授权及其范围与到期时间、一键撤销，并可创建、校验备份或恢复 `state.json`。界面不绕过任何服务端门禁——没有精确授权时与 API 一样返回只读。\n\n### v2.1 数据恢复\n\n`POST /api/autonomy/backups` 会在 SQLite `integrity_check` 与 WAL checkpoint 后生成带 manifest/SHA-256 的备份。恢复前先调用 `/backups/verify`；运行中的服务只允许安全恢复 `state.json`，`autonomy.db` 恢复必须停服务并执行经过验证的恢复流程。\n\n## 常见问题\n\n**没有 AI API Key 能用吗？** 能。桌面客户端模式完全独立，不会因为缺少 API Key 被判为不可用（诊断里 `AI_API` 与 `DESKTOP_CLIENT` 分开报告）。\n\n**为什么任务停在「等待人工接管」？** 通常是 UI Automation 不可用、项目控件无法识别、或项目归属不确定。界面会显示原因与任务包路径；按指引在客户端粘贴任务包后，用「会话处理」标记完成，NEXUS 会独立验收。\n\n**为什么 Issue 关闭了仍显示「无法确认」？** 设计如此。关闭不等于解决，必须有 PR、合并、分支包含、测试、Review 及独立回归测试证据。\n\n**会改动我未提交的代码吗？** 不会。原工作区有任何未提交修改时，任务直接被拒绝；任务只在独立 Git Worktree 的 `nexus/auto/*` 分支进行。\n\n**会自动 push / 发布吗？** 默认不会。需显式开启远程写入、`autoRelease`、`autonomous` 模式与发布批准，且通过全部 9 项门禁。\n\n**监控会重复下载仓库吗？** 不会。ETag 条件请求命中 304 时直接跳过；只处理游标之前的新条目；事件指纹去重。\n\n**数据库在哪？** `%LOCALAPPDATA%\\PROJECT NEXUS` 或源码运行的 `data/`：`autonomy.db`（新增）与 `state.json`（既有，未迁移）。\n\n## 截图\n\n<p align=\"center\">\n  <img src=\"docs/screenshots/autonomy-v2-overview.png\" width=\"720\" alt=\"PROJECT NEXUS 自动运维指挥中心\">\n</p>\n\n**自动运维指挥中心**（v0.9.0，真实运行截图）：[查看大图](docs/screenshots/autonomy-v2-overview.png) — 12 项实时指标、全局自动运维开关、6 个页签、六类精确就绪诊断与真实扫描记录。\n\n工作台总览：[docs/screenshots/overview.png](docs/screenshots/overview.png)。\n\n### v0.9.0 发布资产\n\n[下载 v0.9.0 Windows x64 安装包与校验文件](https://github.com/yuchen0x1/PROJECT-NEXUS/releases/tag/v0.9.0)（正式 Release，4 个资产：安装包、`.blockmap`、`SHA256SUMS.txt`、`latest.yml`）。\n\n| 文件 | 大小 | 说明 |\n| --- | --- | --- |\n| `PROJECT-NEXUS-0.9.0-win-x64-setup.exe` | 118 MB | NSIS x64 安装包，**未签名** |\n| `PROJECT-NEXUS-0.9.0-win-x64-setup.exe.blockmap` | 127 KB | 增量更新块映射 |\n| `SHA256SUMS.txt` | 104 B | SHA-256 校验 |\n| `latest.yml` | 371 B | 应用内自动更新清单（0.8.2+ 可直接检查更新升级） |\n\n安装包 SHA-256：`dc96e52721d51ffe902b296c1e5fdd5f0619ed145a8fea7f419c140110acc999`\n\n本地重新构建（本次因 `release/win-unpacked` 被运行中的旧实例占用，改用独立输出目录）：\n\n```bash\nnpm run build\nnpx electron-builder --win nsis --x64 --publish never -c.directories.output=release-v090\n```\n\n`release-v090/` 与历史 `release/` 均由 `.gitignore` 忽略，不进版本库。\n\n## 测试方法\n\n```bash\nnpm run check          # typecheck + lint + 全量单元测试 + 构建\nnpm run i18n:audit     # 十语言审计\nnpm run i18n:coverage  # 翻译覆盖率\nnode tests/autonomy-live-github.mjs   # 真实 GitHub 只读 + 真实 UIA 验收（需 GITHUB_TOKEN）\n```\n\n真实测试记录：[测试报告](docs/AUTONOMY_V2_TEST_REPORT.md)、`docs/evidence/autonomy-v2-live-acceptance.json`、`docs/evidence/autonomy-v2-full-test.log`。\n\n`tests/v1-live-acceptance.mjs` 需要真实 GitHub/AI 凭据与严格命名的临时测试仓库，**会写入该仓库**，不得指向业务项目。\n\n## 未来规划\n\n- 完成控件级桌面客户端自动化的真实端到端验证与客户端控件指纹库。\n- 集成与项目技术栈匹配的安全工具链（CodeQL / Semgrep / Gitleaks / npm audit 等）。\n- 引入专门的静态 Bug 分析引擎与更深的质量评分模型。\n- 完善同类项目相关性量化评分与自动升级建议优先级。\n- 新增指挥中心页面的完整十语言文案。\n- 真实 24 小时浸泡运行与完整远程交付闭环验收。\n- 签名安装包与更严格的隔离宿主。\n\n## 文档\n\n- [现状审计](docs/AUTONOMY_V2_BASELINE_AUDIT.md) · [新版架构](docs/AUTONOMY_V2_ARCHITECTURE.md) · [更新日志](CHANGELOG.md)\n- [桌面客户端接入](docs/AUTONOMY_V2_DESKTOP_CLIENTS.md) · [GitHub 配置](docs/AUTONOMY_V2_GITHUB_SETUP.md) · [权限](docs/AUTONOMY_V2_PERMISSIONS.md)\n- [数据库迁移](docs/AUTONOMY_V2_DATABASE.md) · [测试报告](docs/AUTONOMY_V2_TEST_REPORT.md) · [安全审计](docs/AUTONOMY_V2_SECURITY_AUDIT.md) · [已知限制](docs/AUTONOMY_V2_LIMITATIONS.md)\n- [用户指南](docs/USER_GUIDE.md) · [安全说明](docs/SECURITY.md) · [完整发布记录](docs/releases/release-notes.md)\n\n## 许可证\n\n[MIT](LICENSE) © 2026 冷漠不是神 (yuchen0x1)\n\n\n## 2026-11-16 项目演进审计\n\n本轮以 v0.9.2 为基线完成了真实代码审计、16 个开源项目对标和 36 项升级路线图。已落地的变更包括：API 请求追踪 ID、安全响应头、单进程速率保护、结构化 API 404/错误边界、HTTP 超时、15 候选竞品研究、研究并发池与 prompt 预算、Web/Electron 入口按需加载，以及 GitHub PAT/App 状态分层。\n\n- [项目现状审计](PROJECT_AUDIT.md)\n- [竞品对标分析](COMPETITOR_ANALYSIS.md)\n- [36 项升级路线图](UPGRADE_ROADMAP.md)\n- [本轮升级交付报告](UPGRADE_REPORT.md)\n\n本轮没有推送、创建 PR、发布或部署；签名更新、严格 Windows 隔离、真实外部工具扫描、远程写入和 24 小时 soak 仍按 BLOCKED/PARTIAL 记录。\n",
       "branch": "main",
-      "collectedAt": "2026-11-27T04:14:12.600Z"
+      "collectedAt": "2026-11-27T13:51:52.063Z"
     },
     "mind-bench": {
       "markdown": "# MIND BENCH\n\n[![CI](https://github.com/yuchen0x1/mind-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/yuchen0x1/mind-bench/actions/workflows/ci.yml)\n[![Release](https://img.shields.io/github/v/release/yuchen0x1/mind-bench)](https://github.com/yuchen0x1/mind-bench/releases/latest)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)\n\n**把同一道题交给多个 AI，保存原始回答，用可追溯的规则比较它们。** 本项目在你自己的电脑上运行，适合模型选型、提示词改进、回归评测和回答复核。\n\n![MIND BENCH 本地评测工作台](screenshots/dashboard.png)\n\n## 你可以用它做什么\n\n| 你想完成的事 | 在 MIND BENCH 中怎么做 |\n| --- | --- |\n| 比较两个模型谁更适合某类任务 | 添加模型 → 选同一批题 → 多模型测试 → 并排比较回答与评分 |\n| 改进自己的提示词 | 复制题目 → 在提示词工作台编辑 → 保存版本与变体 → 重复测试 |\n| 检查模型升级后是否退步 | 固定题目与参数 → 保存运行清单 → 按运行时模型版本查看结果 |\n| 对照两次评测是否退步 | 打开候选报告 → 选择历史基线 → 查看逐题分差与门禁状态；不兼容样本会说明原因 |\n| 检查开放式回答质量 | 规则评分 → 选择其他模型匿名裁判 → 人工复核 → 导出报告 |\n| 不配置 Key 先体验流程 | 添加 Mock 供应商和模型 → 运行单题 → 查看明确标记的模拟报告 |\n\n## 最新更新\n\n<!-- github-release:start -->\n\n**[v0.5.0](https://github.com/yuchen0x1/mind-bench/releases/tag/v0.5.0)** · 2026-11-23\n\n报告页可以「按原配置复跑」：题目和模型从该批次的运行清单取回，新建会话重新测试，原有记录保持不变。题目已删除、模型已停用或原批次是外部粘贴回答时，会直接说明原因而不是悄悄换题。\n\n[全部发行记录](https://github.com/yuchen0x1/mind-bench/releases)\n\n<!-- github-release:end -->\n\n[完整更新日志](docs/releases/release-notes.md)\n\n## 第一次使用：5 分钟走通流程\n\n1. 安装 **Node.js 24+**。从[最新发行页](https://github.com/yuchen0x1/mind-bench/releases/latest) 下载 `mind-bench-<版本>.tar.gz` 并解压。\n2. 在解压目录执行 `npm ci --omit=dev`，再执行 `npm start`，打开 <http://127.0.0.1:3000>。\n3. 在「模型管理」添加供应商和模型。先体验可选「Mock 沙盒」，真实评测再配置自己的供应商地址与 API Key。\n4. 打开「题库探索」→ 选择一题 → 勾选模型 →「发送测试」。也可在「测试中心」组织批量测试。\n5. 在「测试历史」打开报告，查看原始回答、运行清单和评分，按需发起 AI 裁判、人工复核或导出 JSON/CSV。\n\nRelease 已包含构建好的界面。若从 Git 克隆源码，请改用 `npm ci` → `npm run build` → `npm start`。\n\nMIND BENCH（AI 智力评测竞技场）是一个**可真实运行**的本地 AI 模型评测工作台：维护带来源、许可与版本信息的题库，调用你自己配置的模型 API，完整保存原始回答与运行元数据，用确定性规则 + AI 裁判 + 人工复核三层机制评分，并输出可追溯的排行榜。\n\n它不是静态演示页，也不是截图站。每个主要按钮都有对应的后端行为，所有分数都由真实运行记录聚合得出；没有运行记录时排行榜**会诚实地留空**，而不是塞入示例数据。\n\n> **解释边界（重要）：** MIND BENCH SCORE 是本平台定义的实验性模型评测分数（0—100 分制，可换算为 0—1000），**不是**人类 IQ、不构成心理测量结果，也不是权威模型排行榜。内置 203 道题为原创草案/待复核状态，不应据此发布严肃的能力排名。Mock 供应商只用于流程验证，界面会明确标注 `MOCK`，不参与评分、不进入正式榜单。\n\n---\n\n## 目录\n\n- [功能状态](#功能状态)\n- [界面截图](#界面截图)\n- [技术架构](#技术架构)\n- [快速开始](#快速开始)\n- [配置模型供应商](#配置模型供应商)\n- [评分体系](#评分体系)\n- [排行榜与权重](#排行榜与权重)\n- [题库与数据导入](#题库与数据导入)\n- [数据库](#数据库)\n- [开发与测试](#开发与测试)\n- [环境变量](#环境变量)\n- [已知限制](#已知限制)\n- [文档与许可证](#文档与许可证)\n\n---\n\n## 功能状态\n\n下表的\"状态\"列区分了**已实现并验证**、**已实现但缺真实 Key 验证**、**未实现**三种情况。这是刻意的诚实标注。\n\n| 模块 | 能力 | 状态 |\n| --- | --- | --- |\n| 题库 | 203 道原创题 / 15 个一级分类 / 4 档难度 / 20 字段结构 / 来源与许可记录 | ✅ 已实现 |\n| 题库 | 搜索、分类筛选、难度筛选、卡片/列表双视图、收藏 | ✅ 已实现 |\n| 题库 | 单题详情：中英文提示词、目标、参考答案、评分规则、常见错误、版本历史、变体 | ✅ 已实现 |\n| 题库 | 复制为新题（真实落库）、编辑副本、变体管理、版本快照 | ✅ 已实现 |\n| 题库 | JSON 导入/导出、外部数据集（JSONL/CSV）适配、许可证强制、原文 SHA-256 留痕 | ✅ 已实现 |\n| 供应商 | 13 种类型：OpenAI / Anthropic / Gemini / DeepSeek / 智谱 / Moonshot / MiniMax / 通义千问 / OpenRouter / Ollama / LM Studio / OpenAI 兼容 / Mock | ✅ 已实现 |\n| 供应商 | 测试连接、**从供应商接口获取模型列表**、默认模型、成本配置 | ✅ 已实现 |\n| 供应商 | API Key AES-256-GCM 加密存储，API 永不返回明文 | ✅ 已实现 |\n| 测试 | 8 种模式：单题 / 分类 / 综合 / 极限 / 随机 / 稳定性 / 自定义 / 外部回答 | ✅ 已实现 |\n| 测试 | 单模型、多模型、全部模型、重复测试、手动粘贴外部回答 | ✅ 已实现 |\n| 测试 | 并发控制、超时、取消、单模型失败隔离 | ✅ 已实现 |\n| 测试 | 原始回答完整保存（不改写、不猜测隐藏思维链） | ✅ 已实现 |\n| 测试 | 可复现运行清单：题目/模型/参数/评分/环境快照、SHA-256 完整性摘要、JSON 导出 | ✅ 已实现 |\n| 测试 | 同题目/模型/协议的历史会话回归比较与分数降幅门禁；Mock、外部及未评分样本排除 | ✅ 已实现 |\n| 测试 | 报告页按原配置复跑；题目/模型变更、外部回答与停用模型明确阻断 | ✅ 已实现 |\n| 运行诊断 | 真实运行 P50/P95/平均延迟、失败率、失败原因分组与可重试标记；Mock/外部隔离 | ✅ 已实现 |\n| 发布 | 完整前后端压缩包、逐文件摘要、Web 版本检测、Windows/Linux CI 和标签发布工作流 | ✅ 已实现 |\n| 运行可信度 | 随机挑战种子、进程重启会话恢复、请求 ID 与分页响应头 | ✅ 已实现 |\n| 评分 | 确定性规则 10 种：exact / one_of / contains / all_keywords / any_keywords / numeric / regex / json / word_limit / manual | ✅ 已实现 |\n| 评分 | **AI 裁判**：匿名化候选、固定 Rubric、严格 JSON、服务端重算总分、多裁判交叉验证 | ✅ 已实现 |\n| 评分 | 人工评分与复核，人工分不被 AI 覆盖 | ✅ 已实现 |\n| 对比 | 并排卡片、LCS 逐词差异高亮、逐项评分矩阵、两两对比 | ✅ 已实现 |\n| 排行榜 | 分类加权、覆盖度、趋势、版本过滤、qualifying/provisional 分级、CSV/JSON 导出 | ✅ 已实现 |\n| 工作台 | 提示词工作台：三栏编辑 + 实时评分预览 + 变体 | ✅ 已实现 |\n| 模型档案 | 雷达图、得分走势、最近运行、成功率、参数与成本 | ✅ 已实现 |\n| 数据 | 19 张表、外键、唯一约束、索引、迁移、审计日志 | ✅ 已实现 |\n| 部署 | Dockerfile + Compose（已实际 `docker build` 通过） | ✅ 已实现 |\n| 平台 | 实际支持边界与待验证设备 | [平台可行性](docs/PLATFORM_FEASIBILITY.md) |\n| 真实模型 | 真实供应商联网调用与计费 | ⚠️ 未验证（无 Key） |\n| 代码沙箱 | 在沙箱中执行模型生成的代码 | ❌ 未实现 |\n| 认证 | 账号体系、多租户、远程访问防护 | ❌ 未实现（单机本地应用） |\n\n---\n\n## 界面截图\n\n以下均为本地实际运行界面的 Chromium 截图，**不是设计稿**。总览、题库、单题与测试中心展示无真实用户数据的本地实例；工作台、模型管理、设置和 Mock 报告取自隔离实例的实际操作。截图使用回环端口与临时数据库，不展示真实 Key 或私人回答，Mock 不代表模型成绩。\n\n### 总览仪表盘\n\n顶部总览展示真实记录数量；还没有运行时，会显示引导和空状态，不填充虚构成绩。完整截图见本文开头。\n\n### 题库探索\n\n![题库探索](screenshots/task-library.png)\n\n### 单题详情与测试\n\n![单题详情](screenshots/task-detail.png)\n\n阅读提示词、参考答案与评分依据，选择模型后发送测试。\n\n### 组织批量测试\n\n![测试中心](screenshots/challenges.png)\n\n选择分类、难度、题量、模型与重复次数，用同一套配置组织可复现的评测。\n\n### 提示词工作台\n\n![提示词工作台](screenshots/prompt-workshop.png)\n\n### 模型管理与供应商发现\n\n![模型管理](screenshots/providers.png)\n\n### Mock 运行报告（带 MOCK 标注）\n\n![Mock 运行报告](screenshots/report-mock-labelled.png)\n\n### 无真实样本时的排行榜（诚实留空）\n\n![空排行榜](screenshots/leaderboard-empty.png)\n\n### 系统设置\n\n![系统设置](screenshots/settings.png)\n\n### 研究资料\n\n![研究资料](screenshots/research.png)\n\n### 移动端适配\n\n<p>\n  <img src=\"screenshots/mobile-dashboard.png\" alt=\"移动端总览\" width=\"300\" />\n  <img src=\"screenshots/mobile-nav.png\" alt=\"移动端导航\" width=\"300\" />\n</p>\n\n---\n\n## 技术架构\n\n```text\n┌──────────────────────────────────────────────────────────┐\n│  React 19 + Vite 8  (Hash 路由单页应用)                   │\n│  Framer Motion 动效 · Recharts 雷达/趋势图 · lucide 图标  │\n│  深色 / 浅色主题 · 桌面 / 平板 / 手机三档断点              │\n└───────────────────────────┬──────────────────────────────┘\n                            │ 同源 JSON API（50+ 个端点）\n┌───────────────────────────┴──────────────────────────────┐\n│  Express 5 (src/server.mjs)                              │\n│  ├── 路由与校验：限流、8MB body、CSP/nosniff/DENY         │\n│  ├── 供应商适配器 (src/providers.mjs)                     │\n│  │     OpenAI 兼容 / Anthropic Messages / Gemini          │\n│  │     generateContent / Ollama / LM Studio / Mock        │\n│  ├── 评分引擎 (src/scoring.mjs)  确定性规则                │\n│  ├── AI 裁判 (src/judge.mjs)     匿名 + Rubric + 重算      │\n│  └── 并发池 asyncPool + AbortController 取消/超时          │\n└───────────────────────────┬──────────────────────────────┘\n                            │ node:sqlite（WAL, 外键开启）\n┌───────────────────────────┴──────────────────────────────┐\n│  SQLite · data/mind-bench.sqlite · 19 张表                │\n│  AES-256-GCM 加密密钥 · data/.key                         │\n└──────────────────────────────────────────────────────────┘\n```\n\n设计细节见 [架构说明](docs/ARCHITECTURE.md)、[评分指南](docs/SCORING_GUIDE.md)、[基准方法论](docs/BENCHMARK_METHODOLOGY.md)、[开源项目研究](docs/OPEN_SOURCE_RESEARCH.md)。\n\n---\n\n## 快速开始\n\n**环境要求：** Node.js 24 或更新版本；本项目使用内置 `node:sqlite`，无需另外安装数据库。以下命令适用于 Git 克隆的源码；Release 压缩包无需重新构建。\n\n### Windows（PowerShell / Windows Terminal）\n\n```powershell\nnpm ci\nnpm run build\nnpm start\n```\n\n打开 <http://127.0.0.1:3000>。`Ctrl+C` 停止。\n\n### macOS / Linux\n\n```bash\nnpm ci\nnpm run build\nnpm start\n```\n\n服务刻意绑定回环地址（`127.0.0.1`），只对本机开放。首次运行会在 `data/` 下创建 SQLite 数据库与本地密钥文件。\n\n### 开发模式（热更新）\n\n需要两个终端：\n\n```bash\n# 终端 1：API\nnpm run server\n```\n\n```bash\n# 终端 2：Vite 开发服务器\nnpm run dev\n```\n\n打开 <http://127.0.0.1:5173> 即可使用完整热更新界面。Vite 已将 `/api` 代理至 `http://127.0.0.1:3000`，API 进程需要保持运行。如后端使用其他端口，在启动 Vite 前设置 `MIND_BENCH_API_TARGET`（PowerShell 示例：`$env:MIND_BENCH_API_TARGET=\"http://127.0.0.1:3100\"`）。\n\n### Docker\n\n镜像已实际构建并运行通过：\n\n```bash\ndocker build -t mind-bench:local .\ndocker run --rm -p 127.0.0.1:3000:3000 -v mind-bench-data:/data mind-bench:local\n```\n\n或使用 Compose（同样只绑回环）：\n\n```bash\ndocker compose up --build\n```\n\n- 容器内 `HOST=0.0.0.0`（容器网络需要），但端口映射限定在 `127.0.0.1`。\n- 数据持久化在命名卷 `mind-bench-data`，挂载到 `/data`。\n- 以非 root 用户 `node` 运行。\n- 内置 healthcheck 请求 `/api/health`。\n- 自定义加密秘密：`-e MIND_BENCH_SECRET=...`。\n\n⚠️ 公网/共享部署前仍需身份认证、TLS、CSRF 校验、SSRF 防护与数据访问控制，见 [架构与信任边界](docs/ARCHITECTURE.md)。\n\n### AI 编程工具一键启动\n\n在支持终端的 AI 编程工具中打开项目目录，让它依次执行：检查 `node -v` → `npm ci` → `npm run build` → `npm start` → 访问 `http://127.0.0.1:3000`。**不要**把供应商 API Key 粘贴进聊天记录、代码或版本控制；Key 只应通过界面「模型管理」录入。\n\n---\n\n## 配置模型供应商\n\n1. 打开「模型管理」→「添加供应商」。\n2. 选择类型（如 `openai-compatible`、`deepseek`、`ollama`），填写显示名、Base URL、API Key。\n3. 保存后点「测试连接」验证连通性。\n4. 点「获取模型列表」——平台会按供应商类型请求对应发现端点（`/models`、`/api/tags`、`/v1beta/models`），从返回结果中挑选模型加入。\n5. 为每个模型配置显示名、温度、最大 Token、超时、重试与输入/输出成本（每百万 Token）。成本是**用户填写的估算值**，不是账单核验值。\n6. 可设置一个默认模型；可批量选择多个模型一起跑同一批题。\n\n**关于 Key 的安全性：**\n- Key 使用 AES-256-GCM 加密后写入本机 SQLite，加密密钥来自 `data/.key` 或环境变量 `MIND_BENCH_SECRET`（经 `scryptSync` 派生）。\n- 所有读取接口（`/api/providers`、`/api/models/:id` 等）只返回 `hasKey` 布尔值，**从不返回明文**。\n- `data/.key` 与数据库必须一起备份；丢失密钥会导致已保存的 Key 无法解密。\n- 切换 `MIND_BENCH_SECRET` 会使既有密文失效，需先完成迁移规划。\n\n**Mock 供应商**：无需 Key，用于验证全流程。Mock 回答会在会话与报告中标注 `MOCK`，不参与评分、不进排行榜、不计入 AI 裁判候选池。\n\n**外部回答**：在单题页粘贴其他平台的原始回答时，平台会保存为 `is_external=1` 的独立运行，允许统一评分、裁判和导出，但不会冒充所选模型的真实调用，也不会进入正式排行榜或真实模型统计。\n\n> 真实供应商调用会按其服务条款产生流量与费用。本仓库未配置任何真实 API Key，因此真实模型调用与跨供应商分数可比性**尚未验证**。\n\n---\n\n## 评分体系\n\n三层机制，明确区分\"客观\"与\"主观\"：\n\n### 1. 确定性规则（客观）\n\n由题目字段 `scoring_rule` 声明，服务端执行，结果可完全复现：\n\n| 方法 | 说明 | 内置题数 |\n| --- | --- | --- |\n| `all_keywords` | 必须包含全部关键词 | 84 |\n| `numeric` | 数值容差比较 | 40 |\n| `contains` | 包含任一关键片段 | 25 |\n| `exact` | 归一化后精确匹配 | 22 |\n| `json` | JSON Schema 结构校验 | 5 |\n| `regex` | 正则匹配 | 2 |\n| `manual` | 需人工评分 | 25 |\n\n统计：**178 / 203（87.7%）** 的题目可自动评分，其余 25 道为开放式主观题。\n\n### 2. AI 裁判（主观但可审计）\n\n`src/judge.mjs` 实现，用于开放式回答的辅助评分：\n\n- **匿名化**：提示词中候选回答标记为 `Candidate A`，裁判**不知道**回答来自哪个模型，避免品牌偏好。\n- **固定 Rubric**：维度来自题目 `scoring_dimensions`（默认「任务完成度 / 推理与约束遵循」），不允许裁判自行增删维度。\n- **严格 JSON**：要求返回 `{dimensions:[{name,score,reason}],strengths,weaknesses}`。自由文本、缺维度、多出维度、分数越界、`mock:true` 一律 422 拒绝，**而不是给 0 分**——宁可不评分，也不污染数据。\n- **服务端重算总分**：不信任模型自报的 `overall`，按维度权重重新加权计算。\n- **禁止自评**：候选模型 ID 与裁判模型 ID 相同时直接拒绝。\n- **多裁判交叉验证**：可同时选最多 3 个裁判，聚合输出均值、极差 `spread`、一致度 `agreement`，分歧过大时在报告页高亮提示。\n- **可人工复核**：人工评分后 AI 裁判不会覆盖（除非显式 `force`）。\n- **完整留痕**：`judge_verdicts` 表记录裁判模型 ID、模型版本、原始返回、解析结果与时间戳。\n\n### 3. 人工评分\n\n报告页对每条运行可手动打分并写评语，标记 `evaluator_type='human'`，进入排行榜时优先采信。\n\n### 4. 可复现运行清单\n\n每个测试会话在启动时保存不可变的 Run Manifest：\n\n- 题目 ID、版本、分类、中英文提示词全文、参考答案、目标、评分规则与评分维度快照；\n- 供应商、模型 ID、模型版本、温度、Token 上限、超时与重试参数；\n- 当前评分权重、客观评分器/裁判协议版本、模型输入/输出单价，以及实际使用的覆盖提示词（如有）；\n- Node.js、平台、架构、时区、并发上限和 Mock/外部回答标记；\n- 对规范化清单计算的 SHA-256 完整性摘要。\n\n新清单格式为 `1.1.0`。AI 裁判使用运行时保存的提示词、参考答案和量表，后续编辑题目不会改变这批运行的裁判依据；覆盖提示词也会纳入裁判。旧版清单缺少题目全文，仍沿用读取当前题目的兼容行为。\n\n运行中的报告会自动刷新，可直接点击「停止测试」；排队任务会保存为取消状态，不再发送模型请求。\n\n报告页展示清单摘要，`GET /api/sessions/:id/manifest` 可读取，报告 JSON 导出会内嵌清单，页面也支持单独导出 JSON。清单用于复跑与审计，不能把不同题库或权重版本的结果伪装成同一实验。\n\n### 分数换算\n\n单题得分 0—100 → 分类均值 → 按权重加权平均 → `weightedAverage × 10` → **0—1000 的 MIND BENCH SCORE**。\n\n详细规则见 [评分指南](docs/SCORING_GUIDE.md)。\n\n---\n\n## 排行榜与权重\n\n- **准入**：只有真实（非 Mock）、状态成功、已评分、且该分类有效样本数 ≥ `minimum_leaderboard_runs`（默认 10，可在「系统设置」修改）的运行才进入正式排名。\n- **两级排名**：`qualified`（满足准入，参与排名）与 `provisional`（样本不足，单列展示且可点击查看模型档案，不占名次）。\n- **分类加权**：15 个能力维度的权重来自 `system_settings.score_weights`，可在「系统设置」界面修改。报告页会显示权重来源，说明是否使用了非等权配置。\n- **覆盖度**：每行显示已覆盖分类数 / 15，提示\"分数基于部分能力\"。\n- **趋势**：近 7 日加权分 vs 前 7 日加权分的变化（`trend-up` / `trend-down`）。\n- **版本过滤**：可按运行时保存的模型版本筛选；后续编辑模型配置不改变旧记录的版本归属。题目版本另保存在运行清单中，当前没有独立的题库版本筛选器。\n- **导出**：`GET /api/leaderboard/export?format=csv|json`，含权重快照与阈值，便于复现。\n- **原始记录可追溯**：从榜行展开可见 15 类分项条，点击进入模型档案，再进入具体测试报告。\n\n> **不完整测试不会按 0 分混入。** 未完成、失败、未评分、Mock 的运行全部被排除在聚合之外，而不是当作 0 分参与平均。\n\n---\n\n## 题库与数据导入\n\n### 内置题库\n\n- 203 道原创题，15 个一级分类（逻辑推理、数学计算、抽象思维、空间想象、常识判断、语言理解、指令遵循、批判性思维、反直觉与陷阱、因果推理、长文本记忆、编程能力、科学推理、安全与鲁棒性、创造性思维），每类 13—14 题。\n- 难度分布：入门 51 / 进阶 67 / 困难 65 / 专家 20。\n- 每题携带 20 个字段：ID、名称、分类、子分类、难度、中文提示词、英文提示词、来源、来源仓库、许可证、目标、参考答案、评分规则、评分维度、常见错误、注意事项、版本、验证状态、是否公开、时间戳。\n- 验证状态：178 题 `review_required`（待复核）、25 题 `draft`（草案）。\n\n### 自建与编辑\n\n在「提示词工作台」中可创建全新题目，或从任意内置题「编辑副本」——副本会真实写入数据库（`derived_from` 记录来源），随后可编辑提示词、目标、评分规则，左侧实时显示评分预览，右侧管理变体（同一考点的不同问法）。\n\n### 外部数据集导入\n\n「题库导入」页面支持两条路径：\n\n1. **JSON 导入**：MIND BENCH 原生格式（`/api/tasks/export` 的产物）。\n2. **外部数据集适配**：JSONL 或 CSV，需填写**许可证**（必填，强制校验），支持字段别名映射（如 `question`→`promptZh`、`answer`→`referenceAnswer`）。导入的题目 `verification_status='imported'`，每次最多 1000 条，逐条错误随结果返回。\n\n⚠️ 导入前请自行确认数据集的再分发权与署名要求。**不要**把不可再分发的数据（如部分 MMLU/HellaSwag 变体）提交到公开仓库。参见 [第三方许可证清单](THIRD_PARTY_LICENSES.md) 与 [提示词与数据来源](docs/PROMPT_DATA_SOURCES.md)。\n\n---\n\n## 数据库\n\n19 张表，关系完整，非\"一个大 JSON\"：\n\n```text\nusers                  providers              models\nbenchmark_categories   benchmark_sources      benchmark_tasks\nbenchmark_task_versions  benchmark_test_cases  scoring_rubrics\ntest_sessions          test_runs              model_responses\nevaluation_results     judge_verdicts         leaderboard_snapshots\nfavorites              custom_prompts         system_settings\naudit_logs\n```\n\n要点：\n\n- 外键全部开启（`PRAGMA foreign_keys=ON`），WAL 模式。\n- `judge_verdicts` 有 `UNIQUE(run_id, judge_model_id)`，保证同一裁判对同一运行只保留一条（重复裁判为 UPSERT）。\n- 索引覆盖 `run_id` / `task_id` / `model_id` / `created_at` / `variant task_id` 等高频查询。\n- 轻量迁移：`src/db.mjs` 中 `ensureColumn()` 对既有库做幂等加列，不破坏历史数据。\n- 删除保护：内置题禁止删除（403）；有运行记录的题禁止删除（409）；供应商删除前检查关联模型。\n\n备份：干净停止服务后，同时复制 `data/mind-bench.sqlite`（及 `-wal` / `-shm`）与 `data/.key`。\n\n---\n\n## 开发与测试\n\n```bash\nnpm test              # Vitest：单元 + API 集成\nnpm run build         # Vite 生产构建\nnpm run test:e2e:install   # 首次安装 Playwright Chromium\nnpm run test:e2e      # Playwright 端到端\n```\n\n**本地验证记录（2026-11-13；Docker 项保留此前记录，本轮未重测）：**\n\n| 套件 | 结果 | 内容 |\n| --- | --- | --- |\n| `npm test` | **52 / 52 通过**（8 个文件） | 评分、裁判、供应商、API、快照、跨站请求、导入异常、计数、版本筛选、零权重等回归 |\n| `npm run test:e2e` | **8 / 8 通过** | 总览→题库→单题→复制→Mock→报告→排行榜→工作台→设置→研究→移动端，以及报告自动刷新/取消 |\n| `npm run build` | ✅ 成功 | — |\n| `docker build` | ✅ 成功 | 镜像可用 |\n\n测试隔离：`tests/setup.js` 将 `MIND_BENCH_DATA_DIR` 指向临时目录，`playwright.config.js` 同样注入隔离目录，**自动化测试不会写入或污染你的正式数据库**。\n\nE2E 覆盖的真实路径（非 mock 掉的前端）：\n\n1. 打开总览，校验 KPI 与图表渲染；\n2. 浏览题库、切换视图、进入单题详情；\n3. 点「复制为新题」验证真实落库并跳转工作台；\n4. 创建 Mock 供应商 → 添加模型 → 测试连接；\n5. 运行单题 → 等待完成 → 打开报告，校验 `MOCK` 标注；\n6. 打开排行榜，校验无真实数据时为空而非伪造数据；\n7. 在工作台编辑副本、保存、创建变体；\n8. 修改排行榜最小样本阈值并保存；\n9. 打开研究资料页，校验文档渲染；\n10. 切换移动端视口，校验布局与导航抽屉。\n\n---\n\n## 环境变量\n\n| 变量 | 默认值 | 说明 |\n| --- | --- | --- |\n| `PORT` | `3000` | HTTP 端口 |\n| `HOST` | `127.0.0.1` | 绑定地址；Docker 内为 `0.0.0.0` |\n| `MIND_BENCH_DATA_DIR` | `./data` | 数据库与密钥目录 |\n| `MIND_BENCH_SECRET` | 无 | 每次启动时用于派生加密密钥；已有数据时必须保持一致，不可直接更换 |\n| `MIND_BENCH_CONCURRENCY` | `4` | 并发模型调用数，上限 8 |\n| `MIND_BENCH_API_TARGET` | `http://127.0.0.1:3000` | Vite 开发模式的 API 代理目标，不影响生产服务 |\n\n---\n\n## 安全设计\n\n- **密钥**：AES-256-GCM 加密落库，密钥不返回前端；日志与错误信息不含 Key。\n- **输入**：所有请求体经字段级校验与长度截断；SQL 全部使用预编译语句（参数绑定），无字符串拼接。\n- **XSS**：React 默认转义；模型输出按纯文本渲染，不做 `dangerouslySetInnerHTML`。\n- **不可信数据**：提示词与模型返回被视为不可信输入，AI 裁判解析失败即拒绝，不做兜底猜测。\n- **限流**：每 IP 60 秒 240 次请求。\n- **请求体**：上限 8MB。\n- **安全头**：CSP、`X-Content-Type-Options: nosniff`、`X-Frame-Options: DENY`。\n- **取消与超时**：前端提交后立即获得会话 ID，后端以后台任务执行；`AbortController` + `AbortSignal.timeout` 可中途取消，不留悬挂连接。\n- **重试**：模型的 `max_retries` 对网络错误与 5xx 使用有限指数退避；4xx 和解析错误不会盲目重试。\n- **审计**：关键操作写入 `audit_logs`。\n- **代码执行**：平台**不会**在服务进程内执行模型生成的任何代码（无沙箱，因此也不提供\"执行\"按钮）。\n\n---\n\n## 已知限制\n\n1. **无真实 Key 验证**：本仓库未配置真实 API Key，因此真实供应商联网调用、计费精度、跨供应商可比性均未验证。所有已通过的测试使用 Mock 或本地 stub。\n2. **题库未经外部专家复核**：203 题均为原创草案，代表性、语言偏差、标准答案正确性需逐题人工审核。`review_required` 状态即表达此意。\n3. **AI 裁判是辅助手段**：裁判模型自身也有偏好与噪声；多裁判只能降低而非消除偏差。裁判结果永远标记来源，不应被当作客观真值。\n4. **无代码沙箱**：编程题只评\"回答文本\"，不执行代码，因此无法验证运行时正确性。\n5. **单机应用**：无账号体系、无多租户、无远程访问防护。**不要**直接暴露到公网。\n6. **旧版运行清单**：`1.0.0` 清单没有提示词与参考答案全文，历史 AI 裁判仍读取当前题目。新运行使用 `1.1.0` 快照，旧记录不会被重写。\n7. **供应商协议覆盖不全**：除 OpenAI 兼容、Anthropic Messages、Gemini `generateContent`、Ollama、LM Studio 外，各厂商专有特性（如 Anthropic 的 prompt caching、Gemini 的 grounding）未实现。\n8. **分数不可跨版本比较**：题库、评分规则或权重变化后，历史分数不应直接比较。排行榜支持模型版本过滤；题库差异需结合运行清单人工核对，不会自动归一化。\n9. **成本为估算**：单价由用户填写，与实际账单可能存在差异。\n\n---\n\n## 文档与许可证\n\n- [架构说明](docs/ARCHITECTURE.md) — 模块划分、信任边界、数据流\n- [用户指南](docs/USER_GUIDE.md) — 逐页面操作说明\n- [评分指南](docs/SCORING_GUIDE.md) — 三层评分机制、权重、换算\n- [基准方法论](docs/BENCHMARK_METHODOLOGY.md) — 能力体系、采样、解释边界\n- [测试数据指南](docs/TEST_DATA_GUIDE.md) — 出题规范、复核流程\n- [提示词与数据来源](docs/PROMPT_DATA_SOURCES.md) — 来源分级 A/B/C/D/E\n- [开源项目研究](docs/OPEN_SOURCE_RESEARCH.md) — lm-evaluation-harness、HELM、lighteval、promptfoo、OpenAI Evals、BIG-bench、ARC-AGI 的对照研究\n- [自动更新与发布](docs/AUTO_UPDATE.md) — Web 版本检测、缓存策略、GitHub Actions、Release 与安全边界\n- [API 参考](docs/API.md) — 48 个 HTTP 端点\n- [更新日志](CHANGELOG.md) · [贡献指南](CONTRIBUTING.md)\n\n**许可证：** 项目代码采用 [MIT](LICENSE)。内置原创题目沿用题库来源记录中的 `CC0-1.0`；外部导入数据按各自许可使用。第三方依赖见 [许可证清单](THIRD_PARTY_LICENSES.md) 与 [运行时 SBOM](docs/dependency-sbom.cdx.json)。**项目代码许可不替代外部数据集许可。** 安全问题请参阅 [SECURITY.md](SECURITY.md)。\n",
       "branch": "main",
-      "collectedAt": "2026-11-27T04:14:12.600Z"
+      "collectedAt": "2026-11-27T13:51:52.063Z"
     }
   },
   "events": [
+    {
+      "id": "28418693938",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T17:59:40.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28413905496",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T17:24:42.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28413753788",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-26T06:24:30.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "28412604101",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-25T17:16:13.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "28411694372",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/LINUX-DO",
+      "date": "2026-11-26T06:01:46.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/LINUX-DO",
+      "url": "https://github.com/yuchen0x1/LINUX-DO"
+    },
+    {
+      "id": "28411530061",
+      "type": "CreateEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-25T17:08:06.000Z",
+      "summary": "yuchen0x1 create yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "28404409186",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/Internet-Speed-Test",
+      "date": "2026-11-26T04:36:14.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
+      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
+    },
+    {
+      "id": "28402807186",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T17:29:23.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "21459509945",
+      "type": "PullRequestEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:11:51.000Z",
+      "summary": "yuchen0x1 pullrequest yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459508935",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:24:06.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459505463",
+      "type": "PullRequestEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-23T16:18:16.000Z",
+      "summary": "yuchen0x1 pullrequest yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459504419",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:24:02.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459503208",
+      "type": "PullRequestEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-23T16:18:52.000Z",
+      "summary": "yuchen0x1 pullrequest yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459501314",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:23:59.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459499281",
+      "type": "PullRequestEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:12:02.000Z",
+      "summary": "yuchen0x1 pullrequest yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459498554",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:23:56.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459496113",
+      "type": "PullRequestEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-23T16:17:49.000Z",
+      "summary": "yuchen0x1 pullrequest yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459493804",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:23:53.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459491076",
+      "type": "IssueCommentEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-27T06:23:50.000Z",
+      "summary": "yuchen0x1 issuecomment yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "21459488785",
+      "type": "PullRequestEvent",
+      "repo": "yuchen0x1/JukeboxRoom",
+      "date": "2026-11-23T16:17:20.000Z",
+      "summary": "yuchen0x1 pullrequest yuchen0x1/JukeboxRoom",
+      "url": "https://github.com/yuchen0x1/JukeboxRoom"
+    },
+    {
+      "id": "28393249825",
+      "type": "CreateEvent",
+      "repo": "yuchen0x1/VoxMaster-AI",
+      "date": "2026-11-26T19:04:46.000Z",
+      "summary": "yuchen0x1 create yuchen0x1/VoxMaster-AI",
+      "url": "https://github.com/yuchen0x1/VoxMaster-AI"
+    },
+    {
+      "id": "28393242594",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/VoxMaster-AI",
+      "date": "2026-11-26T19:04:42.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/VoxMaster-AI",
+      "url": "https://github.com/yuchen0x1/VoxMaster-AI"
+    },
+    {
+      "id": "28393240122",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/VoxMaster-AI",
+      "date": "2026-11-26T19:04:40.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/VoxMaster-AI",
+      "url": "https://github.com/yuchen0x1/VoxMaster-AI"
+    },
+    {
+      "id": "21457116422",
+      "type": "WatchEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-27T05:46:24.000Z",
+      "summary": "yuchen0x1 watch yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28389958306",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-25T15:39:03.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "28389357798",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-26T18:50:27.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28389228839",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-25T17:12:13.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "28388458468",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T05:36:19.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28387806636",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/sub3api-relay",
+      "date": "2026-11-26T18:15:49.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/sub3api-relay",
+      "url": "https://github.com/yuchen0x1/sub3api-relay"
+    },
+    {
+      "id": "28387244719",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T14:14:25.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28387215462",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-25T05:23:46.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "28387211421",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/apkstart",
+      "date": "2026-11-25T05:23:43.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/apkstart",
+      "url": "https://github.com/yuchen0x1/apkstart"
+    },
+    {
+      "id": "28386208354",
+      "type": "DeleteEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T05:13:00.000Z",
+      "summary": "yuchen0x1 delete yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
+    {
+      "id": "28385946998",
+      "type": "PushEvent",
+      "repo": "yuchen0x1/HongGuo-PC",
+      "date": "2026-11-25T05:09:29.000Z",
+      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
+      "url": "https://github.com/yuchen0x1/HongGuo-PC"
+    },
     {
       "id": "28381605127",
       "type": "CreateEvent",
@@ -2412,262 +2718,6 @@
       "date": "2026-11-26T16:18:03.000Z",
       "summary": "yuchen0x1 pullrequest yuchen0x1/yuchen0x1.github.io",
       "url": "https://github.com/yuchen0x1/yuchen0x1.github.io"
-    },
-    {
-      "id": "21402144520",
-      "type": "ReleaseEvent",
-      "repo": "yuchen0x1/github-project-health-inspector",
-      "date": "2026-11-26T16:16:56.000Z",
-      "summary": "yuchen0x1 release yuchen0x1/github-project-health-inspector",
-      "url": "https://github.com/yuchen0x1/github-project-health-inspector"
-    },
-    {
-      "id": "21402013034",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/yuchen0x1",
-      "date": "2026-11-26T16:15:38.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/yuchen0x1",
-      "url": "https://github.com/yuchen0x1/yuchen0x1"
-    },
-    {
-      "id": "21401747744",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/yuchen0x1",
-      "date": "2026-11-26T16:13:03.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/yuchen0x1",
-      "url": "https://github.com/yuchen0x1/yuchen0x1"
-    },
-    {
-      "id": "21401738703",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/Internet-Speed-Test",
-      "date": "2026-11-26T16:12:58.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/Internet-Speed-Test",
-      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
-    },
-    {
-      "id": "28334438294",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-25T13:17:04.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28333301029",
-      "type": "DeleteEvent",
-      "repo": "yuchen0x1/aa-browser",
-      "date": "2026-11-25T08:05:42.000Z",
-      "summary": "yuchen0x1 delete yuchen0x1/aa-browser",
-      "url": "https://github.com/yuchen0x1/aa-browser"
-    },
-    {
-      "id": "28333133676",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-25T06:56:11.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28332778329",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/Internet-Speed-Test",
-      "date": "2026-11-25T13:02:17.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
-      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
-    },
-    {
-      "id": "28332660831",
-      "type": "DeleteEvent",
-      "repo": "yuchen0x1/Short-Video-Analysis",
-      "date": "2026-11-25T13:01:14.000Z",
-      "summary": "yuchen0x1 delete yuchen0x1/Short-Video-Analysis",
-      "url": "https://github.com/yuchen0x1/Short-Video-Analysis"
-    },
-    {
-      "id": "21396938724",
-      "type": "ReleaseEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-26T15:22:19.000Z",
-      "summary": "yuchen0x1 release yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28328388029",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/Internet-Speed-Test",
-      "date": "2026-11-25T06:11:31.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
-      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
-    },
-    {
-      "id": "28326809271",
-      "type": "DeleteEvent",
-      "repo": "yuchen0x1/aa-browser",
-      "date": "2026-11-25T08:05:43.000Z",
-      "summary": "yuchen0x1 delete yuchen0x1/aa-browser",
-      "url": "https://github.com/yuchen0x1/aa-browser"
-    },
-    {
-      "id": "21388245241",
-      "type": "ReleaseEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-26T13:53:32.000Z",
-      "summary": "yuchen0x1 release yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "21387595238",
-      "type": "IssueCommentEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:46:39.000Z",
-      "summary": "yuchen0x1 issuecomment yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "21386551172",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:35:41.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "21386547060",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:35:30.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "21386544646",
-      "type": "IssueCommentEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:35:38.000Z",
-      "summary": "yuchen0x1 issuecomment yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "28324686501",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/apkstart",
-      "date": "2026-11-25T06:33:59.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/apkstart",
-      "url": "https://github.com/yuchen0x1/apkstart"
-    },
-    {
-      "id": "28324502691",
-      "type": "CreateEvent",
-      "repo": "yuchen0x1/Short-Video-Analysis",
-      "date": "2026-11-25T06:31:49.000Z",
-      "summary": "yuchen0x1 create yuchen0x1/Short-Video-Analysis",
-      "url": "https://github.com/yuchen0x1/Short-Video-Analysis"
-    },
-    {
-      "id": "28324027974",
-      "type": "DeleteEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-25T05:26:08.000Z",
-      "summary": "yuchen0x1 delete yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28323495608",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/Base64-encode-encoding",
-      "date": "2026-11-25T05:20:35.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/Base64-encode-encoding",
-      "url": "https://github.com/yuchen0x1/Base64-encode-encoding"
-    },
-    {
-      "id": "21384443664",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:13:33.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "21384338918",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-23T08:47:41.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "21384335893",
-      "type": "IssueCommentEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:12:30.000Z",
-      "summary": "yuchen0x1 issuecomment yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "28322547452",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/AI-QQ-Bot",
-      "date": "2026-11-26T09:15:56.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/AI-QQ-Bot",
-      "url": "https://github.com/yuchen0x1/AI-QQ-Bot"
-    },
-    {
-      "id": "21383171743",
-      "type": "PullRequestEvent",
-      "repo": "yuchen0x1/sub3api-relay",
-      "date": "2026-11-26T13:00:13.000Z",
-      "summary": "yuchen0x1 pullrequest yuchen0x1/sub3api-relay",
-      "url": "https://github.com/yuchen0x1/sub3api-relay"
-    },
-    {
-      "id": "28322382765",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/Internet-Speed-Test",
-      "date": "2026-11-25T05:08:34.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/Internet-Speed-Test",
-      "url": "https://github.com/yuchen0x1/Internet-Speed-Test"
-    },
-    {
-      "id": "28322361862",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/apkstart",
-      "date": "2026-11-25T15:37:29.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/apkstart",
-      "url": "https://github.com/yuchen0x1/apkstart"
-    },
-    {
-      "id": "28321619950",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-24T18:10:29.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28320403478",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-25T05:43:47.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28319576582",
-      "type": "PushEvent",
-      "repo": "yuchen0x1/HongGuo-PC",
-      "date": "2026-11-25T05:37:43.000Z",
-      "summary": "yuchen0x1 push yuchen0x1/HongGuo-PC",
-      "url": "https://github.com/yuchen0x1/HongGuo-PC"
-    },
-    {
-      "id": "28318870528",
-      "type": "DeleteEvent",
-      "repo": "yuchen0x1/apkstart",
-      "date": "2026-11-25T05:23:44.000Z",
-      "summary": "yuchen0x1 delete yuchen0x1/apkstart",
-      "url": "https://github.com/yuchen0x1/apkstart"
     }
   ],
   "coverage": {
@@ -2675,14 +2725,14 @@
     "details": [],
     "failed": [],
     "retained": [],
-    "eventStart": "2026-11-25T05:23:44.000Z",
-    "eventEnd": "2026-11-25T04:17:01.000Z"
+    "eventStart": "2026-11-26T16:18:03.000Z",
+    "eventEnd": "2026-11-25T17:59:40.000Z"
   },
   "rateLimit": {
-    "remaining": 4929,
+    "remaining": 4926,
     "limit": 5000,
-    "resetAt": "2026-11-27T05:14:12.000Z",
-    "observedAt": "2026-11-27T04:14:12.600Z",
+    "resetAt": "2026-11-27T14:51:40.000Z",
+    "observedAt": "2026-11-27T13:51:52.063Z",
     "source": "github-authenticated"
   }
 }
